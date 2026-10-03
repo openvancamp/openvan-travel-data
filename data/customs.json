@@ -1,0 +1,159 @@
+{
+ "blocs": {
+  "EAEU": {
+   "members": [
+    "RU",
+    "KZ",
+    "BY",
+    "AM",
+    "KG"
+   ],
+   "name": "Eurasian Economic Union"
+  },
+  "EU": {
+   "members": [
+    "AT",
+    "BE",
+    "BG",
+    "HR",
+    "CY",
+    "CZ",
+    "DK",
+    "EE",
+    "FI",
+    "FR",
+    "DE",
+    "GR",
+    "HU",
+    "IE",
+    "IT",
+    "LV",
+    "LT",
+    "LU",
+    "MT",
+    "NL",
+    "PL",
+    "PT",
+    "RO",
+    "SK",
+    "SI",
+    "ES",
+    "SE"
+   ],
+   "name": "European Union"
+  }
+ },
+ "built": "2026-10-02",
+ "jurisdictions": [
+  {
+   "code": "EU",
+   "topics": [
+    "food",
+    "food_penalty",
+    "cash",
+    "alcohol",
+    "tobacco",
+    "value",
+    "fuel"
+   ]
+  },
+  {
+   "code": "EAEU",
+   "topics": [
+    "cash",
+    "alcohol",
+    "tobacco",
+    "medicines"
+   ]
+  },
+  {
+   "code": "TR",
+   "topics": [
+    "alcohol",
+    "medicines"
+   ]
+  },
+  {
+   "code": "GE",
+   "topics": [
+    "cash",
+    "alcohol",
+    "tobacco"
+   ]
+  },
+  {
+   "code": "UZ",
+   "topics": [
+    "cash",
+    "medicines"
+   ]
+  },
+  {
+   "code": "GB",
+   "topics": [
+    "cash",
+    "alcohol",
+    "tobacco",
+    "value",
+    "food",
+    "other"
+   ]
+  },
+  {
+   "code": "NO",
+   "topics": [
+    "cash",
+    "alcohol",
+    "tobacco",
+    "value",
+    "food"
+   ]
+  },
+  {
+   "code": "CH",
+   "topics": [
+    "cash",
+    "fuel",
+    "value",
+    "food"
+   ]
+  },
+  {
+   "code": "RS",
+   "topics": [
+    "cash",
+    "tobacco",
+    "alcohol",
+    "fuel"
+   ]
+  },
+  {
+   "code": "AL",
+   "topics": [
+    "cash",
+    "tobacco",
+    "alcohol",
+    "value"
+   ]
+  },
+  {
+   "code": "BA",
+   "topics": [
+    "cash",
+    "tobacco",
+    "alcohol",
+    "value",
+    "food"
+   ]
+  },
+  {
+   "code": "ME",
+   "topics": [
+    "cash",
+    "tobacco",
+    "alcohol",
+    "value"
+   ]
+  }
+ ]
+}

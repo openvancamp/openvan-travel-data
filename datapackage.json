@@ -1,0 +1,54 @@
+{
+  "name": "openvan-travel-data",
+  "title": "OpenVan.camp travel data — daily snapshots",
+  "description": "Daily snapshots of the OpenVan.camp public API: retail fuel prices in 170+ countries, EUR exchange rates, food cost index, vanlife weather scores, plus reference data on toll roads, power plugs, holidays, customs, license plates and passport ranking.",
+  "homepage": "https://github.com/openvancamp/openvan-travel-data",
+  "licenses": [{ "name": "CC-BY-4.0", "path": "https://creativecommons.org/licenses/by/4.0/", "title": "Creative Commons Attribution 4.0" }],
+  "sources": [{ "title": "OpenVan.camp public API", "path": "https://openvan.camp/docs" }],
+  "keywords": ["fuel prices", "gas prices", "diesel", "exchange rates", "cost of living", "weather", "travel", "vanlife", "rv", "open data"],
+  "resources": [
+    {
+      "name": "fuel-prices",
+      "path": "data/fuel-prices.csv",
+      "format": "csv",
+      "description": "Current retail fuel price per country and grade, in local currency and local unit (liter, US gallon or imperial gallon).",
+      "schema": { "fields": [
+        { "name": "country_code", "type": "string", "description": "ISO 3166-1 alpha-2" },
+        { "name": "grade", "type": "string", "description": "gasoline, gasoline_premium, diesel, diesel_premium, lpg, cng, e85, …" },
+        { "name": "country_name", "type": "string" },
+        { "name": "price", "type": "number" },
+        { "name": "currency", "type": "string", "description": "ISO 4217 currency of this grade (can differ from the country currency)" },
+        { "name": "unit", "type": "string", "description": "liter, gallon or imperial_gallon" },
+        { "name": "fetched_at", "type": "datetime" }
+      ] }
+    },
+    {
+      "name": "fuel-prices-history",
+      "path": "history/fuel-prices-2026.csv",
+      "format": "csv",
+      "description": "Daily rows of fuel-prices, one file per year (history/fuel-prices-YYYY.csv), with a leading date column."
+    },
+    {
+      "name": "currency-rates",
+      "path": "data/currency-rates.csv",
+      "format": "csv",
+      "description": "Units of each currency per 1 EUR.",
+      "schema": { "fields": [
+        { "name": "currency", "type": "string" },
+        { "name": "per_eur", "type": "number" }
+      ] }
+    },
+    {
+      "name": "vanbasket",
+      "path": "data/vanbasket.csv",
+      "format": "csv",
+      "description": "Food cost index by country, world average = 100 (World Bank ICP 2021 baseline)."
+    },
+    {
+      "name": "vansky-weather",
+      "path": "data/vansky-weather.csv",
+      "format": "csv",
+      "description": "Vanlife weather suitability by country: van_score 0–100 and sleep / drive / solar / sea sub-scores."
+    }
+  ]
+}

@@ -1,0 +1,2192 @@
+{
+ "count": 212,
+ "countries": [
+  {
+   "country_code": "AD",
+   "name": "Andorra",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "AG",
+   "name": "Antigua and Barbuda",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "AI",
+   "name": "Anguilla",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "AL",
+   "name": "Albania",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "AM",
+   "name": "Armenia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "AO",
+   "name": "Angola",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "AR",
+   "name": "Argentina",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "AT",
+   "name": "Austria",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "AU",
+   "name": "Australia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "AW",
+   "name": "Aruba",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "AX",
+   "name": "Aland Islands",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BA",
+   "name": "Bih",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BB",
+   "name": "Barbados",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BD",
+   "name": "Bangladesh",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BE",
+   "name": "Belgium",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BF",
+   "name": "Burkina Faso",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BG",
+   "name": "Bulgaria",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BH",
+   "name": "Bahrain",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BI",
+   "name": "Burundi",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BJ",
+   "name": "Benin",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BL",
+   "name": "Saint Barthelemy",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BM",
+   "name": "Bermuda",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BO",
+   "name": "Bolivia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BQ",
+   "name": "Caribbean Netherlands",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BR",
+   "name": "Brazil",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BS",
+   "name": "Bahamas",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BW",
+   "name": "Botswana",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BY",
+   "name": "Belarus",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "BZ",
+   "name": "Belize",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CA",
+   "name": "Canada",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CC",
+   "name": "CC",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CD",
+   "name": "DR Congo",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CF",
+   "name": "Central African Republic",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CG",
+   "name": "Congo",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CH",
+   "name": "Switzerland",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CI",
+   "name": "Ivory Coast",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CK",
+   "name": "Cook Islands",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CL",
+   "name": "Chile",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CM",
+   "name": "Cameroon",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CN",
+   "name": "China",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CO",
+   "name": "Colombia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CR",
+   "name": "Costa Rica",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CU",
+   "name": "Cuba",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CV",
+   "name": "Cape Verde",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CW",
+   "name": "Curacao",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CX",
+   "name": "CX",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CY",
+   "name": "Cyprus",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "CZ",
+   "name": "Czech Republic",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "DE",
+   "name": "Germany",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "DJ",
+   "name": "Djibouti",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "DK",
+   "name": "Denmark",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "DM",
+   "name": "Dominica",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "DO",
+   "name": "Dominican Republic",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "DZ",
+   "name": "Algeria",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "EC",
+   "name": "Ecuador",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "EE",
+   "name": "Estonia",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "EG",
+   "name": "Egypt",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "ER",
+   "name": "Eritrea",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "ES",
+   "name": "Spain",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "ET",
+   "name": "Ethiopia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "FI",
+   "name": "Finland",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "FK",
+   "name": "Falkland Islands",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "FM",
+   "name": "Micronesia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "FO",
+   "name": "Faroe Islands",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "FR",
+   "name": "France",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays",
+    "bisonfute"
+   ],
+   "traffic": true
+  },
+  {
+   "country_code": "GA",
+   "name": "Gabon",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GB",
+   "name": "United Kingdom",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GD",
+   "name": "Grenada",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GE",
+   "name": "Georgia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GF",
+   "name": "French Guiana",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GG",
+   "name": "Guernsey",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GH",
+   "name": "Ghana",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GI",
+   "name": "Gibraltar",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GL",
+   "name": "Greenland",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GM",
+   "name": "Gambia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GN",
+   "name": "Guinea",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GP",
+   "name": "Guadeloupe",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GQ",
+   "name": "Equatorial Guinea",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GR",
+   "name": "Greece",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GT",
+   "name": "Guatemala",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GW",
+   "name": "Guinea-Bissau",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "GY",
+   "name": "Guyana",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "HK",
+   "name": "Hong Kong",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "HN",
+   "name": "Honduras",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "HR",
+   "name": "Croatia",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "HT",
+   "name": "Haiti",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "HU",
+   "name": "Hungary",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "ID",
+   "name": "Indonesia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "IE",
+   "name": "Ireland",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "IM",
+   "name": "Isle of Man",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "IQ",
+   "name": "Iraq",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "IS",
+   "name": "Iceland",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "IT",
+   "name": "Italy",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "JE",
+   "name": "Jersey",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "JM",
+   "name": "Jamaica",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "JP",
+   "name": "Japan",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "KE",
+   "name": "Kenya",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "KG",
+   "name": "Kyrgyzstan",
+   "public": true,
+   "school": false,
+   "sources": [
+    "curated"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "KH",
+   "name": "Cambodia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "KI",
+   "name": "Kiribati",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "KM",
+   "name": "Comoros",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "KN",
+   "name": "Saint Kitts and Nevis",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "KR",
+   "name": "South Korea",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "KY",
+   "name": "Cayman Islands",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "KZ",
+   "name": "Kazakhstan",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "LC",
+   "name": "Saint Lucia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "LI",
+   "name": "Liechtenstein",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "LR",
+   "name": "Liberia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "LS",
+   "name": "Lesotho",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "LT",
+   "name": "Lithuania",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "LU",
+   "name": "Luxembourg",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "LV",
+   "name": "Latvia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "LY",
+   "name": "Libya",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MA",
+   "name": "Morocco",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MC",
+   "name": "Monaco",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MD",
+   "name": "Moldova",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "ME",
+   "name": "Montenegro",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MF",
+   "name": "Saint Martin",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MG",
+   "name": "Madagascar",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MH",
+   "name": "Marshall Islands",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MK",
+   "name": "North Macedonia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "ML",
+   "name": "Mali",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MM",
+   "name": "Myanmar",
+   "public": true,
+   "school": false,
+   "sources": [
+    "curated"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MN",
+   "name": "Mongolia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MP",
+   "name": "Northern Mariana Islands",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MQ",
+   "name": "Martinique",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MR",
+   "name": "Mauritania",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MS",
+   "name": "Montserrat",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MT",
+   "name": "Malta",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MW",
+   "name": "Malawi",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MX",
+   "name": "Mexico",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "MZ",
+   "name": "Mozambique",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "NA",
+   "name": "Namibia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "NC",
+   "name": "New Caledonia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "NE",
+   "name": "Niger",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "NF",
+   "name": "Norfolk Island",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "NG",
+   "name": "Nigeria",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "NI",
+   "name": "Nicaragua",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "NL",
+   "name": "Netherlands",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "NO",
+   "name": "Norway",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "NR",
+   "name": "Nauru",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "NU",
+   "name": "Niue",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "NZ",
+   "name": "New Zealand",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "PA",
+   "name": "Panama",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "PE",
+   "name": "Peru",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "PF",
+   "name": "French Polynesia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "PG",
+   "name": "Papua New Guinea",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "PH",
+   "name": "Philippines",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "PL",
+   "name": "Poland",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "PM",
+   "name": "Saint Pierre and Miquelon",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "PN",
+   "name": "Pitcairn Islands",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "PR",
+   "name": "Puerto Rico",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "PT",
+   "name": "Portugal",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "PW",
+   "name": "Palau",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "PY",
+   "name": "Paraguay",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "RO",
+   "name": "Romania",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "RS",
+   "name": "Serbia",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "RU",
+   "name": "Russia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "RW",
+   "name": "Rwanda",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SB",
+   "name": "Solomon Islands",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SC",
+   "name": "Seychelles",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SD",
+   "name": "Sudan",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SE",
+   "name": "Sweden",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SG",
+   "name": "Singapore",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SH",
+   "name": "Saint Helena",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SI",
+   "name": "Slovenia",
+   "public": true,
+   "school": true,
+   "sources": [
+    "nager",
+    "openholidays"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SJ",
+   "name": "Svalbard and Jan Mayen",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SK",
+   "name": "Slovakia",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SL",
+   "name": "Sierra Leone",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SM",
+   "name": "San Marino",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SN",
+   "name": "Senegal",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SO",
+   "name": "Somalia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SR",
+   "name": "Suriname",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SS",
+   "name": "South Sudan",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "ST",
+   "name": "Sao Tome and Principe",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SV",
+   "name": "El Salvador",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SX",
+   "name": "Sint Maarten",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SY",
+   "name": "Syria",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "SZ",
+   "name": "Eswatini",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "TC",
+   "name": "Turks and Caicos Islands",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "TD",
+   "name": "Chad",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "TG",
+   "name": "Togo",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "TH",
+   "name": "Thailand",
+   "public": true,
+   "school": false,
+   "sources": [
+    "curated"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "TJ",
+   "name": "Tajikistan",
+   "public": true,
+   "school": false,
+   "sources": [
+    "curated"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "TK",
+   "name": "Tokelau",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "TM",
+   "name": "Turkmenistan",
+   "public": true,
+   "school": false,
+   "sources": [
+    "curated"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "TN",
+   "name": "Tunisia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "TO",
+   "name": "Tonga",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "TR",
+   "name": "Turkey",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "TT",
+   "name": "Trinidad and Tobago",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "TV",
+   "name": "Tuvalu",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "TZ",
+   "name": "Tanzania",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "UA",
+   "name": "Ukraine",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "UG",
+   "name": "Uganda",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "US",
+   "name": "United States",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "UY",
+   "name": "Uruguay",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "UZ",
+   "name": "Uzbekistan",
+   "public": true,
+   "school": false,
+   "sources": [
+    "curated"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "VA",
+   "name": "Vatican City",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "VC",
+   "name": "Saint Vincent and the Grenadines",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "VE",
+   "name": "Venezuela",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "VG",
+   "name": "British Virgin Islands",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "VI",
+   "name": "US Virgin Islands",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "VN",
+   "name": "Vietnam",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "VU",
+   "name": "Vanuatu",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "WF",
+   "name": "Wallis and Futuna",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "WS",
+   "name": "Samoa",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "XK",
+   "name": "Kosovo",
+   "public": true,
+   "school": false,
+   "sources": [
+    "curated"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "XN",
+   "name": "Turkish Republic of Northern Cyprus",
+   "public": true,
+   "school": false,
+   "sources": [
+    "curated"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "YE",
+   "name": "Yemen",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "ZA",
+   "name": "South Africa",
+   "public": true,
+   "school": true,
+   "sources": [
+    "openholidays",
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "ZM",
+   "name": "Zambia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  },
+  {
+   "country_code": "ZW",
+   "name": "Zimbabwe",
+   "public": true,
+   "school": false,
+   "sources": [
+    "nager"
+   ],
+   "traffic": false
+  }
+ ],
+ "kinds": [
+  "public",
+  "school",
+  "traffic"
+ ],
+ "upstream": [
+  {
+   "kinds": [
+    "public"
+   ],
+   "license": "MIT",
+   "name": "Nager.Date",
+   "source": "nager",
+   "url": "https://date.nager.at/"
+  },
+  {
+   "kinds": [
+    "school"
+   ],
+   "license": "ODbL-1.0",
+   "name": "OpenHolidays API",
+   "source": "openholidays",
+   "url": "https://www.openholidaysapi.org/"
+  },
+  {
+   "kinds": [
+    "traffic"
+   ],
+   "license": null,
+   "name": "Bison Futé (French Ministry of Transport)",
+   "source": "bisonfute",
+   "url": "https://www.bison-fute.gouv.fr/"
+  }
+ ]
+}

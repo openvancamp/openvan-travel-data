@@ -1,0 +1,841 @@
+{
+ "data": {
+  "AE": {
+   "country_code": "AE",
+   "country_name": "UAE",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 38.4,
+   "region": "middle_east",
+   "vanbasket_index": 138.4
+  },
+  "AL": {
+   "country_code": "AL",
+   "country_name": "Albania",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -3.1,
+   "region": "europe",
+   "vanbasket_index": 96.9
+  },
+  "AM": {
+   "country_code": "AM",
+   "country_name": "Armenia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -22,
+   "region": "asia",
+   "vanbasket_index": 78
+  },
+  "AR": {
+   "country_code": "AR",
+   "country_name": "Argentina",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -30,
+   "region": "americas",
+   "vanbasket_index": 70
+  },
+  "AT": {
+   "country_code": "AT",
+   "country_name": "Austria",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 28.4,
+   "region": "europe",
+   "vanbasket_index": 128.4
+  },
+  "AU": {
+   "country_code": "AU",
+   "country_name": "Australia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 48.5,
+   "region": "oceania",
+   "vanbasket_index": 148.5
+  },
+  "AZ": {
+   "country_code": "AZ",
+   "country_name": "Azerbaijan",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -17,
+   "region": "asia",
+   "vanbasket_index": 83
+  },
+  "BA": {
+   "country_code": "BA",
+   "country_name": "Bih",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -8,
+   "region": "europe",
+   "vanbasket_index": 92
+  },
+  "BD": {
+   "country_code": "BD",
+   "country_name": "Bangladesh",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -35,
+   "region": "asia",
+   "vanbasket_index": 65
+  },
+  "BE": {
+   "country_code": "BE",
+   "country_name": "Belgium",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 24.8,
+   "region": "europe",
+   "vanbasket_index": 124.8
+  },
+  "BG": {
+   "country_code": "BG",
+   "country_name": "Bulgaria",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -7.6,
+   "region": "europe",
+   "vanbasket_index": 92.4
+  },
+  "BR": {
+   "country_code": "BR",
+   "country_name": "Brazil",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -22,
+   "region": "americas",
+   "vanbasket_index": 78
+  },
+  "BY": {
+   "country_code": "BY",
+   "country_name": "Belarus",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -20,
+   "region": "europe",
+   "vanbasket_index": 80
+  },
+  "CA": {
+   "country_code": "CA",
+   "country_name": "Canada",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 52,
+   "region": "americas",
+   "vanbasket_index": 152
+  },
+  "CH": {
+   "country_code": "CH",
+   "country_name": "Switzerland",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 99.2,
+   "region": "europe",
+   "vanbasket_index": 199.2
+  },
+  "CL": {
+   "country_code": "CL",
+   "country_name": "Chile",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -8,
+   "region": "americas",
+   "vanbasket_index": 92
+  },
+  "CN": {
+   "country_code": "CN",
+   "country_name": "China",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 30.4,
+   "region": "asia",
+   "vanbasket_index": 130.4
+  },
+  "CO": {
+   "country_code": "CO",
+   "country_name": "Colombia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -28,
+   "region": "americas",
+   "vanbasket_index": 72
+  },
+  "CR": {
+   "country_code": "CR",
+   "country_name": "Costa Rica",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -5,
+   "region": "americas",
+   "vanbasket_index": 95
+  },
+  "CY": {
+   "country_code": "CY",
+   "country_name": "Cyprus",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 18,
+   "region": "europe",
+   "vanbasket_index": 118
+  },
+  "CZ": {
+   "country_code": "CZ",
+   "country_name": "Czech Republic",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 5.4,
+   "region": "europe",
+   "vanbasket_index": 105.4
+  },
+  "DE": {
+   "country_code": "DE",
+   "country_name": "Germany",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 24.9,
+   "region": "europe",
+   "vanbasket_index": 124.9
+  },
+  "DK": {
+   "country_code": "DK",
+   "country_name": "Denmark",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 40.2,
+   "region": "europe",
+   "vanbasket_index": 140.2
+  },
+  "EG": {
+   "country_code": "EG",
+   "country_name": "Egypt",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -35,
+   "region": "middle_east",
+   "vanbasket_index": 65
+  },
+  "ES": {
+   "country_code": "ES",
+   "country_name": "Spain",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 15.5,
+   "region": "europe",
+   "vanbasket_index": 115.5
+  },
+  "FI": {
+   "country_code": "FI",
+   "country_name": "Finland",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 33,
+   "region": "europe",
+   "vanbasket_index": 133
+  },
+  "FR": {
+   "country_code": "FR",
+   "country_name": "France",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 32.1,
+   "region": "europe",
+   "vanbasket_index": 132.1
+  },
+  "GE": {
+   "country_code": "GE",
+   "country_name": "Georgia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -25,
+   "region": "asia",
+   "vanbasket_index": 75
+  },
+  "GH": {
+   "country_code": "GH",
+   "country_name": "Ghana",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -18,
+   "region": "africa",
+   "vanbasket_index": 82
+  },
+  "GR": {
+   "country_code": "GR",
+   "country_name": "Greece",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 16,
+   "region": "europe",
+   "vanbasket_index": 116
+  },
+  "HR": {
+   "country_code": "HR",
+   "country_name": "Croatia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 12,
+   "region": "europe",
+   "vanbasket_index": 112
+  },
+  "HU": {
+   "country_code": "HU",
+   "country_name": "Hungary",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 1,
+   "region": "europe",
+   "vanbasket_index": 101
+  },
+  "ID": {
+   "country_code": "ID",
+   "country_name": "Indonesia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -10.5,
+   "region": "asia",
+   "vanbasket_index": 89.5
+  },
+  "IE": {
+   "country_code": "IE",
+   "country_name": "Ireland",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 30,
+   "region": "europe",
+   "vanbasket_index": 130
+  },
+  "IL": {
+   "country_code": "IL",
+   "country_name": "Israel",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 88.7,
+   "region": "middle_east",
+   "vanbasket_index": 188.7
+  },
+  "IN": {
+   "country_code": "IN",
+   "country_name": "India",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -41.8,
+   "region": "asia",
+   "vanbasket_index": 58.2
+  },
+  "IS": {
+   "country_code": "IS",
+   "country_name": "Iceland",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 65,
+   "region": "europe",
+   "vanbasket_index": 165
+  },
+  "IT": {
+   "country_code": "IT",
+   "country_name": "Italy",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 28.8,
+   "region": "europe",
+   "vanbasket_index": 128.8
+  },
+  "JO": {
+   "country_code": "JO",
+   "country_name": "Jordan",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 10,
+   "region": "middle_east",
+   "vanbasket_index": 110
+  },
+  "JP": {
+   "country_code": "JP",
+   "country_name": "Japan",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 99.5,
+   "region": "asia",
+   "vanbasket_index": 199.5
+  },
+  "KE": {
+   "country_code": "KE",
+   "country_name": "Kenya",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -22,
+   "region": "africa",
+   "vanbasket_index": 78
+  },
+  "KG": {
+   "country_code": "KG",
+   "country_name": "Kyrgyzstan",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -35,
+   "region": "asia",
+   "vanbasket_index": 65
+  },
+  "KH": {
+   "country_code": "KH",
+   "country_name": "Cambodia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -10.4,
+   "region": "asia",
+   "vanbasket_index": 89.6
+  },
+  "KR": {
+   "country_code": "KR",
+   "country_name": "South Korea",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 108.8,
+   "region": "asia",
+   "vanbasket_index": 208.8
+  },
+  "KZ": {
+   "country_code": "KZ",
+   "country_name": "Kazakhstan",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -24,
+   "region": "asia",
+   "vanbasket_index": 76
+  },
+  "LA": {
+   "country_code": "LA",
+   "country_name": "Laos",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -18,
+   "region": "asia",
+   "vanbasket_index": 82
+  },
+  "LB": {
+   "country_code": "LB",
+   "country_name": "Lebanon",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -5,
+   "region": "middle_east",
+   "vanbasket_index": 95
+  },
+  "LK": {
+   "country_code": "LK",
+   "country_name": "Sri Lanka",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -32,
+   "region": "asia",
+   "vanbasket_index": 68
+  },
+  "LU": {
+   "country_code": "LU",
+   "country_name": "Luxembourg",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 28.5,
+   "region": "europe",
+   "vanbasket_index": 128.5
+  },
+  "MA": {
+   "country_code": "MA",
+   "country_name": "Morocco",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -7.4,
+   "region": "africa",
+   "vanbasket_index": 92.6
+  },
+  "MD": {
+   "country_code": "MD",
+   "country_name": "Moldova",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -28,
+   "region": "europe",
+   "vanbasket_index": 72
+  },
+  "ME": {
+   "country_code": "ME",
+   "country_name": "Montenegro",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -5,
+   "region": "europe",
+   "vanbasket_index": 95
+  },
+  "MK": {
+   "country_code": "MK",
+   "country_name": "North Macedonia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -15,
+   "region": "europe",
+   "vanbasket_index": 85
+  },
+  "MM": {
+   "country_code": "MM",
+   "country_name": "Myanmar",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -37,
+   "region": "asia",
+   "vanbasket_index": 63
+  },
+  "MN": {
+   "country_code": "MN",
+   "country_name": "Mongolia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -22,
+   "region": "asia",
+   "vanbasket_index": 78
+  },
+  "MT": {
+   "country_code": "MT",
+   "country_name": "Malta",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 15,
+   "region": "europe",
+   "vanbasket_index": 115
+  },
+  "MX": {
+   "country_code": "MX",
+   "country_name": "Mexico",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -12,
+   "region": "americas",
+   "vanbasket_index": 88
+  },
+  "MY": {
+   "country_code": "MY",
+   "country_name": "Malaysia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -10,
+   "region": "asia",
+   "vanbasket_index": 90
+  },
+  "NA": {
+   "country_code": "NA",
+   "country_name": "Namibia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -20,
+   "region": "africa",
+   "vanbasket_index": 80
+  },
+  "NL": {
+   "country_code": "NL",
+   "country_name": "Netherlands",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 14,
+   "region": "europe",
+   "vanbasket_index": 114
+  },
+  "NO": {
+   "country_code": "NO",
+   "country_name": "Norway",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 77.2,
+   "region": "europe",
+   "vanbasket_index": 177.2
+  },
+  "NP": {
+   "country_code": "NP",
+   "country_name": "Nepal",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -39,
+   "region": "asia",
+   "vanbasket_index": 61
+  },
+  "NZ": {
+   "country_code": "NZ",
+   "country_name": "New Zealand",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 42.5,
+   "region": "oceania",
+   "vanbasket_index": 142.5
+  },
+  "OM": {
+   "country_code": "OM",
+   "country_name": "Oman",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 20,
+   "region": "middle_east",
+   "vanbasket_index": 120
+  },
+  "PA": {
+   "country_code": "PA",
+   "country_name": "Panama",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -12,
+   "region": "americas",
+   "vanbasket_index": 88
+  },
+  "PE": {
+   "country_code": "PE",
+   "country_name": "Peru",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -25,
+   "region": "americas",
+   "vanbasket_index": 75
+  },
+  "PH": {
+   "country_code": "PH",
+   "country_name": "Philippines",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -6.8,
+   "region": "asia",
+   "vanbasket_index": 93.2
+  },
+  "PK": {
+   "country_code": "PK",
+   "country_name": "Pakistan",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -31,
+   "region": "asia",
+   "vanbasket_index": 69
+  },
+  "PL": {
+   "country_code": "PL",
+   "country_name": "Poland",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -4,
+   "region": "europe",
+   "vanbasket_index": 96
+  },
+  "PT": {
+   "country_code": "PT",
+   "country_name": "Portugal",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 17.8,
+   "region": "europe",
+   "vanbasket_index": 117.8
+  },
+  "QA": {
+   "country_code": "QA",
+   "country_name": "Qatar",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 27.9,
+   "region": "middle_east",
+   "vanbasket_index": 127.9
+  },
+  "RO": {
+   "country_code": "RO",
+   "country_name": "Romania",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -12,
+   "region": "europe",
+   "vanbasket_index": 88
+  },
+  "RS": {
+   "country_code": "RS",
+   "country_name": "Serbia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -0.5,
+   "region": "europe",
+   "vanbasket_index": 99.5
+  },
+  "RU": {
+   "country_code": "RU",
+   "country_name": "Russia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -18,
+   "region": "europe",
+   "vanbasket_index": 82
+  },
+  "SA": {
+   "country_code": "SA",
+   "country_name": "Saudi Arabia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 30.2,
+   "region": "middle_east",
+   "vanbasket_index": 130.2
+  },
+  "SE": {
+   "country_code": "SE",
+   "country_name": "Sweden",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 38.3,
+   "region": "europe",
+   "vanbasket_index": 138.3
+  },
+  "SG": {
+   "country_code": "SG",
+   "country_name": "Singapore",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 30.8,
+   "region": "asia",
+   "vanbasket_index": 130.8
+  },
+  "SI": {
+   "country_code": "SI",
+   "country_name": "Slovenia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 12.5,
+   "region": "europe",
+   "vanbasket_index": 112.5
+  },
+  "SK": {
+   "country_code": "SK",
+   "country_name": "Slovakia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 4,
+   "region": "europe",
+   "vanbasket_index": 104
+  },
+  "SN": {
+   "country_code": "SN",
+   "country_name": "Senegal",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -15,
+   "region": "africa",
+   "vanbasket_index": 85
+  },
+  "TH": {
+   "country_code": "TH",
+   "country_name": "Thailand",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -17,
+   "region": "asia",
+   "vanbasket_index": 83
+  },
+  "TJ": {
+   "country_code": "TJ",
+   "country_name": "Tajikistan",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -38,
+   "region": "asia",
+   "vanbasket_index": 62
+  },
+  "TN": {
+   "country_code": "TN",
+   "country_name": "Tunisia",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -26,
+   "region": "africa",
+   "vanbasket_index": 74
+  },
+  "TR": {
+   "country_code": "TR",
+   "country_name": "Turkey",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -12,
+   "region": "middle_east",
+   "vanbasket_index": 88
+  },
+  "TW": {
+   "country_code": "TW",
+   "country_name": "Taiwan",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 10,
+   "region": "asia",
+   "vanbasket_index": 110
+  },
+  "TZ": {
+   "country_code": "TZ",
+   "country_name": "Tanzania",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -30,
+   "region": "africa",
+   "vanbasket_index": 70
+  },
+  "UA": {
+   "country_code": "UA",
+   "country_name": "Ukraine",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -30,
+   "region": "europe",
+   "vanbasket_index": 70
+  },
+  "US": {
+   "country_code": "US",
+   "country_name": "United States",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": 17.5,
+   "region": "americas",
+   "vanbasket_index": 117.5
+  },
+  "UY": {
+   "country_code": "UY",
+   "country_name": "Uruguay",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -5,
+   "region": "americas",
+   "vanbasket_index": 95
+  },
+  "UZ": {
+   "country_code": "UZ",
+   "country_name": "Uzbekistan",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -32,
+   "region": "asia",
+   "vanbasket_index": 68
+  },
+  "VN": {
+   "country_code": "VN",
+   "country_name": "Vietnam",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -16,
+   "region": "asia",
+   "vanbasket_index": 84
+  },
+  "ZA": {
+   "country_code": "ZA",
+   "country_name": "South Africa",
+   "data_quality": "official",
+   "last_updated_at": "2026-10-01",
+   "pct_vs_world": -28,
+   "region": "africa",
+   "vanbasket_index": 72
+  }
+ },
+ "meta": {
+  "base_year": 2021,
+  "cache_ttl_hours": 1,
+  "license": "CC BY 4.0",
+  "source": "World Bank ICP 2021",
+  "total_countries": 92,
+  "world_avg": 100
+ },
+ "success": true
+}

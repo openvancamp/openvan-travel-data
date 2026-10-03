@@ -1,0 +1,4378 @@
+{
+ "data": [
+  {
+   "country_code": "AF",
+   "country_name": "Afghanistan",
+   "example": {
+    "formatted": "5 11585 KBL",
+    "image": {
+     "png": "https://openvan.camp/api/plates/af/plate.png?number=5+11585&region=KBL&v=7476f0f0",
+     "svg": "https://openvan.camp/api/plates/af/plate.svg?number=5+11585&region=KBL&v=7476f0f0"
+    },
+    "number": "5 11585",
+    "region": "KBL"
+   },
+   "glyphs_license": "free",
+   "intl_code": "AFG",
+   "region_marking": "mixed",
+   "regions_count": 34,
+   "size_mm": [
+    340,
+    150
+   ],
+   "url": "https://openvan.camp/en/license-plates/afghanistan"
+  },
+  {
+   "country_code": "AL",
+   "country_name": "Albania",
+   "example": {
+    "formatted": "AB 115 XX",
+    "image": {
+     "png": "https://openvan.camp/api/plates/al/plate.png?number=AB+115+XX&v=37d01dbe",
+     "svg": "https://openvan.camp/api/plates/al/plate.svg?number=AB+115+XX&v=37d01dbe"
+    },
+    "number": "AB 115 XX",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "AL",
+   "region_marking": "legacy_only",
+   "regions_count": 36,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/albania"
+  },
+  {
+   "country_code": "DZ",
+   "country_name": "Algeria",
+   "example": {
+    "formatted": "56789 120 34",
+    "image": {
+     "png": "https://openvan.camp/api/plates/dz/plate.png?number=56789+120+34&v=36f2ec92",
+     "svg": "https://openvan.camp/api/plates/dz/plate.svg?number=56789+120+34&v=36f2ec92"
+    },
+    "number": "56789 120 34",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "DZ",
+   "region_marking": "suffix_digits",
+   "regions_count": 58,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/algeria"
+  },
+  {
+   "country_code": "AD",
+   "country_name": "Andorra",
+   "example": {
+    "formatted": "B0944",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ad/plate.png?number=B0944&v=e2196030",
+     "svg": "https://openvan.camp/api/plates/ad/plate.svg?number=B0944&v=e2196030"
+    },
+    "number": "B0944",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "AND",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    440,
+    150
+   ],
+   "url": "https://openvan.camp/en/license-plates/andorra"
+  },
+  {
+   "country_code": "AO",
+   "country_name": "Angola",
+   "example": {
+    "formatted": "LD-38-75-CL",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ao/plate.png?number=LD-38-75-CL&v=7225cb72",
+     "svg": "https://openvan.camp/api/plates/ao/plate.svg?number=LD-38-75-CL&v=7225cb72"
+    },
+    "number": "LD-38-75-CL",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "legacy_only",
+   "regions_count": 5,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/angola"
+  },
+  {
+   "country_code": "AG",
+   "country_name": "Antigua and Barbuda",
+   "example": {
+    "formatted": "A 1587",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ag/plate.png?number=A+1587&v=c378dcb5",
+     "svg": "https://openvan.camp/api/plates/ag/plate.svg?number=A+1587&v=c378dcb5"
+    },
+    "number": "A 1587",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/antigua-and-barbuda"
+  },
+  {
+   "country_code": "AR",
+   "country_name": "Argentina",
+   "example": {
+    "formatted": "AJ 707 RU",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ar/plate.png?number=AJ+707+RU&v=f940e016",
+     "svg": "https://openvan.camp/api/plates/ar/plate.svg?number=AJ+707+RU&v=f940e016"
+    },
+    "number": "AJ 707 RU",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RA",
+   "region_marking": "legacy_only",
+   "regions_count": 24,
+   "size_mm": [
+    400,
+    130
+   ],
+   "url": "https://openvan.camp/en/license-plates/argentina"
+  },
+  {
+   "country_code": "AM",
+   "country_name": "Armenia",
+   "example": {
+    "formatted": "77 LU 555",
+    "image": {
+     "png": "https://openvan.camp/api/plates/am/plate.png?number=77+LU+555&v=92eec684",
+     "svg": "https://openvan.camp/api/plates/am/plate.svg?number=77+LU+555&v=92eec684"
+    },
+    "number": "77 LU 555",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "AM",
+   "region_marking": "prefix_digits",
+   "regions_count": 12,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/armenia"
+  },
+  {
+   "country_code": "AU",
+   "country_name": "Australia",
+   "example": {
+    "formatted": "CB·33·GO NSW",
+    "image": {
+     "png": "https://openvan.camp/api/plates/au/plate.png?number=CB%C2%B733%C2%B7GO&region=NSW&v=55e9e433",
+     "svg": "https://openvan.camp/api/plates/au/plate.svg?number=CB%C2%B733%C2%B7GO&region=NSW&v=55e9e433"
+    },
+    "number": "CB·33·GO",
+    "region": "NSW"
+   },
+   "glyphs_license": "free",
+   "intl_code": "AUS",
+   "region_marking": "text_name",
+   "regions_count": 9,
+   "size_mm": [
+    372,
+    134
+   ],
+   "url": "https://openvan.camp/en/license-plates/australia"
+  },
+  {
+   "country_code": "AT",
+   "country_name": "Austria",
+   "example": {
+    "formatted": "GB 471AP",
+    "image": {
+     "png": "https://openvan.camp/api/plates/at/plate.png?number=GB+471AP&v=04e422a2",
+     "svg": "https://openvan.camp/api/plates/at/plate.svg?number=GB+471AP&v=04e422a2"
+    },
+    "number": "GB 471AP",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "A",
+   "region_marking": "prefix_letters",
+   "regions_count": 106,
+   "size_mm": [
+    520,
+    120
+   ],
+   "url": "https://openvan.camp/en/license-plates/austria"
+  },
+  {
+   "country_code": "AZ",
+   "country_name": "Azerbaijan",
+   "example": {
+    "formatted": "09-BR-763",
+    "image": null,
+    "number": "09-BR-763",
+    "region": ""
+   },
+   "glyphs_license": "restricted",
+   "intl_code": "AZ",
+   "region_marking": "prefix_digits",
+   "regions_count": 74,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/azerbaijan"
+  },
+  {
+   "country_code": "BS",
+   "country_name": "Bahamas",
+   "example": {
+    "formatted": "1521 ABACO",
+    "image": {
+     "png": "https://openvan.camp/api/plates/bs/plate.png?number=1521&region=ABACO&v=ada69d6d",
+     "svg": "https://openvan.camp/api/plates/bs/plate.svg?number=1521&region=ABACO&v=ada69d6d"
+    },
+    "number": "1521",
+    "region": "ABACO"
+   },
+   "glyphs_license": "free",
+   "intl_code": "BS",
+   "region_marking": "text_name",
+   "regions_count": 12,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/bahamas"
+  },
+  {
+   "country_code": "BH",
+   "country_name": "Bahrain",
+   "example": {
+    "formatted": "568",
+    "image": {
+     "png": "https://openvan.camp/api/plates/bh/plate.png?number=568&v=71f740e6",
+     "svg": "https://openvan.camp/api/plates/bh/plate.svg?number=568&v=71f740e6"
+    },
+    "number": "568",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "BRN",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/bahrain"
+  },
+  {
+   "country_code": "BD",
+   "country_name": "Bangladesh",
+   "example": {
+    "formatted": "GA 31-9957 DHAKA METRO",
+    "image": {
+     "png": "https://openvan.camp/api/plates/bd/plate.png?number=GA+31-9957&region=DHAKA+METRO&v=0e11bd04",
+     "svg": "https://openvan.camp/api/plates/bd/plate.svg?number=GA+31-9957&region=DHAKA+METRO&v=0e11bd04"
+    },
+    "number": "GA 31-9957",
+    "region": "DHAKA METRO"
+   },
+   "glyphs_license": "free",
+   "intl_code": "BD",
+   "region_marking": "text_name",
+   "regions_count": 70,
+   "size_mm": [
+    330,
+    165
+   ],
+   "url": "https://openvan.camp/en/license-plates/bangladesh"
+  },
+  {
+   "country_code": "BB",
+   "country_name": "Barbados",
+   "example": {
+    "formatted": "X5706",
+    "image": {
+     "png": "https://openvan.camp/api/plates/bb/plate.png?number=X5706&v=da3eba7c",
+     "svg": "https://openvan.camp/api/plates/bb/plate.svg?number=X5706&v=da3eba7c"
+    },
+    "number": "X5706",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "BDS",
+   "region_marking": "prefix_letters",
+   "regions_count": 11,
+   "size_mm": [
+    520,
+    111
+   ],
+   "url": "https://openvan.camp/en/license-plates/barbados"
+  },
+  {
+   "country_code": "BY",
+   "country_name": "Belarus",
+   "example": {
+    "formatted": "8682 АХ 3",
+    "image": {
+     "png": "https://openvan.camp/api/plates/by/plate.png?number=8682+%D0%90%D0%A5&region=3&v=34246fc9",
+     "svg": "https://openvan.camp/api/plates/by/plate.svg?number=8682+%D0%90%D0%A5&region=3&v=34246fc9"
+    },
+    "number": "8682 АХ",
+    "region": "3"
+   },
+   "glyphs_license": "free",
+   "intl_code": "BY",
+   "region_marking": "separate_field",
+   "regions_count": 7,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/belarus"
+  },
+  {
+   "country_code": "BE",
+   "country_name": "Belgium",
+   "example": {
+    "formatted": "1-ABC-123",
+    "image": {
+     "png": "https://openvan.camp/api/plates/be/plate.png?number=1-ABC-123&v=e1c45f7e",
+     "svg": "https://openvan.camp/api/plates/be/plate.svg?number=1-ABC-123&v=e1c45f7e"
+    },
+    "number": "1-ABC-123",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "B",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/belgium"
+  },
+  {
+   "country_code": "BZ",
+   "country_name": "Belize",
+   "example": {
+    "formatted": "C1942 BMP",
+    "image": {
+     "png": "https://openvan.camp/api/plates/bz/plate.png?number=C1942&region=BMP&v=9d1656b6",
+     "svg": "https://openvan.camp/api/plates/bz/plate.svg?number=C1942&region=BMP&v=9d1656b6"
+    },
+    "number": "C1942",
+    "region": "BMP"
+   },
+   "glyphs_license": "free",
+   "intl_code": "BH",
+   "region_marking": "prefix_letters",
+   "regions_count": 6,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/belize"
+  },
+  {
+   "country_code": "BJ",
+   "country_name": "Benin",
+   "example": {
+    "formatted": "AE 8888",
+    "image": {
+     "png": "https://openvan.camp/api/plates/bj/plate.png?number=AE+8888&v=4e5c9084",
+     "svg": "https://openvan.camp/api/plates/bj/plate.svg?number=AE+8888&v=4e5c9084"
+    },
+    "number": "AE 8888",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "DY",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/benin"
+  },
+  {
+   "country_code": "BT",
+   "country_name": "Bhutan",
+   "example": {
+    "formatted": "BP-2-A7662",
+    "image": {
+     "png": "https://openvan.camp/api/plates/bt/plate.png?number=BP-2-A7662&v=5f9f10a6",
+     "svg": "https://openvan.camp/api/plates/bt/plate.svg?number=BP-2-A7662&v=5f9f10a6"
+    },
+    "number": "BP-2-A7662",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "mixed",
+   "regions_count": 4,
+   "size_mm": [
+    340,
+    125
+   ],
+   "url": "https://openvan.camp/en/license-plates/bhutan"
+  },
+  {
+   "country_code": "BA",
+   "country_name": "Bih",
+   "example": {
+    "formatted": "M48-E-415",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ba/plate.png?number=M48-E-415&v=a2a9f074",
+     "svg": "https://openvan.camp/api/plates/ba/plate.svg?number=M48-E-415&v=a2a9f074"
+    },
+    "number": "M48-E-415",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "BIH",
+   "region_marking": "none",
+   "regions_count": 22,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/bosnia-and-herzegovina"
+  },
+  {
+   "country_code": "BO",
+   "country_name": "Bolivia",
+   "example": {
+    "formatted": "1852PHD L",
+    "image": {
+     "png": "https://openvan.camp/api/plates/bo/plate.png?number=1852PHD&region=L&v=d39d0bb3",
+     "svg": "https://openvan.camp/api/plates/bo/plate.svg?number=1852PHD&region=L&v=d39d0bb3"
+    },
+    "number": "1852PHD",
+    "region": "L"
+   },
+   "glyphs_license": "free",
+   "intl_code": "BOL",
+   "region_marking": "separate_field",
+   "regions_count": 9,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/bolivia"
+  },
+  {
+   "country_code": "BW",
+   "country_name": "Botswana",
+   "example": {
+    "formatted": "B 962 ATH",
+    "image": {
+     "png": "https://openvan.camp/api/plates/bw/plate.png?number=B+962+ATH&v=5aa5c92e",
+     "svg": "https://openvan.camp/api/plates/bw/plate.svg?number=B+962+ATH&v=5aa5c92e"
+    },
+    "number": "B 962 ATH",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "BW",
+   "region_marking": "none",
+   "regions_count": 13,
+   "size_mm": [
+    520,
+    113
+   ],
+   "url": "https://openvan.camp/en/license-plates/botswana"
+  },
+  {
+   "country_code": "BR",
+   "country_name": "Brazil",
+   "example": {
+    "formatted": "BRA2E19",
+    "image": {
+     "png": "https://openvan.camp/api/plates/br/plate.png?number=BRA2E19&v=5112b6dc",
+     "svg": "https://openvan.camp/api/plates/br/plate.svg?number=BRA2E19&v=5112b6dc"
+    },
+    "number": "BRA2E19",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "BR",
+   "region_marking": "mixed",
+   "regions_count": 27,
+   "size_mm": [
+    400,
+    130
+   ],
+   "url": "https://openvan.camp/en/license-plates/brazil"
+  },
+  {
+   "country_code": "BN",
+   "country_name": "Brunei",
+   "example": {
+    "formatted": "KN 232",
+    "image": {
+     "png": "https://openvan.camp/api/plates/bn/plate.png?number=KN+232&v=ccb6882d",
+     "svg": "https://openvan.camp/api/plates/bn/plate.svg?number=KN+232&v=ccb6882d"
+    },
+    "number": "KN 232",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "BRU",
+   "region_marking": "legacy_only",
+   "regions_count": 4,
+   "size_mm": [
+    300,
+    150
+   ],
+   "url": "https://openvan.camp/en/license-plates/brunei"
+  },
+  {
+   "country_code": "BG",
+   "country_name": "Bulgaria",
+   "example": {
+    "formatted": "CA 1234 AB",
+    "image": {
+     "png": "https://openvan.camp/api/plates/bg/plate.png?number=CA+1234+AB&v=8c507979",
+     "svg": "https://openvan.camp/api/plates/bg/plate.svg?number=CA+1234+AB&v=8c507979"
+    },
+    "number": "CA 1234 AB",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "BG",
+   "region_marking": "prefix_letters",
+   "regions_count": 28,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/bulgaria"
+  },
+  {
+   "country_code": "BF",
+   "country_name": "Burkina Faso",
+   "example": {
+    "formatted": "11 GK 1844",
+    "image": {
+     "png": "https://openvan.camp/api/plates/bf/plate.png?number=11+GK+1844&v=db3ee63d",
+     "svg": "https://openvan.camp/api/plates/bf/plate.svg?number=11+GK+1844&v=db3ee63d"
+    },
+    "number": "11 GK 1844",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "BF",
+   "region_marking": "prefix_digits",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/burkina-faso"
+  },
+  {
+   "country_code": "BI",
+   "country_name": "Burundi",
+   "example": {
+    "formatted": "C 0100 A",
+    "image": {
+     "png": "https://openvan.camp/api/plates/bi/plate.png?number=C+0100+A&v=252283d5",
+     "svg": "https://openvan.camp/api/plates/bi/plate.svg?number=C+0100+A&v=252283d5"
+    },
+    "number": "C 0100 A",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RU",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    113
+   ],
+   "url": "https://openvan.camp/en/license-plates/burundi"
+  },
+  {
+   "country_code": "KH",
+   "country_name": "Cambodia",
+   "example": {
+    "formatted": "2A-3631 BANTEAY MEANCHEY",
+    "image": {
+     "png": "https://openvan.camp/api/plates/kh/plate.png?number=2A-3631&region=BANTEAY+MEANCHEY&v=0b073a1f",
+     "svg": "https://openvan.camp/api/plates/kh/plate.svg?number=2A-3631&region=BANTEAY+MEANCHEY&v=0b073a1f"
+    },
+    "number": "2A-3631",
+    "region": "BANTEAY MEANCHEY"
+   },
+   "glyphs_license": "free",
+   "intl_code": "K",
+   "region_marking": "text_name",
+   "regions_count": 25,
+   "size_mm": [
+    520,
+    155
+   ],
+   "url": "https://openvan.camp/en/license-plates/cambodia"
+  },
+  {
+   "country_code": "CM",
+   "country_name": "Cameroon",
+   "example": {
+    "formatted": "LT 780 FQ",
+    "image": {
+     "png": "https://openvan.camp/api/plates/cm/plate.png?number=LT+780+FQ&v=e0c6ab91",
+     "svg": "https://openvan.camp/api/plates/cm/plate.svg?number=LT+780+FQ&v=e0c6ab91"
+    },
+    "number": "LT 780 FQ",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "CAM",
+   "region_marking": "prefix_letters",
+   "regions_count": 10,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/cameroon"
+  },
+  {
+   "country_code": "CA",
+   "country_name": "Canada",
+   "example": {
+    "formatted": "CBPC 344 ON",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ca/plate.png?number=CBPC+344&region=ON&v=ca24e0eb",
+     "svg": "https://openvan.camp/api/plates/ca/plate.svg?number=CBPC+344&region=ON&v=ca24e0eb"
+    },
+    "number": "CBPC 344",
+    "region": "ON"
+   },
+   "glyphs_license": "free",
+   "intl_code": "CDN",
+   "region_marking": "text_name",
+   "regions_count": 13,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/canada"
+  },
+  {
+   "country_code": "CV",
+   "country_name": "Cape Verde",
+   "example": {
+    "formatted": "FA-06-86",
+    "image": {
+     "png": "https://openvan.camp/api/plates/cv/plate.png?number=FA-06-86&v=873faebd",
+     "svg": "https://openvan.camp/api/plates/cv/plate.svg?number=FA-06-86&v=873faebd"
+    },
+    "number": "FA-06-86",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "CV",
+   "region_marking": "prefix_letters",
+   "regions_count": 11,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/cape-verde"
+  },
+  {
+   "country_code": "CF",
+   "country_name": "Central African Republic",
+   "example": {
+    "formatted": "BB 534 DG",
+    "image": {
+     "png": "https://openvan.camp/api/plates/cf/plate.png?number=BB+534+DG&v=7893423a",
+     "svg": "https://openvan.camp/api/plates/cf/plate.svg?number=BB+534+DG&v=7893423a"
+    },
+    "number": "BB 534 DG",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RCA",
+   "region_marking": "mixed",
+   "regions_count": 17,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/central-african-republic"
+  },
+  {
+   "country_code": "TD",
+   "country_name": "Chad",
+   "example": {
+    "formatted": "23V1234A",
+    "image": {
+     "png": "https://openvan.camp/api/plates/td/plate.png?number=23V1234A&v=88fa0f1b",
+     "svg": "https://openvan.camp/api/plates/td/plate.svg?number=23V1234A&v=88fa0f1b"
+    },
+    "number": "23V1234A",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "TCH",
+   "region_marking": "prefix_digits",
+   "regions_count": 24,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/chad"
+  },
+  {
+   "country_code": "CL",
+   "country_name": "Chile",
+   "example": {
+    "formatted": "BB·BB★10",
+    "image": {
+     "png": "https://openvan.camp/api/plates/cl/plate.png?number=BB%C2%B7BB%E2%98%8510&v=bb8fb1b6",
+     "svg": "https://openvan.camp/api/plates/cl/plate.svg?number=BB%C2%B7BB%E2%98%8510&v=bb8fb1b6"
+    },
+    "number": "BB·BB★10",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RCH",
+   "region_marking": "legacy_only",
+   "regions_count": 11,
+   "size_mm": [
+    360,
+    130
+   ],
+   "url": "https://openvan.camp/en/license-plates/chile"
+  },
+  {
+   "country_code": "CN",
+   "country_name": "China",
+   "example": {
+    "formatted": "京A·12345",
+    "image": {
+     "png": "https://openvan.camp/api/plates/cn/plate.png?number=%E4%BA%ACA%C2%B712345&v=b3c1c83c",
+     "svg": "https://openvan.camp/api/plates/cn/plate.svg?number=%E4%BA%ACA%C2%B712345&v=b3c1c83c"
+    },
+    "number": "京A·12345",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "CHN",
+   "region_marking": "prefix_letters",
+   "regions_count": 406,
+   "size_mm": [
+    440,
+    140
+   ],
+   "url": "https://openvan.camp/en/license-plates/china"
+  },
+  {
+   "country_code": "CO",
+   "country_name": "Colombia",
+   "example": {
+    "formatted": "NOJ 122 SEVILLA",
+    "image": {
+     "png": "https://openvan.camp/api/plates/co/plate.png?number=NOJ+122&region=SEVILLA&v=fd2028c3",
+     "svg": "https://openvan.camp/api/plates/co/plate.svg?number=NOJ+122&region=SEVILLA&v=fd2028c3"
+    },
+    "number": "NOJ 122",
+    "region": "SEVILLA"
+   },
+   "glyphs_license": "free",
+   "intl_code": "CO",
+   "region_marking": "text_name",
+   "regions_count": 26,
+   "size_mm": [
+    330,
+    165
+   ],
+   "url": "https://openvan.camp/en/license-plates/colombia"
+  },
+  {
+   "country_code": "KM",
+   "country_name": "Comoros",
+   "example": {
+    "formatted": "1284 A 73",
+    "image": {
+     "png": "https://openvan.camp/api/plates/km/plate.png?number=1284+A+73&v=b728e571",
+     "svg": "https://openvan.camp/api/plates/km/plate.svg?number=1284+A+73&v=b728e571"
+    },
+    "number": "1284 A 73",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/comoros"
+  },
+  {
+   "country_code": "CG",
+   "country_name": "Congo",
+   "example": {
+    "formatted": "229 EA 2",
+    "image": {
+     "png": "https://openvan.camp/api/plates/cg/plate.png?number=229+EA+2&v=d7c025da",
+     "svg": "https://openvan.camp/api/plates/cg/plate.svg?number=229+EA+2&v=d7c025da"
+    },
+    "number": "229 EA 2",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RCB",
+   "region_marking": "suffix_digits",
+   "regions_count": 14,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/congo"
+  },
+  {
+   "country_code": "CR",
+   "country_name": "Costa Rica",
+   "example": {
+    "formatted": "BBB-123",
+    "image": {
+     "png": "https://openvan.camp/api/plates/cr/plate.png?number=BBB-123&v=9086f65b",
+     "svg": "https://openvan.camp/api/plates/cr/plate.svg?number=BBB-123&v=9086f65b"
+    },
+    "number": "BBB-123",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "CR",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/costa-rica"
+  },
+  {
+   "country_code": "HR",
+   "country_name": "Croatia",
+   "example": {
+    "formatted": "ZD 608-EC",
+    "image": {
+     "png": "https://openvan.camp/api/plates/hr/plate.png?number=ZD+608-EC&v=224ae0a4",
+     "svg": "https://openvan.camp/api/plates/hr/plate.svg?number=ZD+608-EC&v=224ae0a4"
+    },
+    "number": "ZD 608-EC",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "HR",
+   "region_marking": "prefix_letters",
+   "regions_count": 34,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/croatia"
+  },
+  {
+   "country_code": "CU",
+   "country_name": "Cuba",
+   "example": {
+    "formatted": "P 025 245",
+    "image": {
+     "png": "https://openvan.camp/api/plates/cu/plate.png?number=P+025+245&v=151c5ff7",
+     "svg": "https://openvan.camp/api/plates/cu/plate.svg?number=P+025+245&v=151c5ff7"
+    },
+    "number": "P 025 245",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "CU",
+   "region_marking": "legacy_only",
+   "regions_count": 15,
+   "size_mm": [
+    420,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/cuba"
+  },
+  {
+   "country_code": "CY",
+   "country_name": "Cyprus",
+   "example": {
+    "formatted": "MAA 001 0613",
+    "image": {
+     "png": "https://openvan.camp/api/plates/cy/plate.png?number=MAA+001&region=0613&v=c94b45f4",
+     "svg": "https://openvan.camp/api/plates/cy/plate.svg?number=MAA+001&region=0613&v=c94b45f4"
+    },
+    "number": "MAA 001",
+    "region": "0613"
+   },
+   "glyphs_license": "free",
+   "intl_code": "CY",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/cyprus"
+  },
+  {
+   "country_code": "CZ",
+   "country_name": "Czech Republic",
+   "example": {
+    "formatted": "1BA 3236",
+    "image": {
+     "png": "https://openvan.camp/api/plates/cz/plate.png?number=1BA+3236&v=308dd466",
+     "svg": "https://openvan.camp/api/plates/cz/plate.svg?number=1BA+3236&v=308dd466"
+    },
+    "number": "1BA 3236",
+    "region": ""
+   },
+   "glyphs_license": "sharealike",
+   "intl_code": "CZ",
+   "region_marking": "mixed",
+   "regions_count": 90,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/czech-republic"
+  },
+  {
+   "country_code": "DK",
+   "country_name": "Denmark",
+   "example": {
+    "formatted": "EW 40 672",
+    "image": {
+     "png": "https://openvan.camp/api/plates/dk/plate.png?number=EW+40+672&v=55d8f4a2",
+     "svg": "https://openvan.camp/api/plates/dk/plate.svg?number=EW+40+672&v=55d8f4a2"
+    },
+    "number": "EW 40 672",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "DK",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    504,
+    120
+   ],
+   "url": "https://openvan.camp/en/license-plates/denmark"
+  },
+  {
+   "country_code": "DJ",
+   "country_name": "Djibouti",
+   "example": {
+    "formatted": "683D30",
+    "image": {
+     "png": "https://openvan.camp/api/plates/dj/plate.png?number=683D30&v=c10c3388",
+     "svg": "https://openvan.camp/api/plates/dj/plate.svg?number=683D30&v=c10c3388"
+    },
+    "number": "683D30",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "DJI",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/djibouti"
+  },
+  {
+   "country_code": "DM",
+   "country_name": "Dominica",
+   "example": {
+    "formatted": "P570",
+    "image": {
+     "png": "https://openvan.camp/api/plates/dm/plate.png?number=P570&v=bf0fa2ff",
+     "svg": "https://openvan.camp/api/plates/dm/plate.svg?number=P570&v=bf0fa2ff"
+    },
+    "number": "P570",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "WD",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    350,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/dominica"
+  },
+  {
+   "country_code": "DO",
+   "country_name": "Dominican Republic",
+   "example": {
+    "formatted": "A554189",
+    "image": {
+     "png": "https://openvan.camp/api/plates/do/plate.png?number=A554189&v=ccdae5f6",
+     "svg": "https://openvan.camp/api/plates/do/plate.svg?number=A554189&v=ccdae5f6"
+    },
+    "number": "A554189",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "DOM",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/dominican-republic"
+  },
+  {
+   "country_code": "CD",
+   "country_name": "DR Congo",
+   "example": {
+    "formatted": "8762AA 19",
+    "image": {
+     "png": "https://openvan.camp/api/plates/cd/plate.png?number=8762AA+19&v=afc05cad",
+     "svg": "https://openvan.camp/api/plates/cd/plate.svg?number=8762AA+19&v=afc05cad"
+    },
+    "number": "8762AA 19",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "CGO",
+   "region_marking": "separate_field",
+   "regions_count": 31,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/dr-congo"
+  },
+  {
+   "country_code": "EC",
+   "country_name": "Ecuador",
+   "example": {
+    "formatted": "PBB-3239",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ec/plate.png?number=PBB-3239&v=1116e6c1",
+     "svg": "https://openvan.camp/api/plates/ec/plate.svg?number=PBB-3239&v=1116e6c1"
+    },
+    "number": "PBB-3239",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "EC",
+   "region_marking": "prefix_letters",
+   "regions_count": 24,
+   "size_mm": [
+    404,
+    154
+   ],
+   "url": "https://openvan.camp/en/license-plates/ecuador"
+  },
+  {
+   "country_code": "EG",
+   "country_name": "Egypt",
+   "example": {
+    "formatted": "2594 سجط",
+    "image": {
+     "png": "https://openvan.camp/api/plates/eg/plate.png?number=2594+%D8%B3%D8%AC%D8%B7&v=4a413ff9",
+     "svg": "https://openvan.camp/api/plates/eg/plate.svg?number=2594+%D8%B3%D8%AC%D8%B7&v=4a413ff9"
+    },
+    "number": "2594 سجط",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "ET",
+   "region_marking": "mixed",
+   "regions_count": 27,
+   "size_mm": [
+    340,
+    188
+   ],
+   "url": "https://openvan.camp/en/license-plates/egypt"
+  },
+  {
+   "country_code": "SV",
+   "country_name": "El Salvador",
+   "example": {
+    "formatted": "P171-737",
+    "image": {
+     "png": "https://openvan.camp/api/plates/sv/plate.png?number=P171-737&v=7c214cdf",
+     "svg": "https://openvan.camp/api/plates/sv/plate.svg?number=P171-737&v=7c214cdf"
+    },
+    "number": "P171-737",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "ES",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/el-salvador"
+  },
+  {
+   "country_code": "GQ",
+   "country_name": "Equatorial Guinea",
+   "example": {
+    "formatted": "LT-557-G",
+    "image": {
+     "png": "https://openvan.camp/api/plates/gq/plate.png?number=LT-557-G&v=4d263bc6",
+     "svg": "https://openvan.camp/api/plates/gq/plate.svg?number=LT-557-G&v=4d263bc6"
+    },
+    "number": "LT-557-G",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "prefix_letters",
+   "regions_count": 7,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/equatorial-guinea"
+  },
+  {
+   "country_code": "ER",
+   "country_name": "Eritrea",
+   "example": {
+    "formatted": "ER-3 01860",
+    "image": {
+     "png": "https://openvan.camp/api/plates/er/plate.png?number=ER-3+01860&v=510e693f",
+     "svg": "https://openvan.camp/api/plates/er/plate.svg?number=ER-3+01860&v=510e693f"
+    },
+    "number": "ER-3 01860",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "ER",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    340,
+    186
+   ],
+   "url": "https://openvan.camp/en/license-plates/eritrea"
+  },
+  {
+   "country_code": "EE",
+   "country_name": "Estonia",
+   "example": {
+    "formatted": "622 MHT",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ee/plate.png?number=622+MHT&v=9f758d2f",
+     "svg": "https://openvan.camp/api/plates/ee/plate.svg?number=622+MHT&v=9f758d2f"
+    },
+    "number": "622 MHT",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "EST",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/estonia"
+  },
+  {
+   "country_code": "SZ",
+   "country_name": "Eswatini",
+   "example": {
+    "formatted": "ASD 351 CM",
+    "image": {
+     "png": "https://openvan.camp/api/plates/sz/plate.png?number=ASD+351+CM&v=abba38b6",
+     "svg": "https://openvan.camp/api/plates/sz/plate.svg?number=ASD+351+CM&v=abba38b6"
+    },
+    "number": "ASD 351 CM",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "SD",
+   "region_marking": "mixed",
+   "regions_count": 4,
+   "size_mm": [
+    520,
+    134
+   ],
+   "url": "https://openvan.camp/en/license-plates/eswatini"
+  },
+  {
+   "country_code": "ET",
+   "country_name": "Ethiopia",
+   "example": {
+    "formatted": "49131 AA",
+    "image": {
+     "png": "https://openvan.camp/api/plates/et/plate.png?number=49131&region=AA&v=8c2a5f46",
+     "svg": "https://openvan.camp/api/plates/et/plate.svg?number=49131&region=AA&v=8c2a5f46"
+    },
+    "number": "49131",
+    "region": "AA"
+   },
+   "glyphs_license": "free",
+   "intl_code": "ETH",
+   "region_marking": "legacy_only",
+   "regions_count": 12,
+   "size_mm": [
+    280,
+    185
+   ],
+   "url": "https://openvan.camp/en/license-plates/ethiopia"
+  },
+  {
+   "country_code": "FJ",
+   "country_name": "Fiji",
+   "example": {
+    "formatted": "FQ·587",
+    "image": {
+     "png": "https://openvan.camp/api/plates/fj/plate.png?number=FQ%C2%B7587&v=a6b1f096",
+     "svg": "https://openvan.camp/api/plates/fj/plate.svg?number=FQ%C2%B7587&v=a6b1f096"
+    },
+    "number": "FQ·587",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "FJI",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    372,
+    134
+   ],
+   "url": "https://openvan.camp/en/license-plates/fiji"
+  },
+  {
+   "country_code": "FI",
+   "country_name": "Finland",
+   "example": {
+    "formatted": "KRR-442",
+    "image": {
+     "png": "https://openvan.camp/api/plates/fi/plate.png?number=KRR-442&v=c5d846f6",
+     "svg": "https://openvan.camp/api/plates/fi/plate.svg?number=KRR-442&v=c5d846f6"
+    },
+    "number": "KRR-442",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "FIN",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    442,
+    118
+   ],
+   "url": "https://openvan.camp/en/license-plates/finland"
+  },
+  {
+   "country_code": "FR",
+   "country_name": "France",
+   "example": {
+    "formatted": "AB-725-FR 75",
+    "image": {
+     "png": "https://openvan.camp/api/plates/fr/plate.png?number=AB-725-FR&region=75&v=2883a430",
+     "svg": "https://openvan.camp/api/plates/fr/plate.svg?number=AB-725-FR&region=75&v=2883a430"
+    },
+    "number": "AB-725-FR",
+    "region": "75"
+   },
+   "glyphs_license": "free",
+   "intl_code": "F",
+   "region_marking": "separate_field",
+   "regions_count": 102,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/france"
+  },
+  {
+   "country_code": "GA",
+   "country_name": "Gabon",
+   "example": {
+    "formatted": "CC-444-AA",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ga/plate.png?number=CC-444-AA&v=7edbfbac",
+     "svg": "https://openvan.camp/api/plates/ga/plate.svg?number=CC-444-AA&v=7edbfbac"
+    },
+    "number": "CC-444-AA",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "G",
+   "region_marking": "legacy_only",
+   "regions_count": 16,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/gabon"
+  },
+  {
+   "country_code": "GM",
+   "country_name": "Gambia",
+   "example": {
+    "formatted": "BJL 7309 C",
+    "image": {
+     "png": "https://openvan.camp/api/plates/gm/plate.png?number=BJL+7309+C&v=1dae23c6",
+     "svg": "https://openvan.camp/api/plates/gm/plate.svg?number=BJL+7309+C&v=1dae23c6"
+    },
+    "number": "BJL 7309 C",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "WAG",
+   "region_marking": "prefix_letters",
+   "regions_count": 7,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/gambia"
+  },
+  {
+   "country_code": "GE",
+   "country_name": "Georgia",
+   "example": {
+    "formatted": "QQ-800-QQ",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ge/plate.png?number=QQ-800-QQ&v=c7da120b",
+     "svg": "https://openvan.camp/api/plates/ge/plate.svg?number=QQ-800-QQ&v=c7da120b"
+    },
+    "number": "QQ-800-QQ",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "GE",
+   "region_marking": "legacy_only",
+   "regions_count": 13,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/georgia"
+  },
+  {
+   "country_code": "DE",
+   "country_name": "Germany",
+   "example": {
+    "formatted": "N NN 203",
+    "image": {
+     "png": "https://openvan.camp/api/plates/de/plate.png?number=N+NN+203&v=e7495a04",
+     "svg": "https://openvan.camp/api/plates/de/plate.svg?number=N+NN+203&v=e7495a04"
+    },
+    "number": "N NN 203",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "D",
+   "region_marking": "prefix_letters",
+   "regions_count": 744,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/germany"
+  },
+  {
+   "country_code": "GH",
+   "country_name": "Ghana",
+   "example": {
+    "formatted": "GE 1899-18",
+    "image": {
+     "png": "https://openvan.camp/api/plates/gh/plate.png?number=GE+1899-18&v=c5987796",
+     "svg": "https://openvan.camp/api/plates/gh/plate.svg?number=GE+1899-18&v=c5987796"
+    },
+    "number": "GE 1899-18",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "GH",
+   "region_marking": "prefix_letters",
+   "regions_count": 11,
+   "size_mm": [
+    320,
+    150
+   ],
+   "url": "https://openvan.camp/en/license-plates/ghana"
+  },
+  {
+   "country_code": "GR",
+   "country_name": "Greece",
+   "example": {
+    "formatted": "KNK-6949",
+    "image": {
+     "png": "https://openvan.camp/api/plates/gr/plate.png?number=KNK-6949&v=e85129ac",
+     "svg": "https://openvan.camp/api/plates/gr/plate.svg?number=KNK-6949&v=e85129ac"
+    },
+    "number": "KNK-6949",
+    "region": ""
+   },
+   "glyphs_license": "sharealike",
+   "intl_code": "GR",
+   "region_marking": "prefix_letters",
+   "regions_count": 58,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/greece"
+  },
+  {
+   "country_code": "GD",
+   "country_name": "Grenada",
+   "example": {
+    "formatted": "GAA876",
+    "image": {
+     "png": "https://openvan.camp/api/plates/gd/plate.png?number=GAA876&v=db6ec4a0",
+     "svg": "https://openvan.camp/api/plates/gd/plate.svg?number=GAA876&v=db6ec4a0"
+    },
+    "number": "GAA876",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "WG",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/grenada"
+  },
+  {
+   "country_code": "GT",
+   "country_name": "Guatemala",
+   "example": {
+    "formatted": "P123ABC",
+    "image": {
+     "png": "https://openvan.camp/api/plates/gt/plate.png?number=P123ABC&v=e86964fb",
+     "svg": "https://openvan.camp/api/plates/gt/plate.svg?number=P123ABC&v=e86964fb"
+    },
+    "number": "P123ABC",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "GCA",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/guatemala"
+  },
+  {
+   "country_code": "GN",
+   "country_name": "Guinea",
+   "example": {
+    "formatted": "AH 0000 02",
+    "image": {
+     "png": "https://openvan.camp/api/plates/gn/plate.png?number=AH+0000&region=02&v=93d44bf4",
+     "svg": "https://openvan.camp/api/plates/gn/plate.svg?number=AH+0000&region=02&v=93d44bf4"
+    },
+    "number": "AH 0000",
+    "region": "02"
+   },
+   "glyphs_license": "free",
+   "intl_code": "RG",
+   "region_marking": "separate_field",
+   "regions_count": 6,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/guinea"
+  },
+  {
+   "country_code": "GW",
+   "country_name": "Guinea-Bissau",
+   "example": {
+    "formatted": "1133 CC",
+    "image": {
+     "png": "https://openvan.camp/api/plates/gw/plate.png?number=1133+CC&v=0ffaa77e",
+     "svg": "https://openvan.camp/api/plates/gw/plate.svg?number=1133+CC&v=0ffaa77e"
+    },
+    "number": "1133 CC",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RGB",
+   "region_marking": "legacy_only",
+   "regions_count": 4,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/guinea-bissau"
+  },
+  {
+   "country_code": "GY",
+   "country_name": "Guyana",
+   "example": {
+    "formatted": "PCC 9140",
+    "image": {
+     "png": "https://openvan.camp/api/plates/gy/plate.png?number=PCC+9140&v=ef1ac1c5",
+     "svg": "https://openvan.camp/api/plates/gy/plate.svg?number=PCC+9140&v=ef1ac1c5"
+    },
+    "number": "PCC 9140",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "GUY",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    111
+   ],
+   "url": "https://openvan.camp/en/license-plates/guyana"
+  },
+  {
+   "country_code": "HT",
+   "country_name": "Haiti",
+   "example": {
+    "formatted": "AA 88043 Ouest",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ht/plate.png?number=AA+88043&region=Ouest&v=d3323efb",
+     "svg": "https://openvan.camp/api/plates/ht/plate.svg?number=AA+88043&region=Ouest&v=d3323efb"
+    },
+    "number": "AA 88043",
+    "region": "Ouest"
+   },
+   "glyphs_license": "free",
+   "intl_code": "RH",
+   "region_marking": "text_name",
+   "regions_count": 10,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/haiti"
+  },
+  {
+   "country_code": "HN",
+   "country_name": "Honduras",
+   "example": {
+    "formatted": "HAB0123",
+    "image": {
+     "png": "https://openvan.camp/api/plates/hn/plate.png?number=HAB0123&v=42792dd2",
+     "svg": "https://openvan.camp/api/plates/hn/plate.svg?number=HAB0123&v=42792dd2"
+    },
+    "number": "HAB0123",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "HN",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/honduras"
+  },
+  {
+   "country_code": "HK",
+   "country_name": "Hong Kong",
+   "example": {
+    "formatted": "KT 8264",
+    "image": {
+     "png": "https://openvan.camp/api/plates/hk/plate.png?number=KT+8264&v=d72301c9",
+     "svg": "https://openvan.camp/api/plates/hk/plate.svg?number=KT+8264&v=d72301c9"
+    },
+    "number": "KT 8264",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "HK",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    111
+   ],
+   "url": "https://openvan.camp/en/license-plates/hong-kong"
+  },
+  {
+   "country_code": "HU",
+   "country_name": "Hungary",
+   "example": {
+    "formatted": "AA AA-123",
+    "image": {
+     "png": "https://openvan.camp/api/plates/hu/plate.png?number=AA+AA-123&v=1a667a4b",
+     "svg": "https://openvan.camp/api/plates/hu/plate.svg?number=AA+AA-123&v=1a667a4b"
+    },
+    "number": "AA AA-123",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "H",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/hungary"
+  },
+  {
+   "country_code": "IS",
+   "country_name": "Iceland",
+   "example": {
+    "formatted": "MO R58",
+    "image": {
+     "png": "https://openvan.camp/api/plates/is/plate.png?number=MO+R58&v=a2300a37",
+     "svg": "https://openvan.camp/api/plates/is/plate.svg?number=MO+R58&v=a2300a37"
+    },
+    "number": "MO R58",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "IS",
+   "region_marking": "legacy_only",
+   "regions_count": 25,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/iceland"
+  },
+  {
+   "country_code": "IN",
+   "country_name": "India",
+   "example": {
+    "formatted": "MH 12 AB 1234",
+    "image": {
+     "png": "https://openvan.camp/api/plates/in/plate.png?number=MH+12+AB+1234&v=64b69833",
+     "svg": "https://openvan.camp/api/plates/in/plate.svg?number=MH+12+AB+1234&v=64b69833"
+    },
+    "number": "MH 12 AB 1234",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "IND",
+   "region_marking": "prefix_letters",
+   "regions_count": 1252,
+   "size_mm": [
+    500,
+    120
+   ],
+   "url": "https://openvan.camp/en/license-plates/india"
+  },
+  {
+   "country_code": "ID",
+   "country_name": "Indonesia",
+   "example": {
+    "formatted": "B 1234 ABC 0828",
+    "image": {
+     "png": "https://openvan.camp/api/plates/id/plate.png?number=B+1234+ABC&region=0828&v=fe98fc92",
+     "svg": "https://openvan.camp/api/plates/id/plate.svg?number=B+1234+ABC&region=0828&v=fe98fc92"
+    },
+    "number": "B 1234 ABC",
+    "region": "0828"
+   },
+   "glyphs_license": "free",
+   "intl_code": "RI",
+   "region_marking": "prefix_letters",
+   "regions_count": 62,
+   "size_mm": [
+    430,
+    126
+   ],
+   "url": "https://openvan.camp/en/license-plates/indonesia"
+  },
+  {
+   "country_code": "IR",
+   "country_name": "Iran",
+   "example": {
+    "formatted": "12 ب 345 11",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ir/plate.png?number=12+%D8%A8+345+11&v=89a02f63",
+     "svg": "https://openvan.camp/api/plates/ir/plate.svg?number=12+%D8%A8+345+11&v=89a02f63"
+    },
+    "number": "12 ب 345 11",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "IR",
+   "region_marking": "suffix_digits",
+   "regions_count": 31,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/iran"
+  },
+  {
+   "country_code": "IQ",
+   "country_name": "Iraq",
+   "example": {
+    "formatted": "14 G 34567",
+    "image": {
+     "png": "https://openvan.camp/api/plates/iq/plate.png?number=14+G+34567&v=c41351a8",
+     "svg": "https://openvan.camp/api/plates/iq/plate.svg?number=14+G+34567&v=c41351a8"
+    },
+    "number": "14 G 34567",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "IRQ",
+   "region_marking": "prefix_digits",
+   "regions_count": 19,
+   "size_mm": [
+    520,
+    115
+   ],
+   "url": "https://openvan.camp/en/license-plates/iraq"
+  },
+  {
+   "country_code": "IE",
+   "country_name": "Ireland",
+   "example": {
+    "formatted": "201-D-9024",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ie/plate.png?number=201-D-9024&v=c767e20a",
+     "svg": "https://openvan.camp/api/plates/ie/plate.svg?number=201-D-9024&v=c767e20a"
+    },
+    "number": "201-D-9024",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "IRL",
+   "region_marking": "mixed",
+   "regions_count": 26,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/ireland"
+  },
+  {
+   "country_code": "IL",
+   "country_name": "Israel",
+   "example": {
+    "formatted": "403-13-401",
+    "image": {
+     "png": "https://openvan.camp/api/plates/il/plate.png?number=403-13-401&v=6b0a905c",
+     "svg": "https://openvan.camp/api/plates/il/plate.svg?number=403-13-401&v=6b0a905c"
+    },
+    "number": "403-13-401",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "IL",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/israel"
+  },
+  {
+   "country_code": "IT",
+   "country_name": "Italy",
+   "example": {
+    "formatted": "GJ 240JN",
+    "image": {
+     "png": "https://openvan.camp/api/plates/it/plate.png?number=GJ+240JN&v=6e67656e",
+     "svg": "https://openvan.camp/api/plates/it/plate.svg?number=GJ+240JN&v=6e67656e"
+    },
+    "number": "GJ 240JN",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "I",
+   "region_marking": "separate_field",
+   "regions_count": 111,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/italy"
+  },
+  {
+   "country_code": "CI",
+   "country_name": "Ivory Coast",
+   "example": {
+    "formatted": "AA-573-EA 01",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ci/plate.png?number=AA-573-EA&region=01&v=27aa1f7a",
+     "svg": "https://openvan.camp/api/plates/ci/plate.svg?number=AA-573-EA&region=01&v=27aa1f7a"
+    },
+    "number": "AA-573-EA",
+    "region": "01"
+   },
+   "glyphs_license": "free",
+   "intl_code": "CI",
+   "region_marking": "suffix_digits",
+   "regions_count": 10,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/ivory-coast"
+  },
+  {
+   "country_code": "JM",
+   "country_name": "Jamaica",
+   "example": {
+    "formatted": "7654 HD",
+    "image": {
+     "png": "https://openvan.camp/api/plates/jm/plate.png?number=7654+HD&v=90dfb641",
+     "svg": "https://openvan.camp/api/plates/jm/plate.svg?number=7654+HD&v=90dfb641"
+    },
+    "number": "7654 HD",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "JA",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/jamaica"
+  },
+  {
+   "country_code": "JP",
+   "country_name": "Japan",
+   "example": {
+    "formatted": "500 き 12-34 多摩",
+    "image": {
+     "png": "https://openvan.camp/api/plates/jp/plate.png?number=500+%E3%81%8D+12-34&region=%E5%A4%9A%E6%91%A9&v=9461e1c2",
+     "svg": "https://openvan.camp/api/plates/jp/plate.svg?number=500+%E3%81%8D+12-34&region=%E5%A4%9A%E6%91%A9&v=9461e1c2"
+    },
+    "number": "500 き 12-34",
+    "region": "多摩"
+   },
+   "glyphs_license": "free",
+   "intl_code": "J",
+   "region_marking": "text_name",
+   "regions_count": 138,
+   "size_mm": [
+    330,
+    165
+   ],
+   "url": "https://openvan.camp/en/license-plates/japan"
+  },
+  {
+   "country_code": "JO",
+   "country_name": "Jordan",
+   "example": {
+    "formatted": "10-23456",
+    "image": {
+     "png": "https://openvan.camp/api/plates/jo/plate.png?number=10-23456&v=81fa7333",
+     "svg": "https://openvan.camp/api/plates/jo/plate.svg?number=10-23456&v=81fa7333"
+    },
+    "number": "10-23456",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "HKJ",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/jordan"
+  },
+  {
+   "country_code": "KZ",
+   "country_name": "Kazakhstan",
+   "example": {
+    "formatted": "143 ABA 12",
+    "image": {
+     "png": "https://openvan.camp/api/plates/kz/plate.png?number=143+ABA+12&v=1e57cf1d",
+     "svg": "https://openvan.camp/api/plates/kz/plate.svg?number=143+ABA+12&v=1e57cf1d"
+    },
+    "number": "143 ABA 12",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "KZ",
+   "region_marking": "separate_field",
+   "regions_count": 22,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/kazakhstan"
+  },
+  {
+   "country_code": "KE",
+   "country_name": "Kenya",
+   "example": {
+    "formatted": "KDK 101A",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ke/plate.png?number=KDK+101A&v=a5ecbdc6",
+     "svg": "https://openvan.camp/api/plates/ke/plate.svg?number=KDK+101A&v=a5ecbdc6"
+    },
+    "number": "KDK 101A",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "EAK",
+   "region_marking": "none",
+   "regions_count": 15,
+   "size_mm": [
+    520,
+    113
+   ],
+   "url": "https://openvan.camp/en/license-plates/kenya"
+  },
+  {
+   "country_code": "KI",
+   "country_name": "Kiribati",
+   "example": {
+    "formatted": "XMS247",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ki/plate.png?number=XMS247&v=630a83e9",
+     "svg": "https://openvan.camp/api/plates/ki/plate.svg?number=XMS247&v=630a83e9"
+    },
+    "number": "XMS247",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "prefix_letters",
+   "regions_count": 7,
+   "size_mm": [
+    372,
+    134
+   ],
+   "url": "https://openvan.camp/en/license-plates/kiribati"
+  },
+  {
+   "country_code": "XK",
+   "country_name": "Kosovo",
+   "example": {
+    "formatted": "01 999-AD",
+    "image": {
+     "png": "https://openvan.camp/api/plates/xk/plate.png?number=01+999-AD&v=3e02bea8",
+     "svg": "https://openvan.camp/api/plates/xk/plate.svg?number=01+999-AD&v=3e02bea8"
+    },
+    "number": "01 999-AD",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RKS",
+   "region_marking": "prefix_digits",
+   "regions_count": 7,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/kosovo"
+  },
+  {
+   "country_code": "KW",
+   "country_name": "Kuwait",
+   "example": {
+    "formatted": "4 66759",
+    "image": {
+     "png": "https://openvan.camp/api/plates/kw/plate.png?number=4+66759&v=608be80b",
+     "svg": "https://openvan.camp/api/plates/kw/plate.svg?number=4+66759&v=608be80b"
+    },
+    "number": "4 66759",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "KWT",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    340,
+    170
+   ],
+   "url": "https://openvan.camp/en/license-plates/kuwait"
+  },
+  {
+   "country_code": "KG",
+   "country_name": "Kyrgyzstan",
+   "example": {
+    "formatted": "01 123 ABC",
+    "image": {
+     "png": "https://openvan.camp/api/plates/kg/plate.png?number=01+123+ABC&v=5db3d2fa",
+     "svg": "https://openvan.camp/api/plates/kg/plate.svg?number=01+123+ABC&v=5db3d2fa"
+    },
+    "number": "01 123 ABC",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "KG",
+   "region_marking": "separate_field",
+   "regions_count": 9,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/kyrgyzstan"
+  },
+  {
+   "country_code": "LA",
+   "country_name": "Laos",
+   "example": {
+    "formatted": "ຮຍ 8118 VIENTIANE CAPITAL",
+    "image": {
+     "png": "https://openvan.camp/api/plates/la/plate.png?number=%E0%BA%AE%E0%BA%8D+8118&region=VIENTIANE+CAPITAL&v=7ddc5fdc",
+     "svg": "https://openvan.camp/api/plates/la/plate.svg?number=%E0%BA%AE%E0%BA%8D+8118&region=VIENTIANE+CAPITAL&v=7ddc5fdc"
+    },
+    "number": "ຮຍ 8118",
+    "region": "VIENTIANE CAPITAL"
+   },
+   "glyphs_license": "free",
+   "intl_code": "LAO",
+   "region_marking": "text_name",
+   "regions_count": 18,
+   "size_mm": [
+    340,
+    160
+   ],
+   "url": "https://openvan.camp/en/license-plates/laos"
+  },
+  {
+   "country_code": "LV",
+   "country_name": "Latvia",
+   "example": {
+    "formatted": "HN-5867",
+    "image": {
+     "png": "https://openvan.camp/api/plates/lv/plate.png?number=HN-5867&v=98e56082",
+     "svg": "https://openvan.camp/api/plates/lv/plate.svg?number=HN-5867&v=98e56082"
+    },
+    "number": "HN-5867",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "LV",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/latvia"
+  },
+  {
+   "country_code": "LB",
+   "country_name": "Lebanon",
+   "example": {
+    "formatted": "A 123456",
+    "image": {
+     "png": "https://openvan.camp/api/plates/lb/plate.png?number=A+123456&v=b86f98f2",
+     "svg": "https://openvan.camp/api/plates/lb/plate.svg?number=A+123456&v=b86f98f2"
+    },
+    "number": "A 123456",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RL",
+   "region_marking": "prefix_letters",
+   "regions_count": 10,
+   "size_mm": [
+    520,
+    115
+   ],
+   "url": "https://openvan.camp/en/license-plates/lebanon"
+  },
+  {
+   "country_code": "LS",
+   "country_name": "Lesotho",
+   "example": {
+    "formatted": "C 5882 9095",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ls/plate.png?number=C+5882&region=9095&v=b2fffe1c",
+     "svg": "https://openvan.camp/api/plates/ls/plate.svg?number=C+5882&region=9095&v=b2fffe1c"
+    },
+    "number": "C 5882",
+    "region": "9095"
+   },
+   "glyphs_license": "free",
+   "intl_code": "LS",
+   "region_marking": "prefix_letters",
+   "regions_count": 10,
+   "size_mm": [
+    520,
+    148
+   ],
+   "url": "https://openvan.camp/en/license-plates/lesotho"
+  },
+  {
+   "country_code": "LR",
+   "country_name": "Liberia",
+   "example": {
+    "formatted": "A13557",
+    "image": {
+     "png": "https://openvan.camp/api/plates/lr/plate.png?number=A13557&v=271340f0",
+     "svg": "https://openvan.camp/api/plates/lr/plate.svg?number=A13557&v=271340f0"
+    },
+    "number": "A13557",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "LB",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/liberia"
+  },
+  {
+   "country_code": "LY",
+   "country_name": "Libya",
+   "example": {
+    "formatted": "8 616192",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ly/plate.png?number=8+616192&v=d43823f0",
+     "svg": "https://openvan.camp/api/plates/ly/plate.svg?number=8+616192&v=d43823f0"
+    },
+    "number": "8 616192",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "LAR",
+   "region_marking": "prefix_digits",
+   "regions_count": 62,
+   "size_mm": [
+    520,
+    113
+   ],
+   "url": "https://openvan.camp/en/license-plates/libya"
+  },
+  {
+   "country_code": "LI",
+   "country_name": "Liechtenstein",
+   "example": {
+    "formatted": "FL 40001",
+    "image": {
+     "png": "https://openvan.camp/api/plates/li/plate.png?number=FL+40001&v=043adcbe",
+     "svg": "https://openvan.camp/api/plates/li/plate.svg?number=FL+40001&v=043adcbe"
+    },
+    "number": "FL 40001",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "FL",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    500,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/liechtenstein"
+  },
+  {
+   "country_code": "LT",
+   "country_name": "Lithuania",
+   "example": {
+    "formatted": "ECK 649",
+    "image": {
+     "png": "https://openvan.camp/api/plates/lt/plate.png?number=ECK+649&v=1a0d3c2c",
+     "svg": "https://openvan.camp/api/plates/lt/plate.svg?number=ECK+649&v=1a0d3c2c"
+    },
+    "number": "ECK 649",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "LT",
+   "region_marking": "legacy_only",
+   "regions_count": 10,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/lithuania"
+  },
+  {
+   "country_code": "LU",
+   "country_name": "Luxembourg",
+   "example": {
+    "formatted": "KS 9412",
+    "image": {
+     "png": "https://openvan.camp/api/plates/lu/plate.png?number=KS+9412&v=081f5922",
+     "svg": "https://openvan.camp/api/plates/lu/plate.svg?number=KS+9412&v=081f5922"
+    },
+    "number": "KS 9412",
+    "region": ""
+   },
+   "glyphs_license": "sharealike",
+   "intl_code": "L",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/luxembourg"
+  },
+  {
+   "country_code": "MO",
+   "country_name": "Macao",
+   "example": {
+    "formatted": "MA-12-34",
+    "image": {
+     "png": "https://openvan.camp/api/plates/mo/plate.png?number=MA-12-34&v=2fdff55d",
+     "svg": "https://openvan.camp/api/plates/mo/plate.svg?number=MA-12-34&v=2fdff55d"
+    },
+    "number": "MA-12-34",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "MO",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/macao"
+  },
+  {
+   "country_code": "MG",
+   "country_name": "Madagascar",
+   "example": {
+    "formatted": "8847 TAK",
+    "image": {
+     "png": "https://openvan.camp/api/plates/mg/plate.png?number=8847+TAK&v=b30e4ad7",
+     "svg": "https://openvan.camp/api/plates/mg/plate.svg?number=8847+TAK&v=b30e4ad7"
+    },
+    "number": "8847 TAK",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RM",
+   "region_marking": "mixed",
+   "regions_count": 6,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/madagascar"
+  },
+  {
+   "country_code": "MW",
+   "country_name": "Malawi",
+   "example": {
+    "formatted": "BC 5049",
+    "image": {
+     "png": "https://openvan.camp/api/plates/mw/plate.png?number=BC+5049&v=48788c4e",
+     "svg": "https://openvan.camp/api/plates/mw/plate.svg?number=BC+5049&v=48788c4e"
+    },
+    "number": "BC 5049",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "MW",
+   "region_marking": "prefix_letters",
+   "regions_count": 4,
+   "size_mm": [
+    520,
+    122
+   ],
+   "url": "https://openvan.camp/en/license-plates/malawi"
+  },
+  {
+   "country_code": "MY",
+   "country_name": "Malaysia",
+   "example": {
+    "formatted": "PFQ 5217",
+    "image": {
+     "png": "https://openvan.camp/api/plates/my/plate.png?number=PFQ+5217&v=1f90bef6",
+     "svg": "https://openvan.camp/api/plates/my/plate.svg?number=PFQ+5217&v=1f90bef6"
+    },
+    "number": "PFQ 5217",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "MAL",
+   "region_marking": "prefix_letters",
+   "regions_count": 16,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/malaysia"
+  },
+  {
+   "country_code": "MV",
+   "country_name": "Maldives",
+   "example": {
+    "formatted": "AB1A S8708",
+    "image": {
+     "png": "https://openvan.camp/api/plates/mv/plate.png?number=AB1A+S8708&v=1f0e27be",
+     "svg": "https://openvan.camp/api/plates/mv/plate.svg?number=AB1A+S8708&v=1f0e27be"
+    },
+    "number": "AB1A S8708",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "MV",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    330,
+    175
+   ],
+   "url": "https://openvan.camp/en/license-plates/maldives"
+  },
+  {
+   "country_code": "ML",
+   "country_name": "Mali",
+   "example": {
+    "formatted": "AB 1234 MD",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ml/plate.png?number=AB+1234+MD&v=0c1e4090",
+     "svg": "https://openvan.camp/api/plates/ml/plate.svg?number=AB+1234+MD&v=0c1e4090"
+    },
+    "number": "AB 1234 MD",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RMM",
+   "region_marking": "separate_field",
+   "regions_count": 20,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/mali"
+  },
+  {
+   "country_code": "MT",
+   "country_name": "Malta",
+   "example": {
+    "formatted": "CQZ 774",
+    "image": {
+     "png": "https://openvan.camp/api/plates/mt/plate.png?number=CQZ+774&v=36869774",
+     "svg": "https://openvan.camp/api/plates/mt/plate.svg?number=CQZ+774&v=36869774"
+    },
+    "number": "CQZ 774",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "M",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/malta"
+  },
+  {
+   "country_code": "MH",
+   "country_name": "Marshall Islands",
+   "example": {
+    "formatted": "3425",
+    "image": {
+     "png": "https://openvan.camp/api/plates/mh/plate.png?number=3425&v=5feb84cb",
+     "svg": "https://openvan.camp/api/plates/mh/plate.svg?number=3425&v=5feb84cb"
+    },
+    "number": "3425",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "text_name",
+   "regions_count": 1,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/marshall-islands"
+  },
+  {
+   "country_code": "MR",
+   "country_name": "Mauritania",
+   "example": {
+    "formatted": "1234AK00",
+    "image": {
+     "png": "https://openvan.camp/api/plates/mr/plate.png?number=1234AK00&v=89f7b4c9",
+     "svg": "https://openvan.camp/api/plates/mr/plate.svg?number=1234AK00&v=89f7b4c9"
+    },
+    "number": "1234AK00",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RIM",
+   "region_marking": "suffix_digits",
+   "regions_count": 13,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/mauritania"
+  },
+  {
+   "country_code": "MU",
+   "country_name": "Mauritius",
+   "example": {
+    "formatted": "1234 JN 12",
+    "image": {
+     "png": "https://openvan.camp/api/plates/mu/plate.png?number=1234+JN+12&v=2393eaf2",
+     "svg": "https://openvan.camp/api/plates/mu/plate.svg?number=1234+JN+12&v=2393eaf2"
+    },
+    "number": "1234 JN 12",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "MS",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/mauritius"
+  },
+  {
+   "country_code": "MX",
+   "country_name": "Mexico",
+   "example": {
+    "formatted": "AGS-123-A AGUASCALIENTES",
+    "image": {
+     "png": "https://openvan.camp/api/plates/mx/plate.png?number=AGS-123-A&region=AGUASCALIENTES&v=578db114",
+     "svg": "https://openvan.camp/api/plates/mx/plate.svg?number=AGS-123-A&region=AGUASCALIENTES&v=578db114"
+    },
+    "number": "AGS-123-A",
+    "region": "AGUASCALIENTES"
+   },
+   "glyphs_license": "free",
+   "intl_code": "MEX",
+   "region_marking": "mixed",
+   "regions_count": 32,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/mexico"
+  },
+  {
+   "country_code": "FM",
+   "country_name": "Micronesia",
+   "example": {
+    "formatted": "2945 YAP",
+    "image": {
+     "png": "https://openvan.camp/api/plates/fm/plate.png?number=2945&region=YAP&v=23a9fd89",
+     "svg": "https://openvan.camp/api/plates/fm/plate.svg?number=2945&region=YAP&v=23a9fd89"
+    },
+    "number": "2945",
+    "region": "YAP"
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "text_name",
+   "regions_count": 4,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/micronesia"
+  },
+  {
+   "country_code": "MD",
+   "country_name": "Moldova",
+   "example": {
+    "formatted": "LEL 979",
+    "image": {
+     "png": "https://openvan.camp/api/plates/md/plate.png?number=LEL+979&v=96f5e9ae",
+     "svg": "https://openvan.camp/api/plates/md/plate.svg?number=LEL+979&v=96f5e9ae"
+    },
+    "number": "LEL 979",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "MD",
+   "region_marking": "legacy_only",
+   "regions_count": 47,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/moldova"
+  },
+  {
+   "country_code": "MC",
+   "country_name": "Monaco",
+   "example": {
+    "formatted": "179C",
+    "image": {
+     "png": "https://openvan.camp/api/plates/mc/plate.png?number=179C&v=c61a5751",
+     "svg": "https://openvan.camp/api/plates/mc/plate.svg?number=179C&v=c61a5751"
+    },
+    "number": "179C",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "MC",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    340,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/monaco"
+  },
+  {
+   "country_code": "MN",
+   "country_name": "Mongolia",
+   "example": {
+    "formatted": "0878 УНК",
+    "image": {
+     "png": "https://openvan.camp/api/plates/mn/plate.png?number=0878+%D0%A3%D0%9D%D0%9A&v=4c109339",
+     "svg": "https://openvan.camp/api/plates/mn/plate.svg?number=0878+%D0%A3%D0%9D%D0%9A&v=4c109339"
+    },
+    "number": "0878 УНК",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "MGL",
+   "region_marking": "mixed",
+   "regions_count": 22,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/mongolia"
+  },
+  {
+   "country_code": "ME",
+   "country_name": "Montenegro",
+   "example": {
+    "formatted": "NK AA034",
+    "image": {
+     "png": "https://openvan.camp/api/plates/me/plate.png?number=NK+AA034&v=a158a2d4",
+     "svg": "https://openvan.camp/api/plates/me/plate.svg?number=NK+AA034&v=a158a2d4"
+    },
+    "number": "NK AA034",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "MNE",
+   "region_marking": "prefix_letters",
+   "regions_count": 25,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/montenegro"
+  },
+  {
+   "country_code": "MA",
+   "country_name": "Morocco",
+   "example": {
+    "formatted": "62407 A 34",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ma/plate.png?number=62407+A+34&v=078b44ad",
+     "svg": "https://openvan.camp/api/plates/ma/plate.svg?number=62407+A+34&v=078b44ad"
+    },
+    "number": "62407 A 34",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "MA",
+   "region_marking": "suffix_digits",
+   "regions_count": 75,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/morocco"
+  },
+  {
+   "country_code": "MZ",
+   "country_name": "Mozambique",
+   "example": {
+    "formatted": "ACZ 259 MC",
+    "image": {
+     "png": "https://openvan.camp/api/plates/mz/plate.png?number=ACZ+259+MC&v=fe589379",
+     "svg": "https://openvan.camp/api/plates/mz/plate.svg?number=ACZ+259+MC&v=fe589379"
+    },
+    "number": "ACZ 259 MC",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "MOC",
+   "region_marking": "separate_field",
+   "regions_count": 11,
+   "size_mm": [
+    340,
+    170
+   ],
+   "url": "https://openvan.camp/en/license-plates/mozambique"
+  },
+  {
+   "country_code": "MM",
+   "country_name": "Myanmar",
+   "example": {
+    "formatted": "1P-3574 MDY-14",
+    "image": {
+     "png": "https://openvan.camp/api/plates/mm/plate.png?number=1P-3574&region=MDY-14&v=83ece327",
+     "svg": "https://openvan.camp/api/plates/mm/plate.svg?number=1P-3574&region=MDY-14&v=83ece327"
+    },
+    "number": "1P-3574",
+    "region": "MDY-14"
+   },
+   "glyphs_license": "free",
+   "intl_code": "MYA",
+   "region_marking": "separate_field",
+   "regions_count": 15,
+   "size_mm": [
+    330,
+    150
+   ],
+   "url": "https://openvan.camp/en/license-plates/myanmar"
+  },
+  {
+   "country_code": "NA",
+   "country_name": "Namibia",
+   "example": {
+    "formatted": "N 123-456 W",
+    "image": {
+     "png": "https://openvan.camp/api/plates/na/plate.png?number=N+123-456+W&v=bd0e183a",
+     "svg": "https://openvan.camp/api/plates/na/plate.svg?number=N+123-456+W&v=bd0e183a"
+    },
+    "number": "N 123-456 W",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "NAM",
+   "region_marking": "separate_field",
+   "regions_count": 43,
+   "size_mm": [
+    440,
+    120
+   ],
+   "url": "https://openvan.camp/en/license-plates/namibia"
+  },
+  {
+   "country_code": "NR",
+   "country_name": "Nauru",
+   "example": {
+    "formatted": "AAA 595",
+    "image": {
+     "png": "https://openvan.camp/api/plates/nr/plate.png?number=AAA+595&v=a911a052",
+     "svg": "https://openvan.camp/api/plates/nr/plate.svg?number=AAA+595&v=a911a052"
+    },
+    "number": "AAA 595",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "NAU",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    372,
+    134
+   ],
+   "url": "https://openvan.camp/en/license-plates/nauru"
+  },
+  {
+   "country_code": "NP",
+   "country_name": "Nepal",
+   "example": {
+    "formatted": "BA 12 CHA 3456",
+    "image": {
+     "png": "https://openvan.camp/api/plates/np/plate.png?number=BA+12+CHA+3456&v=e4a5a3fd",
+     "svg": "https://openvan.camp/api/plates/np/plate.svg?number=BA+12+CHA+3456&v=e4a5a3fd"
+    },
+    "number": "BA 12 CHA 3456",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "NEP",
+   "region_marking": "text_name",
+   "regions_count": 21,
+   "size_mm": [
+    340,
+    186
+   ],
+   "url": "https://openvan.camp/en/license-plates/nepal"
+  },
+  {
+   "country_code": "NL",
+   "country_name": "Netherlands",
+   "example": {
+    "formatted": "4-KSK-02",
+    "image": {
+     "png": "https://openvan.camp/api/plates/nl/plate.png?number=4-KSK-02&v=5a589537",
+     "svg": "https://openvan.camp/api/plates/nl/plate.svg?number=4-KSK-02&v=5a589537"
+    },
+    "number": "4-KSK-02",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "NL",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/netherlands"
+  },
+  {
+   "country_code": "NZ",
+   "country_name": "New Zealand",
+   "example": {
+    "formatted": "FAR441",
+    "image": {
+     "png": "https://openvan.camp/api/plates/nz/plate.png?number=FAR441&v=efda27b7",
+     "svg": "https://openvan.camp/api/plates/nz/plate.svg?number=FAR441&v=efda27b7"
+    },
+    "number": "FAR441",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "NZ",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    384,
+    122
+   ],
+   "url": "https://openvan.camp/en/license-plates/new-zealand"
+  },
+  {
+   "country_code": "NI",
+   "country_name": "Nicaragua",
+   "example": {
+    "formatted": "M 123 456",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ni/plate.png?number=M+123+456&v=bde2da6d",
+     "svg": "https://openvan.camp/api/plates/ni/plate.svg?number=M+123+456&v=bde2da6d"
+    },
+    "number": "M 123 456",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "NIC",
+   "region_marking": "prefix_letters",
+   "regions_count": 17,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/nicaragua"
+  },
+  {
+   "country_code": "NE",
+   "country_name": "Niger",
+   "example": {
+    "formatted": "8H 7654",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ne/plate.png?number=8H+7654&v=380ca9d2",
+     "svg": "https://openvan.camp/api/plates/ne/plate.svg?number=8H+7654&v=380ca9d2"
+    },
+    "number": "8H 7654",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RN",
+   "region_marking": "mixed",
+   "regions_count": 8,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/niger"
+  },
+  {
+   "country_code": "NG",
+   "country_name": "Nigeria",
+   "example": {
+    "formatted": "APP-456CV LAGOS",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ng/plate.png?number=APP-456CV&region=LAGOS&v=90bd0138",
+     "svg": "https://openvan.camp/api/plates/ng/plate.svg?number=APP-456CV&region=LAGOS&v=90bd0138"
+    },
+    "number": "APP-456CV",
+    "region": "LAGOS"
+   },
+   "glyphs_license": "free",
+   "intl_code": "WAN",
+   "region_marking": "mixed",
+   "regions_count": 37,
+   "size_mm": [
+    310,
+    150
+   ],
+   "url": "https://openvan.camp/en/license-plates/nigeria"
+  },
+  {
+   "country_code": "KP",
+   "country_name": "North Korea",
+   "example": {
+    "formatted": "74-1551",
+    "image": {
+     "png": "https://openvan.camp/api/plates/kp/plate.png?number=74-1551&v=d2882e87",
+     "svg": "https://openvan.camp/api/plates/kp/plate.svg?number=74-1551&v=d2882e87"
+    },
+    "number": "74-1551",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "text_name",
+   "regions_count": 13,
+   "size_mm": [
+    520,
+    147
+   ],
+   "url": "https://openvan.camp/en/license-plates/north-korea"
+  },
+  {
+   "country_code": "MK",
+   "country_name": "North Macedonia",
+   "example": {
+    "formatted": "OH 1731 AF",
+    "image": {
+     "png": "https://openvan.camp/api/plates/mk/plate.png?number=OH+1731+AF&v=53ce1158",
+     "svg": "https://openvan.camp/api/plates/mk/plate.svg?number=OH+1731+AF&v=53ce1158"
+    },
+    "number": "OH 1731 AF",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "NMK",
+   "region_marking": "prefix_letters",
+   "regions_count": 34,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/north-macedonia"
+  },
+  {
+   "country_code": "NO",
+   "country_name": "Norway",
+   "example": {
+    "formatted": "DN 96650",
+    "image": {
+     "png": "https://openvan.camp/api/plates/no/plate.png?number=DN+96650&v=67a6344b",
+     "svg": "https://openvan.camp/api/plates/no/plate.svg?number=DN+96650&v=67a6344b"
+    },
+    "number": "DN 96650",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "N",
+   "region_marking": "prefix_letters",
+   "regions_count": 74,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/norway"
+  },
+  {
+   "country_code": "OM",
+   "country_name": "Oman",
+   "example": {
+    "formatted": "91169 A",
+    "image": {
+     "png": "https://openvan.camp/api/plates/om/plate.png?number=91169+A&v=5ae8e519",
+     "svg": "https://openvan.camp/api/plates/om/plate.svg?number=91169+A&v=5ae8e519"
+    },
+    "number": "91169 A",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "OM",
+   "region_marking": "legacy_only",
+   "regions_count": 6,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/oman"
+  },
+  {
+   "country_code": "PK",
+   "country_name": "Pakistan",
+   "example": {
+    "formatted": "AB-123",
+    "image": {
+     "png": "https://openvan.camp/api/plates/pk/plate.png?number=AB-123&v=55bfc805",
+     "svg": "https://openvan.camp/api/plates/pk/plate.svg?number=AB-123&v=55bfc805"
+    },
+    "number": "AB-123",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "PK",
+   "region_marking": "text_name",
+   "regions_count": 7,
+   "size_mm": [
+    330,
+    165
+   ],
+   "url": "https://openvan.camp/en/license-plates/pakistan"
+  },
+  {
+   "country_code": "PW",
+   "country_name": "Palau",
+   "example": {
+    "formatted": "18374",
+    "image": {
+     "png": "https://openvan.camp/api/plates/pw/plate.png?number=18374&v=1ac41113",
+     "svg": "https://openvan.camp/api/plates/pw/plate.svg?number=18374&v=1ac41113"
+    },
+    "number": "18374",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "text_name",
+   "regions_count": 16,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/palau"
+  },
+  {
+   "country_code": "PS",
+   "country_name": "Palestine",
+   "example": {
+    "formatted": "6-1234-95",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ps/plate.png?number=6-1234-95&v=04c17507",
+     "svg": "https://openvan.camp/api/plates/ps/plate.svg?number=6-1234-95&v=04c17507"
+    },
+    "number": "6-1234-95",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "mixed",
+   "regions_count": 19,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/palestine"
+  },
+  {
+   "country_code": "PA",
+   "country_name": "Panama",
+   "example": {
+    "formatted": "AB1234 2026",
+    "image": {
+     "png": "https://openvan.camp/api/plates/pa/plate.png?number=AB1234&region=2026&v=62ed1e8f",
+     "svg": "https://openvan.camp/api/plates/pa/plate.svg?number=AB1234&region=2026&v=62ed1e8f"
+    },
+    "number": "AB1234",
+    "region": "2026"
+   },
+   "glyphs_license": "free",
+   "intl_code": "PA",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/panama"
+  },
+  {
+   "country_code": "PG",
+   "country_name": "Papua New Guinea",
+   "example": {
+    "formatted": "BAA·000",
+    "image": {
+     "png": "https://openvan.camp/api/plates/pg/plate.png?number=BAA%C2%B7000&v=4fce0f8d",
+     "svg": "https://openvan.camp/api/plates/pg/plate.svg?number=BAA%C2%B7000&v=4fce0f8d"
+    },
+    "number": "BAA·000",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "PNG",
+   "region_marking": "prefix_letters",
+   "regions_count": 22,
+   "size_mm": [
+    372,
+    134
+   ],
+   "url": "https://openvan.camp/en/license-plates/papua-new-guinea"
+  },
+  {
+   "country_code": "PY",
+   "country_name": "Paraguay",
+   "example": {
+    "formatted": "AAMO 061",
+    "image": {
+     "png": "https://openvan.camp/api/plates/py/plate.png?number=AAMO+061&v=f940e016",
+     "svg": "https://openvan.camp/api/plates/py/plate.svg?number=AAMO+061&v=f940e016"
+    },
+    "number": "AAMO 061",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "PY",
+   "region_marking": "legacy_only",
+   "regions_count": 18,
+   "size_mm": [
+    400,
+    130
+   ],
+   "url": "https://openvan.camp/en/license-plates/paraguay"
+  },
+  {
+   "country_code": "PE",
+   "country_name": "Peru",
+   "example": {
+    "formatted": "F5U-597",
+    "image": {
+     "png": "https://openvan.camp/api/plates/pe/plate.png?number=F5U-597&v=f1b3921f",
+     "svg": "https://openvan.camp/api/plates/pe/plate.svg?number=F5U-597&v=f1b3921f"
+    },
+    "number": "F5U-597",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "PE",
+   "region_marking": "prefix_letters",
+   "regions_count": 13,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/peru"
+  },
+  {
+   "country_code": "PH",
+   "country_name": "Philippines",
+   "example": {
+    "formatted": "CCK 6781",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ph/plate.png?number=CCK+6781&v=255402df",
+     "svg": "https://openvan.camp/api/plates/ph/plate.svg?number=CCK+6781&v=255402df"
+    },
+    "number": "CCK 6781",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RP",
+   "region_marking": "prefix_letters",
+   "regions_count": 16,
+   "size_mm": [
+    390,
+    140
+   ],
+   "url": "https://openvan.camp/en/license-plates/philippines"
+  },
+  {
+   "country_code": "PL",
+   "country_name": "Poland",
+   "example": {
+    "formatted": "WI 255RY",
+    "image": {
+     "png": "https://openvan.camp/api/plates/pl/plate.png?number=WI+255RY&v=9bbacacb",
+     "svg": "https://openvan.camp/api/plates/pl/plate.svg?number=WI+255RY&v=9bbacacb"
+    },
+    "number": "WI 255RY",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "PL",
+   "region_marking": "prefix_letters",
+   "regions_count": 396,
+   "size_mm": [
+    520,
+    114
+   ],
+   "url": "https://openvan.camp/en/license-plates/poland"
+  },
+  {
+   "country_code": "PT",
+   "country_name": "Portugal",
+   "example": {
+    "formatted": "AE 36 EM",
+    "image": {
+     "png": "https://openvan.camp/api/plates/pt/plate.png?number=AE+36+EM&v=10b059f4",
+     "svg": "https://openvan.camp/api/plates/pt/plate.svg?number=AE+36+EM&v=10b059f4"
+    },
+    "number": "AE 36 EM",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "P",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/portugal"
+  },
+  {
+   "country_code": "QA",
+   "country_name": "Qatar",
+   "example": {
+    "formatted": "123456",
+    "image": {
+     "png": "https://openvan.camp/api/plates/qa/plate.png?number=123456&v=ff981700",
+     "svg": "https://openvan.camp/api/plates/qa/plate.svg?number=123456&v=ff981700"
+    },
+    "number": "123456",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "Q",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/qatar"
+  },
+  {
+   "country_code": "RO",
+   "country_name": "Romania",
+   "example": {
+    "formatted": "GL 11 JIP",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ro/plate.png?number=GL+11+JIP&v=13adbc7f",
+     "svg": "https://openvan.camp/api/plates/ro/plate.svg?number=GL+11+JIP&v=13adbc7f"
+    },
+    "number": "GL 11 JIP",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RO",
+   "region_marking": "prefix_letters",
+   "regions_count": 42,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/romania"
+  },
+  {
+   "country_code": "RU",
+   "country_name": "Russia",
+   "example": {
+    "formatted": "С065МК 197",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ru/plate.png?number=%D0%A1065%D0%9C%D0%9A&region=197&v=0dccaf4d",
+     "svg": "https://openvan.camp/api/plates/ru/plate.svg?number=%D0%A1065%D0%9C%D0%9A&region=197&v=0dccaf4d"
+    },
+    "number": "С065МК",
+    "region": "197"
+   },
+   "glyphs_license": "free",
+   "intl_code": "RUS",
+   "region_marking": "separate_field",
+   "regions_count": 96,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/russia"
+  },
+  {
+   "country_code": "RW",
+   "country_name": "Rwanda",
+   "example": {
+    "formatted": "RAB 272H",
+    "image": {
+     "png": "https://openvan.camp/api/plates/rw/plate.png?number=RAB+272H&v=9e7e065a",
+     "svg": "https://openvan.camp/api/plates/rw/plate.svg?number=RAB+272H&v=9e7e065a"
+    },
+    "number": "RAB 272H",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RWA",
+   "region_marking": "none",
+   "regions_count": 10,
+   "size_mm": [
+    520,
+    113
+   ],
+   "url": "https://openvan.camp/en/license-plates/rwanda"
+  },
+  {
+   "country_code": "KN",
+   "country_name": "Saint Kitts and Nevis",
+   "example": {
+    "formatted": "P 884",
+    "image": {
+     "png": "https://openvan.camp/api/plates/kn/plate.png?number=P+884&v=05e4e6db",
+     "svg": "https://openvan.camp/api/plates/kn/plate.svg?number=P+884&v=05e4e6db"
+    },
+    "number": "P 884",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    119
+   ],
+   "url": "https://openvan.camp/en/license-plates/saint-kitts-and-nevis"
+  },
+  {
+   "country_code": "LC",
+   "country_name": "Saint Lucia",
+   "example": {
+    "formatted": "HU870",
+    "image": {
+     "png": "https://openvan.camp/api/plates/lc/plate.png?number=HU870&v=0aa24bab",
+     "svg": "https://openvan.camp/api/plates/lc/plate.svg?number=HU870&v=0aa24bab"
+    },
+    "number": "HU870",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "WL",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    120
+   ],
+   "url": "https://openvan.camp/en/license-plates/saint-lucia"
+  },
+  {
+   "country_code": "VC",
+   "country_name": "Saint Vincent and the Grenadines",
+   "example": {
+    "formatted": "P 2401",
+    "image": {
+     "png": "https://openvan.camp/api/plates/vc/plate.png?number=P+2401&v=b761c1d6",
+     "svg": "https://openvan.camp/api/plates/vc/plate.svg?number=P+2401&v=b761c1d6"
+    },
+    "number": "P 2401",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "WV",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    125
+   ],
+   "url": "https://openvan.camp/en/license-plates/saint-vincent-and-the-grenadines"
+  },
+  {
+   "country_code": "WS",
+   "country_name": "Samoa",
+   "example": {
+    "formatted": "5511",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ws/plate.png?number=5511&v=cfc78abd",
+     "svg": "https://openvan.camp/api/plates/ws/plate.svg?number=5511&v=cfc78abd"
+    },
+    "number": "5511",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "WS",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    372,
+    134
+   ],
+   "url": "https://openvan.camp/en/license-plates/samoa"
+  },
+  {
+   "country_code": "SM",
+   "country_name": "San Marino",
+   "example": {
+    "formatted": "J0484",
+    "image": {
+     "png": "https://openvan.camp/api/plates/sm/plate.png?number=J0484&v=f216c78d",
+     "svg": "https://openvan.camp/api/plates/sm/plate.svg?number=J0484&v=f216c78d"
+    },
+    "number": "J0484",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RSM",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    340,
+    100
+   ],
+   "url": "https://openvan.camp/en/license-plates/san-marino"
+  },
+  {
+   "country_code": "ST",
+   "country_name": "Sao Tome and Principe",
+   "example": {
+    "formatted": "STP-87-63S",
+    "image": {
+     "png": "https://openvan.camp/api/plates/st/plate.png?number=STP-87-63S&v=acb3079d",
+     "svg": "https://openvan.camp/api/plates/st/plate.svg?number=STP-87-63S&v=acb3079d"
+    },
+    "number": "STP-87-63S",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    108
+   ],
+   "url": "https://openvan.camp/en/license-plates/sao-tome-and-principe"
+  },
+  {
+   "country_code": "SA",
+   "country_name": "Saudi Arabia",
+   "example": {
+    "formatted": "7653 TNJ",
+    "image": {
+     "png": "https://openvan.camp/api/plates/sa/plate.png?number=7653+TNJ&v=40a0de8b",
+     "svg": "https://openvan.camp/api/plates/sa/plate.svg?number=7653+TNJ&v=40a0de8b"
+    },
+    "number": "7653 TNJ",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "KSA",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    320,
+    173
+   ],
+   "url": "https://openvan.camp/en/license-plates/saudi-arabia"
+  },
+  {
+   "country_code": "SN",
+   "country_name": "Senegal",
+   "example": {
+    "formatted": "AA-012-BC DK",
+    "image": {
+     "png": "https://openvan.camp/api/plates/sn/plate.png?number=AA-012-BC&region=DK&v=3b11141d",
+     "svg": "https://openvan.camp/api/plates/sn/plate.svg?number=AA-012-BC&region=DK&v=3b11141d"
+    },
+    "number": "AA-012-BC",
+    "region": "DK"
+   },
+   "glyphs_license": "free",
+   "intl_code": "SN",
+   "region_marking": "separate_field",
+   "regions_count": 14,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/senegal"
+  },
+  {
+   "country_code": "RS",
+   "country_name": "Serbia",
+   "example": {
+    "formatted": "KŠ 055-HI",
+    "image": {
+     "png": "https://openvan.camp/api/plates/rs/plate.png?number=K%C5%A0+055-HI&v=26dc0317",
+     "svg": "https://openvan.camp/api/plates/rs/plate.svg?number=K%C5%A0+055-HI&v=26dc0317"
+    },
+    "number": "KŠ 055-HI",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "SRB",
+   "region_marking": "prefix_letters",
+   "regions_count": 83,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/serbia"
+  },
+  {
+   "country_code": "SC",
+   "country_name": "Seychelles",
+   "example": {
+    "formatted": "S6362",
+    "image": {
+     "png": "https://openvan.camp/api/plates/sc/plate.png?number=S6362&v=ae1959cf",
+     "svg": "https://openvan.camp/api/plates/sc/plate.svg?number=S6362&v=ae1959cf"
+    },
+    "number": "S6362",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "SY",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    330,
+    150
+   ],
+   "url": "https://openvan.camp/en/license-plates/seychelles"
+  },
+  {
+   "country_code": "SL",
+   "country_name": "Sierra Leone",
+   "example": {
+    "formatted": "AIB 960 PRV",
+    "image": {
+     "png": "https://openvan.camp/api/plates/sl/plate.png?number=AIB+960&region=PRV&v=5974368e",
+     "svg": "https://openvan.camp/api/plates/sl/plate.svg?number=AIB+960&region=PRV&v=5974368e"
+    },
+    "number": "AIB 960",
+    "region": "PRV"
+   },
+   "glyphs_license": "free",
+   "intl_code": "WAL",
+   "region_marking": "separate_field",
+   "regions_count": 14,
+   "size_mm": [
+    520,
+    109
+   ],
+   "url": "https://openvan.camp/en/license-plates/sierra-leone"
+  },
+  {
+   "country_code": "SG",
+   "country_name": "Singapore",
+   "example": {
+    "formatted": "SBA 1234 G",
+    "image": {
+     "png": "https://openvan.camp/api/plates/sg/plate.png?number=SBA+1234+G&v=90ae287a",
+     "svg": "https://openvan.camp/api/plates/sg/plate.svg?number=SBA+1234+G&v=90ae287a"
+    },
+    "number": "SBA 1234 G",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "SGP",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    111
+   ],
+   "url": "https://openvan.camp/en/license-plates/singapore"
+  },
+  {
+   "country_code": "SK",
+   "country_name": "Slovakia",
+   "example": {
+    "formatted": "AA 328AD",
+    "image": null,
+    "number": "AA 328AD",
+    "region": ""
+   },
+   "glyphs_license": "restricted",
+   "intl_code": "SK",
+   "region_marking": "legacy_only",
+   "regions_count": 72,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/slovakia"
+  },
+  {
+   "country_code": "SI",
+   "country_name": "Slovenia",
+   "example": {
+    "formatted": "LJ 60-CFB",
+    "image": {
+     "png": "https://openvan.camp/api/plates/si/plate.png?number=LJ+60-CFB&v=5dc7f248",
+     "svg": "https://openvan.camp/api/plates/si/plate.svg?number=LJ+60-CFB&v=5dc7f248"
+    },
+    "number": "LJ 60-CFB",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "SLO",
+   "region_marking": "prefix_letters",
+   "regions_count": 11,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/slovenia"
+  },
+  {
+   "country_code": "SB",
+   "country_name": "Solomon Islands",
+   "example": {
+    "formatted": "MB·0378",
+    "image": {
+     "png": "https://openvan.camp/api/plates/sb/plate.png?number=MB%C2%B70378&v=b81e7cb3",
+     "svg": "https://openvan.camp/api/plates/sb/plate.svg?number=MB%C2%B70378&v=b81e7cb3"
+    },
+    "number": "MB·0378",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    372,
+    134
+   ],
+   "url": "https://openvan.camp/en/license-plates/solomon-islands"
+  },
+  {
+   "country_code": "SO",
+   "country_name": "Somalia",
+   "example": {
+    "formatted": "AD 4657",
+    "image": {
+     "png": "https://openvan.camp/api/plates/so/plate.png?number=AD+4657&v=67fd7409",
+     "svg": "https://openvan.camp/api/plates/so/plate.svg?number=AD+4657&v=67fd7409"
+    },
+    "number": "AD 4657",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "SO",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    340,
+    130
+   ],
+   "url": "https://openvan.camp/en/license-plates/somalia"
+  },
+  {
+   "country_code": "ZA",
+   "country_name": "South Africa",
+   "example": {
+    "formatted": "CA 123-456",
+    "image": {
+     "png": "https://openvan.camp/api/plates/za/plate.png?number=CA+123-456&v=3d9faf4a",
+     "svg": "https://openvan.camp/api/plates/za/plate.svg?number=CA+123-456&v=3d9faf4a"
+    },
+    "number": "CA 123-456",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "ZA",
+   "region_marking": "mixed",
+   "regions_count": 457,
+   "size_mm": [
+    520,
+    113
+   ],
+   "url": "https://openvan.camp/en/license-plates/south-africa"
+  },
+  {
+   "country_code": "KR",
+   "country_name": "South Korea",
+   "example": {
+    "formatted": "123가 4568",
+    "image": {
+     "png": "https://openvan.camp/api/plates/kr/plate.png?number=123%EA%B0%80+4568&v=9010df90",
+     "svg": "https://openvan.camp/api/plates/kr/plate.svg?number=123%EA%B0%80+4568&v=9010df90"
+    },
+    "number": "123가 4568",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "ROK",
+   "region_marking": "mixed",
+   "regions_count": 17,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/south-korea"
+  },
+  {
+   "country_code": "SS",
+   "country_name": "South Sudan",
+   "example": {
+    "formatted": "860 AJ",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ss/plate.png?number=860+AJ&v=850419dd",
+     "svg": "https://openvan.camp/api/plates/ss/plate.svg?number=860+AJ&v=850419dd"
+    },
+    "number": "860 AJ",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "SSD",
+   "region_marking": "legacy_only",
+   "regions_count": 4,
+   "size_mm": [
+    340,
+    180
+   ],
+   "url": "https://openvan.camp/en/license-plates/south-sudan"
+  },
+  {
+   "country_code": "ES",
+   "country_name": "Spain",
+   "example": {
+    "formatted": "0202 ZBF",
+    "image": {
+     "png": "https://openvan.camp/api/plates/es/plate.png?number=0202+ZBF&v=15f291f8",
+     "svg": "https://openvan.camp/api/plates/es/plate.svg?number=0202+ZBF&v=15f291f8"
+    },
+    "number": "0202 ZBF",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "E",
+   "region_marking": "legacy_only",
+   "regions_count": 52,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/spain"
+  },
+  {
+   "country_code": "LK",
+   "country_name": "Sri Lanka",
+   "example": {
+    "formatted": "ND-8740 WP",
+    "image": {
+     "png": "https://openvan.camp/api/plates/lk/plate.png?number=ND-8740&region=WP&v=5d501b3e",
+     "svg": "https://openvan.camp/api/plates/lk/plate.svg?number=ND-8740&region=WP&v=5d501b3e"
+    },
+    "number": "ND-8740",
+    "region": "WP"
+   },
+   "glyphs_license": "free",
+   "intl_code": "CL",
+   "region_marking": "separate_field",
+   "regions_count": 9,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/sri-lanka"
+  },
+  {
+   "country_code": "SD",
+   "country_name": "Sudan",
+   "example": {
+    "formatted": "7 KH 10346",
+    "image": {
+     "png": "https://openvan.camp/api/plates/sd/plate.png?number=7+KH+10346&v=8ee821ad",
+     "svg": "https://openvan.camp/api/plates/sd/plate.svg?number=7+KH+10346&v=8ee821ad"
+    },
+    "number": "7 KH 10346",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "SUD",
+   "region_marking": "mixed",
+   "regions_count": 1,
+   "size_mm": [
+    340,
+    180
+   ],
+   "url": "https://openvan.camp/en/license-plates/sudan"
+  },
+  {
+   "country_code": "SR",
+   "country_name": "Suriname",
+   "example": {
+    "formatted": "PN·40·77",
+    "image": {
+     "png": "https://openvan.camp/api/plates/sr/plate.png?number=PN%C2%B740%C2%B777&v=c2d4e8fd",
+     "svg": "https://openvan.camp/api/plates/sr/plate.svg?number=PN%C2%B740%C2%B777&v=c2d4e8fd"
+    },
+    "number": "PN·40·77",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "SME",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/suriname"
+  },
+  {
+   "country_code": "SE",
+   "country_name": "Sweden",
+   "example": {
+    "formatted": "MLB 84A",
+    "image": {
+     "png": "https://openvan.camp/api/plates/se/plate.png?number=MLB+84A&v=2230e9a3",
+     "svg": "https://openvan.camp/api/plates/se/plate.svg?number=MLB+84A&v=2230e9a3"
+    },
+    "number": "MLB 84A",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "S",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/sweden"
+  },
+  {
+   "country_code": "CH",
+   "country_name": "Switzerland",
+   "example": {
+    "formatted": "ZH·272577",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ch/plate.png?number=ZH%C2%B7272577&v=39bb0d6e",
+     "svg": "https://openvan.camp/api/plates/ch/plate.svg?number=ZH%C2%B7272577&v=39bb0d6e"
+    },
+    "number": "ZH·272577",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "CH",
+   "region_marking": "prefix_letters",
+   "regions_count": 28,
+   "size_mm": [
+    500,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/switzerland"
+  },
+  {
+   "country_code": "SY",
+   "country_name": "Syria",
+   "example": {
+    "formatted": "12 12345",
+    "image": {
+     "png": "https://openvan.camp/api/plates/sy/plate.png?number=12+12345&v=dd88bb42",
+     "svg": "https://openvan.camp/api/plates/sy/plate.svg?number=12+12345&v=dd88bb42"
+    },
+    "number": "12 12345",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "SYR",
+   "region_marking": "legacy_only",
+   "regions_count": 14,
+   "size_mm": [
+    520,
+    115
+   ],
+   "url": "https://openvan.camp/en/license-plates/syria"
+  },
+  {
+   "country_code": "TW",
+   "country_name": "Taiwan",
+   "example": {
+    "formatted": "BFG-9000",
+    "image": {
+     "png": "https://openvan.camp/api/plates/tw/plate.png?number=BFG-9000&v=d26cb22f",
+     "svg": "https://openvan.camp/api/plates/tw/plate.svg?number=BFG-9000&v=d26cb22f"
+    },
+    "number": "BFG-9000",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "RC",
+   "region_marking": "legacy_only",
+   "regions_count": 5,
+   "size_mm": [
+    380,
+    160
+   ],
+   "url": "https://openvan.camp/en/license-plates/taiwan"
+  },
+  {
+   "country_code": "TJ",
+   "country_name": "Tajikistan",
+   "example": {
+    "formatted": "9999WT02",
+    "image": {
+     "png": "https://openvan.camp/api/plates/tj/plate.png?number=9999WT02&v=4e0f8704",
+     "svg": "https://openvan.camp/api/plates/tj/plate.svg?number=9999WT02&v=4e0f8704"
+    },
+    "number": "9999WT02",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "TJ",
+   "region_marking": "suffix_digits",
+   "regions_count": 5,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/tajikistan"
+  },
+  {
+   "country_code": "TZ",
+   "country_name": "Tanzania",
+   "example": {
+    "formatted": "T 995 AGT",
+    "image": {
+     "png": "https://openvan.camp/api/plates/tz/plate.png?number=T+995+AGT&v=406bd0a1",
+     "svg": "https://openvan.camp/api/plates/tz/plate.svg?number=T+995+AGT&v=406bd0a1"
+    },
+    "number": "T 995 AGT",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "EAT",
+   "region_marking": "prefix_letters",
+   "regions_count": 32,
+   "size_mm": [
+    520,
+    113
+   ],
+   "url": "https://openvan.camp/en/license-plates/tanzania"
+  },
+  {
+   "country_code": "TH",
+   "country_name": "Thailand",
+   "example": {
+    "formatted": "กว 2283 ภูเก็ต",
+    "image": {
+     "png": "https://openvan.camp/api/plates/th/plate.png?number=%E0%B8%81%E0%B8%A7+2283&region=%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95&v=587b518f",
+     "svg": "https://openvan.camp/api/plates/th/plate.svg?number=%E0%B8%81%E0%B8%A7+2283&region=%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95&v=587b518f"
+    },
+    "number": "กว 2283",
+    "region": "ภูเก็ต"
+   },
+   "glyphs_license": "free",
+   "intl_code": "T",
+   "region_marking": "text_name",
+   "regions_count": 77,
+   "size_mm": [
+    340,
+    150
+   ],
+   "url": "https://openvan.camp/en/license-plates/thailand"
+  },
+  {
+   "country_code": "TL",
+   "country_name": "Timor-Leste",
+   "example": {
+    "formatted": "14-875",
+    "image": {
+     "png": "https://openvan.camp/api/plates/tl/plate.png?number=14-875&v=7a599a79",
+     "svg": "https://openvan.camp/api/plates/tl/plate.svg?number=14-875&v=7a599a79"
+    },
+    "number": "14-875",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "TL",
+   "region_marking": "mixed",
+   "regions_count": 2,
+   "size_mm": [
+    340,
+    120
+   ],
+   "url": "https://openvan.camp/en/license-plates/timor-leste"
+  },
+  {
+   "country_code": "TG",
+   "country_name": "Togo",
+   "example": {
+    "formatted": "9867 AE",
+    "image": {
+     "png": "https://openvan.camp/api/plates/tg/plate.png?number=9867+AE&v=be4ee354",
+     "svg": "https://openvan.camp/api/plates/tg/plate.svg?number=9867+AE&v=be4ee354"
+    },
+    "number": "9867 AE",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "TG",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/togo"
+  },
+  {
+   "country_code": "TO",
+   "country_name": "Tonga",
+   "example": {
+    "formatted": "C 10792",
+    "image": {
+     "png": "https://openvan.camp/api/plates/to/plate.png?number=C+10792&v=f26b4f3e",
+     "svg": "https://openvan.camp/api/plates/to/plate.svg?number=C+10792&v=f26b4f3e"
+    },
+    "number": "C 10792",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "TO",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    372,
+    134
+   ],
+   "url": "https://openvan.camp/en/license-plates/tonga"
+  },
+  {
+   "country_code": "TT",
+   "country_name": "Trinidad and Tobago",
+   "example": {
+    "formatted": "PBJ 4763",
+    "image": {
+     "png": "https://openvan.camp/api/plates/tt/plate.png?number=PBJ+4763&v=55301f47",
+     "svg": "https://openvan.camp/api/plates/tt/plate.svg?number=PBJ+4763&v=55301f47"
+    },
+    "number": "PBJ 4763",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "TT",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    111
+   ],
+   "url": "https://openvan.camp/en/license-plates/trinidad-and-tobago"
+  },
+  {
+   "country_code": "TN",
+   "country_name": "Tunisia",
+   "example": {
+    "formatted": "165 8908",
+    "image": {
+     "png": "https://openvan.camp/api/plates/tn/plate.png?number=165+8908&v=730ba25f",
+     "svg": "https://openvan.camp/api/plates/tn/plate.svg?number=165+8908&v=730ba25f"
+    },
+    "number": "165 8908",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "TN",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/tunisia"
+  },
+  {
+   "country_code": "TR",
+   "country_name": "Turkey",
+   "example": {
+    "formatted": "ABC 123 34",
+    "image": {
+     "png": "https://openvan.camp/api/plates/tr/plate.png?number=ABC+123&region=34&v=76d2395a",
+     "svg": "https://openvan.camp/api/plates/tr/plate.svg?number=ABC+123&region=34&v=76d2395a"
+    },
+    "number": "ABC 123",
+    "region": "34"
+   },
+   "glyphs_license": "free",
+   "intl_code": "TR",
+   "region_marking": "prefix_digits",
+   "regions_count": 81,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/turkey"
+  },
+  {
+   "country_code": "TM",
+   "country_name": "Turkmenistan",
+   "example": {
+    "formatted": "BZ 6472 LB",
+    "image": {
+     "png": "https://openvan.camp/api/plates/tm/plate.png?number=BZ+6472+LB&v=3f383924",
+     "svg": "https://openvan.camp/api/plates/tm/plate.svg?number=BZ+6472+LB&v=3f383924"
+    },
+    "number": "BZ 6472 LB",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "TM",
+   "region_marking": "mixed",
+   "regions_count": 7,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/turkmenistan"
+  },
+  {
+   "country_code": "TV",
+   "country_name": "Tuvalu",
+   "example": {
+    "formatted": "A01792",
+    "image": {
+     "png": "https://openvan.camp/api/plates/tv/plate.png?number=A01792&v=b4eaaa58",
+     "svg": "https://openvan.camp/api/plates/tv/plate.svg?number=A01792&v=b4eaaa58"
+    },
+    "number": "A01792",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    372,
+    134
+   ],
+   "url": "https://openvan.camp/en/license-plates/tuvalu"
+  },
+  {
+   "country_code": "AE",
+   "country_name": "UAE",
+   "example": {
+    "formatted": "K 20226",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ae/plate.png?number=K+20226&v=f8ec8941",
+     "svg": "https://openvan.camp/api/plates/ae/plate.svg?number=K+20226&v=f8ec8941"
+    },
+    "number": "K 20226",
+    "region": ""
+   },
+   "glyphs_license": "sharealike",
+   "intl_code": "UAE",
+   "region_marking": "text_name",
+   "regions_count": 7,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/uae"
+  },
+  {
+   "country_code": "UG",
+   "country_name": "Uganda",
+   "example": {
+    "formatted": "UAG 679C",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ug/plate.png?number=UAG+679C&v=eefb68e4",
+     "svg": "https://openvan.camp/api/plates/ug/plate.svg?number=UAG+679C&v=eefb68e4"
+    },
+    "number": "UAG 679C",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "EAU",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    113
+   ],
+   "url": "https://openvan.camp/en/license-plates/uganda"
+  },
+  {
+   "country_code": "UA",
+   "country_name": "Ukraine",
+   "example": {
+    "formatted": "AK 9265 AK",
+    "image": null,
+    "number": "AK 9265 AK",
+    "region": ""
+   },
+   "glyphs_license": "restricted",
+   "intl_code": "UA",
+   "region_marking": "prefix_letters",
+   "regions_count": 29,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/ukraine"
+  },
+  {
+   "country_code": "GB",
+   "country_name": "United Kingdom",
+   "example": {
+    "formatted": "BD51 SMR",
+    "image": {
+     "png": "https://openvan.camp/api/plates/gb/plate.png?number=BD51+SMR&v=f41a5ec2",
+     "svg": "https://openvan.camp/api/plates/gb/plate.svg?number=BD51+SMR&v=f41a5ec2"
+    },
+    "number": "BD51 SMR",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "UK",
+   "region_marking": "prefix_letters",
+   "regions_count": 123,
+   "size_mm": [
+    520,
+    111
+   ],
+   "url": "https://openvan.camp/en/license-plates/united-kingdom"
+  },
+  {
+   "country_code": "US",
+   "country_name": "United States",
+   "example": {
+    "formatted": "9KDV763 CA",
+    "image": {
+     "png": "https://openvan.camp/api/plates/us/plate.png?number=9KDV763&region=CA&v=f3dca3cd",
+     "svg": "https://openvan.camp/api/plates/us/plate.svg?number=9KDV763&region=CA&v=f3dca3cd"
+    },
+    "number": "9KDV763",
+    "region": "CA"
+   },
+   "glyphs_license": "free",
+   "intl_code": "USA",
+   "region_marking": "text_name",
+   "regions_count": 56,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/united-states"
+  },
+  {
+   "country_code": "UY",
+   "country_name": "Uruguay",
+   "example": {
+    "formatted": "STP 3480",
+    "image": {
+     "png": "https://openvan.camp/api/plates/uy/plate.png?number=STP+3480&v=f940e016",
+     "svg": "https://openvan.camp/api/plates/uy/plate.svg?number=STP+3480&v=f940e016"
+    },
+    "number": "STP 3480",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "ROU",
+   "region_marking": "prefix_letters",
+   "regions_count": 19,
+   "size_mm": [
+    400,
+    130
+   ],
+   "url": "https://openvan.camp/en/license-plates/uruguay"
+  },
+  {
+   "country_code": "UZ",
+   "country_name": "Uzbekistan",
+   "example": {
+    "formatted": "30 A 674 PA",
+    "image": {
+     "png": "https://openvan.camp/api/plates/uz/plate.png?number=30+A+674+PA&v=d5c621a1",
+     "svg": "https://openvan.camp/api/plates/uz/plate.svg?number=30+A+674+PA&v=d5c621a1"
+    },
+    "number": "30 A 674 PA",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "UZ",
+   "region_marking": "separate_field",
+   "regions_count": 14,
+   "size_mm": [
+    520,
+    112
+   ],
+   "url": "https://openvan.camp/en/license-plates/uzbekistan"
+  },
+  {
+   "country_code": "VU",
+   "country_name": "Vanuatu",
+   "example": {
+    "formatted": "10346",
+    "image": {
+     "png": "https://openvan.camp/api/plates/vu/plate.png?number=10346&v=4ef817d9",
+     "svg": "https://openvan.camp/api/plates/vu/plate.svg?number=10346&v=4ef817d9"
+    },
+    "number": "10346",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": null,
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    372,
+    134
+   ],
+   "url": "https://openvan.camp/en/license-plates/vanuatu"
+  },
+  {
+   "country_code": "VA",
+   "country_name": "Vatican City",
+   "example": {
+    "formatted": "SCV 01177",
+    "image": {
+     "png": "https://openvan.camp/api/plates/va/plate.png?number=SCV+01177&v=be3e8c7b",
+     "svg": "https://openvan.camp/api/plates/va/plate.svg?number=SCV+01177&v=be3e8c7b"
+    },
+    "number": "SCV 01177",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "V",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/vatican-city"
+  },
+  {
+   "country_code": "VE",
+   "country_name": "Venezuela",
+   "example": {
+    "formatted": "AA128GG CARABOBO",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ve/plate.png?number=AA128GG&region=CARABOBO&v=2639b453",
+     "svg": "https://openvan.camp/api/plates/ve/plate.svg?number=AA128GG&region=CARABOBO&v=2639b453"
+    },
+    "number": "AA128GG",
+    "region": "CARABOBO"
+   },
+   "glyphs_license": "free",
+   "intl_code": "YV",
+   "region_marking": "mixed",
+   "regions_count": 24,
+   "size_mm": [
+    305,
+    152
+   ],
+   "url": "https://openvan.camp/en/license-plates/venezuela"
+  },
+  {
+   "country_code": "VN",
+   "country_name": "Vietnam",
+   "example": {
+    "formatted": "30F-256.58",
+    "image": {
+     "png": "https://openvan.camp/api/plates/vn/plate.png?number=30F-256.58&v=bc28c665",
+     "svg": "https://openvan.camp/api/plates/vn/plate.svg?number=30F-256.58&v=bc28c665"
+    },
+    "number": "30F-256.58",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "VN",
+   "region_marking": "prefix_digits",
+   "regions_count": 34,
+   "size_mm": [
+    520,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/vietnam"
+  },
+  {
+   "country_code": "YE",
+   "country_name": "Yemen",
+   "example": {
+    "formatted": "2 12345",
+    "image": {
+     "png": "https://openvan.camp/api/plates/ye/plate.png?number=2+12345&v=86162da0",
+     "svg": "https://openvan.camp/api/plates/ye/plate.svg?number=2+12345&v=86162da0"
+    },
+    "number": "2 12345",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "YAR",
+   "region_marking": "prefix_digits",
+   "regions_count": 22,
+   "size_mm": [
+    340,
+    188
+   ],
+   "url": "https://openvan.camp/en/license-plates/yemen"
+  },
+  {
+   "country_code": "ZM",
+   "country_name": "Zambia",
+   "example": {
+    "formatted": "ADD 4077 T",
+    "image": {
+     "png": "https://openvan.camp/api/plates/zm/plate.png?number=ADD+4077+T&v=4b6e6a48",
+     "svg": "https://openvan.camp/api/plates/zm/plate.svg?number=ADD+4077+T&v=4b6e6a48"
+    },
+    "number": "ADD 4077 T",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "Z",
+   "region_marking": "legacy_only",
+   "regions_count": 21,
+   "size_mm": [
+    520,
+    113
+   ],
+   "url": "https://openvan.camp/en/license-plates/zambia"
+  },
+  {
+   "country_code": "ZW",
+   "country_name": "Zimbabwe",
+   "example": {
+    "formatted": "ADV 5517",
+    "image": {
+     "png": "https://openvan.camp/api/plates/zw/plate.png?number=ADV+5517&v=344e1ff1",
+     "svg": "https://openvan.camp/api/plates/zw/plate.svg?number=ADV+5517&v=344e1ff1"
+    },
+    "number": "ADV 5517",
+    "region": ""
+   },
+   "glyphs_license": "free",
+   "intl_code": "ZW",
+   "region_marking": "none",
+   "regions_count": 0,
+   "size_mm": [
+    430,
+    110
+   ],
+   "url": "https://openvan.camp/en/license-plates/zimbabwe"
+  }
+ ],
+ "meta": {
+  "api_version": 1,
+  "total_countries": 199
+ },
+ "success": true
+}
