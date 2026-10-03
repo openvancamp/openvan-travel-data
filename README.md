@@ -1,5 +1,7 @@
 # OpenVan.camp travel data — daily snapshots
 
+![Fuel prices in 170+ countries, every day — open CSV from OpenVan.camp](.github/banner.png)
+
 [![Daily snapshot](https://github.com/openvancamp/openvan-travel-data/actions/workflows/snapshot.yml/badge.svg)](https://github.com/openvancamp/openvan-travel-data/actions/workflows/snapshot.yml)
 [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-467187)](https://creativecommons.org/licenses/by/4.0/)
 
