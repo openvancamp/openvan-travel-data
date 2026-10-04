@@ -28,8 +28,8 @@
    "example": {
     "formatted": "AB 115 XX",
     "image": {
-     "png": "https://openvan.camp/api/plates/al/plate.png?number=AB+115+XX&v=37d01dbe",
-     "svg": "https://openvan.camp/api/plates/al/plate.svg?number=AB+115+XX&v=37d01dbe"
+     "png": "https://openvan.camp/api/plates/al/plate.png?number=AB+115+XX&v=ea085827",
+     "svg": "https://openvan.camp/api/plates/al/plate.svg?number=AB+115+XX&v=ea085827"
     },
     "number": "AB 115 XX",
     "region": ""
@@ -50,8 +50,8 @@
    "example": {
     "formatted": "56789 120 34",
     "image": {
-     "png": "https://openvan.camp/api/plates/dz/plate.png?number=56789+120+34&v=36f2ec92",
-     "svg": "https://openvan.camp/api/plates/dz/plate.svg?number=56789+120+34&v=36f2ec92"
+     "png": "https://openvan.camp/api/plates/dz/plate.png?number=56789+120+34&v=0d8c9779",
+     "svg": "https://openvan.camp/api/plates/dz/plate.svg?number=56789+120+34&v=0d8c9779"
     },
     "number": "56789 120 34",
     "region": ""
@@ -72,8 +72,8 @@
    "example": {
     "formatted": "B0944",
     "image": {
-     "png": "https://openvan.camp/api/plates/ad/plate.png?number=B0944&v=e2196030",
-     "svg": "https://openvan.camp/api/plates/ad/plate.svg?number=B0944&v=e2196030"
+     "png": "https://openvan.camp/api/plates/ad/plate.png?number=B0944&v=805777b3",
+     "svg": "https://openvan.camp/api/plates/ad/plate.svg?number=B0944&v=805777b3"
     },
     "number": "B0944",
     "region": ""
@@ -116,8 +116,8 @@
    "example": {
     "formatted": "A 1587",
     "image": {
-     "png": "https://openvan.camp/api/plates/ag/plate.png?number=A+1587&v=c378dcb5",
-     "svg": "https://openvan.camp/api/plates/ag/plate.svg?number=A+1587&v=c378dcb5"
+     "png": "https://openvan.camp/api/plates/ag/plate.png?number=A+1587&v=ffe51383",
+     "svg": "https://openvan.camp/api/plates/ag/plate.svg?number=A+1587&v=ffe51383"
     },
     "number": "A 1587",
     "region": ""
@@ -138,8 +138,8 @@
    "example": {
     "formatted": "AJ 707 RU",
     "image": {
-     "png": "https://openvan.camp/api/plates/ar/plate.png?number=AJ+707+RU&v=f940e016",
-     "svg": "https://openvan.camp/api/plates/ar/plate.svg?number=AJ+707+RU&v=f940e016"
+     "png": "https://openvan.camp/api/plates/ar/plate.png?number=AJ+707+RU&v=a84168ad",
+     "svg": "https://openvan.camp/api/plates/ar/plate.svg?number=AJ+707+RU&v=a84168ad"
     },
     "number": "AJ 707 RU",
     "region": ""
@@ -160,8 +160,8 @@
    "example": {
     "formatted": "77 LU 555",
     "image": {
-     "png": "https://openvan.camp/api/plates/am/plate.png?number=77+LU+555&v=92eec684",
-     "svg": "https://openvan.camp/api/plates/am/plate.svg?number=77+LU+555&v=92eec684"
+     "png": "https://openvan.camp/api/plates/am/plate.png?number=77+LU+555&v=dcc25a78",
+     "svg": "https://openvan.camp/api/plates/am/plate.svg?number=77+LU+555&v=dcc25a78"
     },
     "number": "77 LU 555",
     "region": ""
@@ -182,8 +182,8 @@
    "example": {
     "formatted": "CB·33·GO NSW",
     "image": {
-     "png": "https://openvan.camp/api/plates/au/plate.png?number=CB%C2%B733%C2%B7GO&region=NSW&v=55e9e433",
-     "svg": "https://openvan.camp/api/plates/au/plate.svg?number=CB%C2%B733%C2%B7GO&region=NSW&v=55e9e433"
+     "png": "https://openvan.camp/api/plates/au/plate.png?number=CB%C2%B733%C2%B7GO&region=NSW&v=ac7c71f3",
+     "svg": "https://openvan.camp/api/plates/au/plate.svg?number=CB%C2%B733%C2%B7GO&region=NSW&v=ac7c71f3"
     },
     "number": "CB·33·GO",
     "region": "NSW"
@@ -311,8 +311,8 @@
    "example": {
     "formatted": "X5706",
     "image": {
-     "png": "https://openvan.camp/api/plates/bb/plate.png?number=X5706&v=da3eba7c",
-     "svg": "https://openvan.camp/api/plates/bb/plate.svg?number=X5706&v=da3eba7c"
+     "png": "https://openvan.camp/api/plates/bb/plate.png?number=X5706&v=3aa5e243",
+     "svg": "https://openvan.camp/api/plates/bb/plate.svg?number=X5706&v=3aa5e243"
     },
     "number": "X5706",
     "region": ""
@@ -355,8 +355,8 @@
    "example": {
     "formatted": "1-ABC-123",
     "image": {
-     "png": "https://openvan.camp/api/plates/be/plate.png?number=1-ABC-123&v=e1c45f7e",
-     "svg": "https://openvan.camp/api/plates/be/plate.svg?number=1-ABC-123&v=e1c45f7e"
+     "png": "https://openvan.camp/api/plates/be/plate.png?number=1-ABC-123&v=e18a7e8a",
+     "svg": "https://openvan.camp/api/plates/be/plate.svg?number=1-ABC-123&v=e18a7e8a"
     },
     "number": "1-ABC-123",
     "region": ""
@@ -443,8 +443,8 @@
    "example": {
     "formatted": "M48-E-415",
     "image": {
-     "png": "https://openvan.camp/api/plates/ba/plate.png?number=M48-E-415&v=a2a9f074",
-     "svg": "https://openvan.camp/api/plates/ba/plate.svg?number=M48-E-415&v=a2a9f074"
+     "png": "https://openvan.camp/api/plates/ba/plate.png?number=M48-E-415&v=29fb0a49",
+     "svg": "https://openvan.camp/api/plates/ba/plate.svg?number=M48-E-415&v=29fb0a49"
     },
     "number": "M48-E-415",
     "region": ""
@@ -465,8 +465,8 @@
    "example": {
     "formatted": "1852PHD L",
     "image": {
-     "png": "https://openvan.camp/api/plates/bo/plate.png?number=1852PHD&region=L&v=d39d0bb3",
-     "svg": "https://openvan.camp/api/plates/bo/plate.svg?number=1852PHD&region=L&v=d39d0bb3"
+     "png": "https://openvan.camp/api/plates/bo/plate.png?number=1852PHD&region=L&v=73ccb13b",
+     "svg": "https://openvan.camp/api/plates/bo/plate.svg?number=1852PHD&region=L&v=73ccb13b"
     },
     "number": "1852PHD",
     "region": "L"
@@ -487,8 +487,8 @@
    "example": {
     "formatted": "B 962 ATH",
     "image": {
-     "png": "https://openvan.camp/api/plates/bw/plate.png?number=B+962+ATH&v=5aa5c92e",
-     "svg": "https://openvan.camp/api/plates/bw/plate.svg?number=B+962+ATH&v=5aa5c92e"
+     "png": "https://openvan.camp/api/plates/bw/plate.png?number=B+962+ATH&v=9fee2a06",
+     "svg": "https://openvan.camp/api/plates/bw/plate.svg?number=B+962+ATH&v=9fee2a06"
     },
     "number": "B 962 ATH",
     "region": ""
@@ -531,8 +531,8 @@
    "example": {
     "formatted": "KN 232",
     "image": {
-     "png": "https://openvan.camp/api/plates/bn/plate.png?number=KN+232&v=ccb6882d",
-     "svg": "https://openvan.camp/api/plates/bn/plate.svg?number=KN+232&v=ccb6882d"
+     "png": "https://openvan.camp/api/plates/bn/plate.png?number=KN+232&v=3357a2b5",
+     "svg": "https://openvan.camp/api/plates/bn/plate.svg?number=KN+232&v=3357a2b5"
     },
     "number": "KN 232",
     "region": ""
@@ -553,8 +553,8 @@
    "example": {
     "formatted": "CA 1234 AB",
     "image": {
-     "png": "https://openvan.camp/api/plates/bg/plate.png?number=CA+1234+AB&v=8c507979",
-     "svg": "https://openvan.camp/api/plates/bg/plate.svg?number=CA+1234+AB&v=8c507979"
+     "png": "https://openvan.camp/api/plates/bg/plate.png?number=CA+1234+AB&v=f29b4a79",
+     "svg": "https://openvan.camp/api/plates/bg/plate.svg?number=CA+1234+AB&v=f29b4a79"
     },
     "number": "CA 1234 AB",
     "region": ""
@@ -575,8 +575,8 @@
    "example": {
     "formatted": "11 GK 1844",
     "image": {
-     "png": "https://openvan.camp/api/plates/bf/plate.png?number=11+GK+1844&v=db3ee63d",
-     "svg": "https://openvan.camp/api/plates/bf/plate.svg?number=11+GK+1844&v=db3ee63d"
+     "png": "https://openvan.camp/api/plates/bf/plate.png?number=11+GK+1844&v=e7222b9b",
+     "svg": "https://openvan.camp/api/plates/bf/plate.svg?number=11+GK+1844&v=e7222b9b"
     },
     "number": "11 GK 1844",
     "region": ""
@@ -619,8 +619,8 @@
    "example": {
     "formatted": "2A-3631 BANTEAY MEANCHEY",
     "image": {
-     "png": "https://openvan.camp/api/plates/kh/plate.png?number=2A-3631&region=BANTEAY+MEANCHEY&v=0b073a1f",
-     "svg": "https://openvan.camp/api/plates/kh/plate.svg?number=2A-3631&region=BANTEAY+MEANCHEY&v=0b073a1f"
+     "png": "https://openvan.camp/api/plates/kh/plate.png?number=2A-3631&region=BANTEAY+MEANCHEY&v=dc8e712a",
+     "svg": "https://openvan.camp/api/plates/kh/plate.svg?number=2A-3631&region=BANTEAY+MEANCHEY&v=dc8e712a"
     },
     "number": "2A-3631",
     "region": "BANTEAY MEANCHEY"
@@ -641,8 +641,8 @@
    "example": {
     "formatted": "LT 780 FQ",
     "image": {
-     "png": "https://openvan.camp/api/plates/cm/plate.png?number=LT+780+FQ&v=e0c6ab91",
-     "svg": "https://openvan.camp/api/plates/cm/plate.svg?number=LT+780+FQ&v=e0c6ab91"
+     "png": "https://openvan.camp/api/plates/cm/plate.png?number=LT+780+FQ&v=89c65bdb",
+     "svg": "https://openvan.camp/api/plates/cm/plate.svg?number=LT+780+FQ&v=89c65bdb"
     },
     "number": "LT 780 FQ",
     "region": ""
@@ -663,8 +663,8 @@
    "example": {
     "formatted": "CBPC 344 ON",
     "image": {
-     "png": "https://openvan.camp/api/plates/ca/plate.png?number=CBPC+344&region=ON&v=ca24e0eb",
-     "svg": "https://openvan.camp/api/plates/ca/plate.svg?number=CBPC+344&region=ON&v=ca24e0eb"
+     "png": "https://openvan.camp/api/plates/ca/plate.png?number=CBPC+344&region=ON&v=f7867221",
+     "svg": "https://openvan.camp/api/plates/ca/plate.svg?number=CBPC+344&region=ON&v=f7867221"
     },
     "number": "CBPC 344",
     "region": "ON"
@@ -685,8 +685,8 @@
    "example": {
     "formatted": "FA-06-86",
     "image": {
-     "png": "https://openvan.camp/api/plates/cv/plate.png?number=FA-06-86&v=873faebd",
-     "svg": "https://openvan.camp/api/plates/cv/plate.svg?number=FA-06-86&v=873faebd"
+     "png": "https://openvan.camp/api/plates/cv/plate.png?number=FA-06-86&v=0f29be26",
+     "svg": "https://openvan.camp/api/plates/cv/plate.svg?number=FA-06-86&v=0f29be26"
     },
     "number": "FA-06-86",
     "region": ""
@@ -729,8 +729,8 @@
    "example": {
     "formatted": "23V1234A",
     "image": {
-     "png": "https://openvan.camp/api/plates/td/plate.png?number=23V1234A&v=88fa0f1b",
-     "svg": "https://openvan.camp/api/plates/td/plate.svg?number=23V1234A&v=88fa0f1b"
+     "png": "https://openvan.camp/api/plates/td/plate.png?number=23V1234A&v=cabcdf59",
+     "svg": "https://openvan.camp/api/plates/td/plate.svg?number=23V1234A&v=cabcdf59"
     },
     "number": "23V1234A",
     "region": ""
@@ -795,8 +795,8 @@
    "example": {
     "formatted": "NOJ 122 SEVILLA",
     "image": {
-     "png": "https://openvan.camp/api/plates/co/plate.png?number=NOJ+122&region=SEVILLA&v=fd2028c3",
-     "svg": "https://openvan.camp/api/plates/co/plate.svg?number=NOJ+122&region=SEVILLA&v=fd2028c3"
+     "png": "https://openvan.camp/api/plates/co/plate.png?number=NOJ+122&region=SEVILLA&v=ffbbd04b",
+     "svg": "https://openvan.camp/api/plates/co/plate.svg?number=NOJ+122&region=SEVILLA&v=ffbbd04b"
     },
     "number": "NOJ 122",
     "region": "SEVILLA"
@@ -861,8 +861,8 @@
    "example": {
     "formatted": "BBB-123",
     "image": {
-     "png": "https://openvan.camp/api/plates/cr/plate.png?number=BBB-123&v=9086f65b",
-     "svg": "https://openvan.camp/api/plates/cr/plate.svg?number=BBB-123&v=9086f65b"
+     "png": "https://openvan.camp/api/plates/cr/plate.png?number=BBB-123&v=5799efd4",
+     "svg": "https://openvan.camp/api/plates/cr/plate.svg?number=BBB-123&v=5799efd4"
     },
     "number": "BBB-123",
     "region": ""
@@ -883,8 +883,8 @@
    "example": {
     "formatted": "ZD 608-EC",
     "image": {
-     "png": "https://openvan.camp/api/plates/hr/plate.png?number=ZD+608-EC&v=224ae0a4",
-     "svg": "https://openvan.camp/api/plates/hr/plate.svg?number=ZD+608-EC&v=224ae0a4"
+     "png": "https://openvan.camp/api/plates/hr/plate.png?number=ZD+608-EC&v=c58e6f0b",
+     "svg": "https://openvan.camp/api/plates/hr/plate.svg?number=ZD+608-EC&v=c58e6f0b"
     },
     "number": "ZD 608-EC",
     "region": ""
@@ -905,8 +905,8 @@
    "example": {
     "formatted": "P 025 245",
     "image": {
-     "png": "https://openvan.camp/api/plates/cu/plate.png?number=P+025+245&v=151c5ff7",
-     "svg": "https://openvan.camp/api/plates/cu/plate.svg?number=P+025+245&v=151c5ff7"
+     "png": "https://openvan.camp/api/plates/cu/plate.png?number=P+025+245&v=9cbb17b6",
+     "svg": "https://openvan.camp/api/plates/cu/plate.svg?number=P+025+245&v=9cbb17b6"
     },
     "number": "P 025 245",
     "region": ""
@@ -927,8 +927,8 @@
    "example": {
     "formatted": "MAA 001 0613",
     "image": {
-     "png": "https://openvan.camp/api/plates/cy/plate.png?number=MAA+001&region=0613&v=c94b45f4",
-     "svg": "https://openvan.camp/api/plates/cy/plate.svg?number=MAA+001&region=0613&v=c94b45f4"
+     "png": "https://openvan.camp/api/plates/cy/plate.png?number=MAA+001&region=0613&v=df9ce9f2",
+     "svg": "https://openvan.camp/api/plates/cy/plate.svg?number=MAA+001&region=0613&v=df9ce9f2"
     },
     "number": "MAA 001",
     "region": "0613"
@@ -949,8 +949,8 @@
    "example": {
     "formatted": "1BA 3236",
     "image": {
-     "png": "https://openvan.camp/api/plates/cz/plate.png?number=1BA+3236&v=308dd466",
-     "svg": "https://openvan.camp/api/plates/cz/plate.svg?number=1BA+3236&v=308dd466"
+     "png": "https://openvan.camp/api/plates/cz/plate.png?number=1BA+3236&v=db777dd5",
+     "svg": "https://openvan.camp/api/plates/cz/plate.svg?number=1BA+3236&v=db777dd5"
     },
     "number": "1BA 3236",
     "region": ""
@@ -1059,8 +1059,8 @@
    "example": {
     "formatted": "8762AA 19",
     "image": {
-     "png": "https://openvan.camp/api/plates/cd/plate.png?number=8762AA+19&v=afc05cad",
-     "svg": "https://openvan.camp/api/plates/cd/plate.svg?number=8762AA+19&v=afc05cad"
+     "png": "https://openvan.camp/api/plates/cd/plate.png?number=8762AA+19&v=00ede505",
+     "svg": "https://openvan.camp/api/plates/cd/plate.svg?number=8762AA+19&v=00ede505"
     },
     "number": "8762AA 19",
     "region": ""
@@ -1103,8 +1103,8 @@
    "example": {
     "formatted": "2594 سجط",
     "image": {
-     "png": "https://openvan.camp/api/plates/eg/plate.png?number=2594+%D8%B3%D8%AC%D8%B7&v=4a413ff9",
-     "svg": "https://openvan.camp/api/plates/eg/plate.svg?number=2594+%D8%B3%D8%AC%D8%B7&v=4a413ff9"
+     "png": "https://openvan.camp/api/plates/eg/plate.png?number=2594+%D8%B3%D8%AC%D8%B7&v=7b0eef8a",
+     "svg": "https://openvan.camp/api/plates/eg/plate.svg?number=2594+%D8%B3%D8%AC%D8%B7&v=7b0eef8a"
     },
     "number": "2594 سجط",
     "region": ""
@@ -1191,8 +1191,8 @@
    "example": {
     "formatted": "622 MHT",
     "image": {
-     "png": "https://openvan.camp/api/plates/ee/plate.png?number=622+MHT&v=9f758d2f",
-     "svg": "https://openvan.camp/api/plates/ee/plate.svg?number=622+MHT&v=9f758d2f"
+     "png": "https://openvan.camp/api/plates/ee/plate.png?number=622+MHT&v=6adbe17a",
+     "svg": "https://openvan.camp/api/plates/ee/plate.svg?number=622+MHT&v=6adbe17a"
     },
     "number": "622 MHT",
     "region": ""
@@ -1257,8 +1257,8 @@
    "example": {
     "formatted": "FQ·587",
     "image": {
-     "png": "https://openvan.camp/api/plates/fj/plate.png?number=FQ%C2%B7587&v=a6b1f096",
-     "svg": "https://openvan.camp/api/plates/fj/plate.svg?number=FQ%C2%B7587&v=a6b1f096"
+     "png": "https://openvan.camp/api/plates/fj/plate.png?number=FQ%C2%B7587&v=5debd716",
+     "svg": "https://openvan.camp/api/plates/fj/plate.svg?number=FQ%C2%B7587&v=5debd716"
     },
     "number": "FQ·587",
     "region": ""
@@ -1279,8 +1279,8 @@
    "example": {
     "formatted": "KRR-442",
     "image": {
-     "png": "https://openvan.camp/api/plates/fi/plate.png?number=KRR-442&v=c5d846f6",
-     "svg": "https://openvan.camp/api/plates/fi/plate.svg?number=KRR-442&v=c5d846f6"
+     "png": "https://openvan.camp/api/plates/fi/plate.png?number=KRR-442&v=cd47c535",
+     "svg": "https://openvan.camp/api/plates/fi/plate.svg?number=KRR-442&v=cd47c535"
     },
     "number": "KRR-442",
     "region": ""
@@ -1411,8 +1411,8 @@
    "example": {
     "formatted": "GE 1899-18",
     "image": {
-     "png": "https://openvan.camp/api/plates/gh/plate.png?number=GE+1899-18&v=c5987796",
-     "svg": "https://openvan.camp/api/plates/gh/plate.svg?number=GE+1899-18&v=c5987796"
+     "png": "https://openvan.camp/api/plates/gh/plate.png?number=GE+1899-18&v=efd692f9",
+     "svg": "https://openvan.camp/api/plates/gh/plate.svg?number=GE+1899-18&v=efd692f9"
     },
     "number": "GE 1899-18",
     "region": ""
@@ -1433,8 +1433,8 @@
    "example": {
     "formatted": "KNK-6949",
     "image": {
-     "png": "https://openvan.camp/api/plates/gr/plate.png?number=KNK-6949&v=e85129ac",
-     "svg": "https://openvan.camp/api/plates/gr/plate.svg?number=KNK-6949&v=e85129ac"
+     "png": "https://openvan.camp/api/plates/gr/plate.png?number=KNK-6949&v=ab55face",
+     "svg": "https://openvan.camp/api/plates/gr/plate.svg?number=KNK-6949&v=ab55face"
     },
     "number": "KNK-6949",
     "region": ""
@@ -1609,8 +1609,8 @@
    "example": {
     "formatted": "KT 8264",
     "image": {
-     "png": "https://openvan.camp/api/plates/hk/plate.png?number=KT+8264&v=d72301c9",
-     "svg": "https://openvan.camp/api/plates/hk/plate.svg?number=KT+8264&v=d72301c9"
+     "png": "https://openvan.camp/api/plates/hk/plate.png?number=KT+8264&v=aa8da224",
+     "svg": "https://openvan.camp/api/plates/hk/plate.svg?number=KT+8264&v=aa8da224"
     },
     "number": "KT 8264",
     "region": ""
@@ -1631,8 +1631,8 @@
    "example": {
     "formatted": "AA AA-123",
     "image": {
-     "png": "https://openvan.camp/api/plates/hu/plate.png?number=AA+AA-123&v=1a667a4b",
-     "svg": "https://openvan.camp/api/plates/hu/plate.svg?number=AA+AA-123&v=1a667a4b"
+     "png": "https://openvan.camp/api/plates/hu/plate.png?number=AA+AA-123&v=2bb2d40b",
+     "svg": "https://openvan.camp/api/plates/hu/plate.svg?number=AA+AA-123&v=2bb2d40b"
     },
     "number": "AA AA-123",
     "region": ""
@@ -1653,8 +1653,8 @@
    "example": {
     "formatted": "MO R58",
     "image": {
-     "png": "https://openvan.camp/api/plates/is/plate.png?number=MO+R58&v=a2300a37",
-     "svg": "https://openvan.camp/api/plates/is/plate.svg?number=MO+R58&v=a2300a37"
+     "png": "https://openvan.camp/api/plates/is/plate.png?number=MO+R58&v=5168ef31",
+     "svg": "https://openvan.camp/api/plates/is/plate.svg?number=MO+R58&v=5168ef31"
     },
     "number": "MO R58",
     "region": ""
@@ -1675,8 +1675,8 @@
    "example": {
     "formatted": "MH 12 AB 1234",
     "image": {
-     "png": "https://openvan.camp/api/plates/in/plate.png?number=MH+12+AB+1234&v=64b69833",
-     "svg": "https://openvan.camp/api/plates/in/plate.svg?number=MH+12+AB+1234&v=64b69833"
+     "png": "https://openvan.camp/api/plates/in/plate.png?number=MH+12+AB+1234&v=efc06872",
+     "svg": "https://openvan.camp/api/plates/in/plate.svg?number=MH+12+AB+1234&v=efc06872"
     },
     "number": "MH 12 AB 1234",
     "region": ""
@@ -1719,8 +1719,8 @@
    "example": {
     "formatted": "12 ب 345 11",
     "image": {
-     "png": "https://openvan.camp/api/plates/ir/plate.png?number=12+%D8%A8+345+11&v=89a02f63",
-     "svg": "https://openvan.camp/api/plates/ir/plate.svg?number=12+%D8%A8+345+11&v=89a02f63"
+     "png": "https://openvan.camp/api/plates/ir/plate.png?number=12+%D8%A8+345+11&v=ffdd7207",
+     "svg": "https://openvan.camp/api/plates/ir/plate.svg?number=12+%D8%A8+345+11&v=ffdd7207"
     },
     "number": "12 ب 345 11",
     "region": ""
@@ -1763,8 +1763,8 @@
    "example": {
     "formatted": "201-D-9024",
     "image": {
-     "png": "https://openvan.camp/api/plates/ie/plate.png?number=201-D-9024&v=c767e20a",
-     "svg": "https://openvan.camp/api/plates/ie/plate.svg?number=201-D-9024&v=c767e20a"
+     "png": "https://openvan.camp/api/plates/ie/plate.png?number=201-D-9024&v=26786d9d",
+     "svg": "https://openvan.camp/api/plates/ie/plate.svg?number=201-D-9024&v=26786d9d"
     },
     "number": "201-D-9024",
     "region": ""
@@ -1807,8 +1807,8 @@
    "example": {
     "formatted": "GJ 240JN",
     "image": {
-     "png": "https://openvan.camp/api/plates/it/plate.png?number=GJ+240JN&v=6e67656e",
-     "svg": "https://openvan.camp/api/plates/it/plate.svg?number=GJ+240JN&v=6e67656e"
+     "png": "https://openvan.camp/api/plates/it/plate.png?number=GJ+240JN&v=2f53b9e2",
+     "svg": "https://openvan.camp/api/plates/it/plate.svg?number=GJ+240JN&v=2f53b9e2"
     },
     "number": "GJ 240JN",
     "region": ""
@@ -1829,8 +1829,8 @@
    "example": {
     "formatted": "AA-573-EA 01",
     "image": {
-     "png": "https://openvan.camp/api/plates/ci/plate.png?number=AA-573-EA&region=01&v=27aa1f7a",
-     "svg": "https://openvan.camp/api/plates/ci/plate.svg?number=AA-573-EA&region=01&v=27aa1f7a"
+     "png": "https://openvan.camp/api/plates/ci/plate.png?number=AA-573-EA&region=01&v=b05e8ac9",
+     "svg": "https://openvan.camp/api/plates/ci/plate.svg?number=AA-573-EA&region=01&v=b05e8ac9"
     },
     "number": "AA-573-EA",
     "region": "01"
@@ -1851,8 +1851,8 @@
    "example": {
     "formatted": "7654 HD",
     "image": {
-     "png": "https://openvan.camp/api/plates/jm/plate.png?number=7654+HD&v=90dfb641",
-     "svg": "https://openvan.camp/api/plates/jm/plate.svg?number=7654+HD&v=90dfb641"
+     "png": "https://openvan.camp/api/plates/jm/plate.png?number=7654+HD&v=d5cae117",
+     "svg": "https://openvan.camp/api/plates/jm/plate.svg?number=7654+HD&v=d5cae117"
     },
     "number": "7654 HD",
     "region": ""
@@ -1895,8 +1895,8 @@
    "example": {
     "formatted": "10-23456",
     "image": {
-     "png": "https://openvan.camp/api/plates/jo/plate.png?number=10-23456&v=81fa7333",
-     "svg": "https://openvan.camp/api/plates/jo/plate.svg?number=10-23456&v=81fa7333"
+     "png": "https://openvan.camp/api/plates/jo/plate.png?number=10-23456&v=b0c67d6a",
+     "svg": "https://openvan.camp/api/plates/jo/plate.svg?number=10-23456&v=b0c67d6a"
     },
     "number": "10-23456",
     "region": ""
@@ -1939,8 +1939,8 @@
    "example": {
     "formatted": "KDK 101A",
     "image": {
-     "png": "https://openvan.camp/api/plates/ke/plate.png?number=KDK+101A&v=a5ecbdc6",
-     "svg": "https://openvan.camp/api/plates/ke/plate.svg?number=KDK+101A&v=a5ecbdc6"
+     "png": "https://openvan.camp/api/plates/ke/plate.png?number=KDK+101A&v=1d221660",
+     "svg": "https://openvan.camp/api/plates/ke/plate.svg?number=KDK+101A&v=1d221660"
     },
     "number": "KDK 101A",
     "region": ""
@@ -1983,8 +1983,8 @@
    "example": {
     "formatted": "01 999-AD",
     "image": {
-     "png": "https://openvan.camp/api/plates/xk/plate.png?number=01+999-AD&v=3e02bea8",
-     "svg": "https://openvan.camp/api/plates/xk/plate.svg?number=01+999-AD&v=3e02bea8"
+     "png": "https://openvan.camp/api/plates/xk/plate.png?number=01+999-AD&v=4ba38244",
+     "svg": "https://openvan.camp/api/plates/xk/plate.svg?number=01+999-AD&v=4ba38244"
     },
     "number": "01 999-AD",
     "region": ""
@@ -2027,8 +2027,8 @@
    "example": {
     "formatted": "01 123 ABC",
     "image": {
-     "png": "https://openvan.camp/api/plates/kg/plate.png?number=01+123+ABC&v=5db3d2fa",
-     "svg": "https://openvan.camp/api/plates/kg/plate.svg?number=01+123+ABC&v=5db3d2fa"
+     "png": "https://openvan.camp/api/plates/kg/plate.png?number=01+123+ABC&v=304021c3",
+     "svg": "https://openvan.camp/api/plates/kg/plate.svg?number=01+123+ABC&v=304021c3"
     },
     "number": "01 123 ABC",
     "region": ""
@@ -2049,8 +2049,8 @@
    "example": {
     "formatted": "ຮຍ 8118 VIENTIANE CAPITAL",
     "image": {
-     "png": "https://openvan.camp/api/plates/la/plate.png?number=%E0%BA%AE%E0%BA%8D+8118&region=VIENTIANE+CAPITAL&v=7ddc5fdc",
-     "svg": "https://openvan.camp/api/plates/la/plate.svg?number=%E0%BA%AE%E0%BA%8D+8118&region=VIENTIANE+CAPITAL&v=7ddc5fdc"
+     "png": "https://openvan.camp/api/plates/la/plate.png?number=%E0%BA%AE%E0%BA%8D+8118&region=VIENTIANE+CAPITAL&v=0bc9a69d",
+     "svg": "https://openvan.camp/api/plates/la/plate.svg?number=%E0%BA%AE%E0%BA%8D+8118&region=VIENTIANE+CAPITAL&v=0bc9a69d"
     },
     "number": "ຮຍ 8118",
     "region": "VIENTIANE CAPITAL"
@@ -2071,8 +2071,8 @@
    "example": {
     "formatted": "HN-5867",
     "image": {
-     "png": "https://openvan.camp/api/plates/lv/plate.png?number=HN-5867&v=98e56082",
-     "svg": "https://openvan.camp/api/plates/lv/plate.svg?number=HN-5867&v=98e56082"
+     "png": "https://openvan.camp/api/plates/lv/plate.png?number=HN-5867&v=fd5578c9",
+     "svg": "https://openvan.camp/api/plates/lv/plate.svg?number=HN-5867&v=fd5578c9"
     },
     "number": "HN-5867",
     "region": ""
@@ -2137,8 +2137,8 @@
    "example": {
     "formatted": "A13557",
     "image": {
-     "png": "https://openvan.camp/api/plates/lr/plate.png?number=A13557&v=271340f0",
-     "svg": "https://openvan.camp/api/plates/lr/plate.svg?number=A13557&v=271340f0"
+     "png": "https://openvan.camp/api/plates/lr/plate.png?number=A13557&v=867de201",
+     "svg": "https://openvan.camp/api/plates/lr/plate.svg?number=A13557&v=867de201"
     },
     "number": "A13557",
     "region": ""
@@ -2180,14 +2180,11 @@
    "country_name": "Liechtenstein",
    "example": {
     "formatted": "FL 40001",
-    "image": {
-     "png": "https://openvan.camp/api/plates/li/plate.png?number=FL+40001&v=043adcbe",
-     "svg": "https://openvan.camp/api/plates/li/plate.svg?number=FL+40001&v=043adcbe"
-    },
+    "image": null,
     "number": "FL 40001",
     "region": ""
    },
-   "glyphs_license": "free",
+   "glyphs_license": "restricted",
    "intl_code": "FL",
    "region_marking": "none",
    "regions_count": 0,
@@ -2203,8 +2200,8 @@
    "example": {
     "formatted": "ECK 649",
     "image": {
-     "png": "https://openvan.camp/api/plates/lt/plate.png?number=ECK+649&v=1a0d3c2c",
-     "svg": "https://openvan.camp/api/plates/lt/plate.svg?number=ECK+649&v=1a0d3c2c"
+     "png": "https://openvan.camp/api/plates/lt/plate.png?number=ECK+649&v=8ca8460d",
+     "svg": "https://openvan.camp/api/plates/lt/plate.svg?number=ECK+649&v=8ca8460d"
     },
     "number": "ECK 649",
     "region": ""
@@ -2269,8 +2266,8 @@
    "example": {
     "formatted": "8847 TAK",
     "image": {
-     "png": "https://openvan.camp/api/plates/mg/plate.png?number=8847+TAK&v=b30e4ad7",
-     "svg": "https://openvan.camp/api/plates/mg/plate.svg?number=8847+TAK&v=b30e4ad7"
+     "png": "https://openvan.camp/api/plates/mg/plate.png?number=8847+TAK&v=4763f392",
+     "svg": "https://openvan.camp/api/plates/mg/plate.svg?number=8847+TAK&v=4763f392"
     },
     "number": "8847 TAK",
     "region": ""
@@ -2313,8 +2310,8 @@
    "example": {
     "formatted": "PFQ 5217",
     "image": {
-     "png": "https://openvan.camp/api/plates/my/plate.png?number=PFQ+5217&v=1f90bef6",
-     "svg": "https://openvan.camp/api/plates/my/plate.svg?number=PFQ+5217&v=1f90bef6"
+     "png": "https://openvan.camp/api/plates/my/plate.png?number=PFQ+5217&v=6df70ce7",
+     "svg": "https://openvan.camp/api/plates/my/plate.svg?number=PFQ+5217&v=6df70ce7"
     },
     "number": "PFQ 5217",
     "region": ""
@@ -2335,8 +2332,8 @@
    "example": {
     "formatted": "AB1A S8708",
     "image": {
-     "png": "https://openvan.camp/api/plates/mv/plate.png?number=AB1A+S8708&v=1f0e27be",
-     "svg": "https://openvan.camp/api/plates/mv/plate.svg?number=AB1A+S8708&v=1f0e27be"
+     "png": "https://openvan.camp/api/plates/mv/plate.png?number=AB1A+S8708&v=5afd0e23",
+     "svg": "https://openvan.camp/api/plates/mv/plate.svg?number=AB1A+S8708&v=5afd0e23"
     },
     "number": "AB1A S8708",
     "region": ""
@@ -2511,8 +2508,8 @@
    "example": {
     "formatted": "LEL 979",
     "image": {
-     "png": "https://openvan.camp/api/plates/md/plate.png?number=LEL+979&v=96f5e9ae",
-     "svg": "https://openvan.camp/api/plates/md/plate.svg?number=LEL+979&v=96f5e9ae"
+     "png": "https://openvan.camp/api/plates/md/plate.png?number=LEL+979&v=8042e216",
+     "svg": "https://openvan.camp/api/plates/md/plate.svg?number=LEL+979&v=8042e216"
     },
     "number": "LEL 979",
     "region": ""
@@ -2533,8 +2530,8 @@
    "example": {
     "formatted": "179C",
     "image": {
-     "png": "https://openvan.camp/api/plates/mc/plate.png?number=179C&v=c61a5751",
-     "svg": "https://openvan.camp/api/plates/mc/plate.svg?number=179C&v=c61a5751"
+     "png": "https://openvan.camp/api/plates/mc/plate.png?number=179C&v=610daf87",
+     "svg": "https://openvan.camp/api/plates/mc/plate.svg?number=179C&v=610daf87"
     },
     "number": "179C",
     "region": ""
@@ -2555,8 +2552,8 @@
    "example": {
     "formatted": "0878 УНК",
     "image": {
-     "png": "https://openvan.camp/api/plates/mn/plate.png?number=0878+%D0%A3%D0%9D%D0%9A&v=4c109339",
-     "svg": "https://openvan.camp/api/plates/mn/plate.svg?number=0878+%D0%A3%D0%9D%D0%9A&v=4c109339"
+     "png": "https://openvan.camp/api/plates/mn/plate.png?number=0878+%D0%A3%D0%9D%D0%9A&v=55df60fe",
+     "svg": "https://openvan.camp/api/plates/mn/plate.svg?number=0878+%D0%A3%D0%9D%D0%9A&v=55df60fe"
     },
     "number": "0878 УНК",
     "region": ""
@@ -2577,8 +2574,8 @@
    "example": {
     "formatted": "NK AA034",
     "image": {
-     "png": "https://openvan.camp/api/plates/me/plate.png?number=NK+AA034&v=a158a2d4",
-     "svg": "https://openvan.camp/api/plates/me/plate.svg?number=NK+AA034&v=a158a2d4"
+     "png": "https://openvan.camp/api/plates/me/plate.png?number=NK+AA034&v=928236d3",
+     "svg": "https://openvan.camp/api/plates/me/plate.svg?number=NK+AA034&v=928236d3"
     },
     "number": "NK AA034",
     "region": ""
@@ -2621,8 +2618,8 @@
    "example": {
     "formatted": "ACZ 259 MC",
     "image": {
-     "png": "https://openvan.camp/api/plates/mz/plate.png?number=ACZ+259+MC&v=fe589379",
-     "svg": "https://openvan.camp/api/plates/mz/plate.svg?number=ACZ+259+MC&v=fe589379"
+     "png": "https://openvan.camp/api/plates/mz/plate.png?number=ACZ+259+MC&v=dbbb2c82",
+     "svg": "https://openvan.camp/api/plates/mz/plate.svg?number=ACZ+259+MC&v=dbbb2c82"
     },
     "number": "ACZ 259 MC",
     "region": ""
@@ -2643,8 +2640,8 @@
    "example": {
     "formatted": "1P-3574 MDY-14",
     "image": {
-     "png": "https://openvan.camp/api/plates/mm/plate.png?number=1P-3574&region=MDY-14&v=83ece327",
-     "svg": "https://openvan.camp/api/plates/mm/plate.svg?number=1P-3574&region=MDY-14&v=83ece327"
+     "png": "https://openvan.camp/api/plates/mm/plate.png?number=1P-3574&region=MDY-14&v=03ed4ab9",
+     "svg": "https://openvan.camp/api/plates/mm/plate.svg?number=1P-3574&region=MDY-14&v=03ed4ab9"
     },
     "number": "1P-3574",
     "region": "MDY-14"
@@ -2731,8 +2728,8 @@
    "example": {
     "formatted": "4-KSK-02",
     "image": {
-     "png": "https://openvan.camp/api/plates/nl/plate.png?number=4-KSK-02&v=5a589537",
-     "svg": "https://openvan.camp/api/plates/nl/plate.svg?number=4-KSK-02&v=5a589537"
+     "png": "https://openvan.camp/api/plates/nl/plate.png?number=4-KSK-02&v=f8ca1e25",
+     "svg": "https://openvan.camp/api/plates/nl/plate.svg?number=4-KSK-02&v=f8ca1e25"
     },
     "number": "4-KSK-02",
     "region": ""
@@ -2753,8 +2750,8 @@
    "example": {
     "formatted": "FAR441",
     "image": {
-     "png": "https://openvan.camp/api/plates/nz/plate.png?number=FAR441&v=efda27b7",
-     "svg": "https://openvan.camp/api/plates/nz/plate.svg?number=FAR441&v=efda27b7"
+     "png": "https://openvan.camp/api/plates/nz/plate.png?number=FAR441&v=a8f3c777",
+     "svg": "https://openvan.camp/api/plates/nz/plate.svg?number=FAR441&v=a8f3c777"
     },
     "number": "FAR441",
     "region": ""
@@ -2841,8 +2838,8 @@
    "example": {
     "formatted": "74-1551",
     "image": {
-     "png": "https://openvan.camp/api/plates/kp/plate.png?number=74-1551&v=d2882e87",
-     "svg": "https://openvan.camp/api/plates/kp/plate.svg?number=74-1551&v=d2882e87"
+     "png": "https://openvan.camp/api/plates/kp/plate.png?number=74-1551&v=70ca3a6c",
+     "svg": "https://openvan.camp/api/plates/kp/plate.svg?number=74-1551&v=70ca3a6c"
     },
     "number": "74-1551",
     "region": ""
@@ -2863,8 +2860,8 @@
    "example": {
     "formatted": "OH 1731 AF",
     "image": {
-     "png": "https://openvan.camp/api/plates/mk/plate.png?number=OH+1731+AF&v=53ce1158",
-     "svg": "https://openvan.camp/api/plates/mk/plate.svg?number=OH+1731+AF&v=53ce1158"
+     "png": "https://openvan.camp/api/plates/mk/plate.png?number=OH+1731+AF&v=cd18bc09",
+     "svg": "https://openvan.camp/api/plates/mk/plate.svg?number=OH+1731+AF&v=cd18bc09"
     },
     "number": "OH 1731 AF",
     "region": ""
@@ -2885,8 +2882,8 @@
    "example": {
     "formatted": "DN 96650",
     "image": {
-     "png": "https://openvan.camp/api/plates/no/plate.png?number=DN+96650&v=67a6344b",
-     "svg": "https://openvan.camp/api/plates/no/plate.svg?number=DN+96650&v=67a6344b"
+     "png": "https://openvan.camp/api/plates/no/plate.png?number=DN+96650&v=b4d8f8c5",
+     "svg": "https://openvan.camp/api/plates/no/plate.svg?number=DN+96650&v=b4d8f8c5"
     },
     "number": "DN 96650",
     "region": ""
@@ -2907,8 +2904,8 @@
    "example": {
     "formatted": "91169 A",
     "image": {
-     "png": "https://openvan.camp/api/plates/om/plate.png?number=91169+A&v=5ae8e519",
-     "svg": "https://openvan.camp/api/plates/om/plate.svg?number=91169+A&v=5ae8e519"
+     "png": "https://openvan.camp/api/plates/om/plate.png?number=91169+A&v=c98db04a",
+     "svg": "https://openvan.camp/api/plates/om/plate.svg?number=91169+A&v=c98db04a"
     },
     "number": "91169 A",
     "region": ""
@@ -2973,8 +2970,8 @@
    "example": {
     "formatted": "6-1234-95",
     "image": {
-     "png": "https://openvan.camp/api/plates/ps/plate.png?number=6-1234-95&v=04c17507",
-     "svg": "https://openvan.camp/api/plates/ps/plate.svg?number=6-1234-95&v=04c17507"
+     "png": "https://openvan.camp/api/plates/ps/plate.png?number=6-1234-95&v=eb9c340c",
+     "svg": "https://openvan.camp/api/plates/ps/plate.svg?number=6-1234-95&v=eb9c340c"
     },
     "number": "6-1234-95",
     "region": ""
@@ -3017,8 +3014,8 @@
    "example": {
     "formatted": "BAA·000",
     "image": {
-     "png": "https://openvan.camp/api/plates/pg/plate.png?number=BAA%C2%B7000&v=4fce0f8d",
-     "svg": "https://openvan.camp/api/plates/pg/plate.svg?number=BAA%C2%B7000&v=4fce0f8d"
+     "png": "https://openvan.camp/api/plates/pg/plate.png?number=BAA%C2%B7000&v=a23460cc",
+     "svg": "https://openvan.camp/api/plates/pg/plate.svg?number=BAA%C2%B7000&v=a23460cc"
     },
     "number": "BAA·000",
     "region": ""
@@ -3039,8 +3036,8 @@
    "example": {
     "formatted": "AAMO 061",
     "image": {
-     "png": "https://openvan.camp/api/plates/py/plate.png?number=AAMO+061&v=f940e016",
-     "svg": "https://openvan.camp/api/plates/py/plate.svg?number=AAMO+061&v=f940e016"
+     "png": "https://openvan.camp/api/plates/py/plate.png?number=AAMO+061&v=256b75c6",
+     "svg": "https://openvan.camp/api/plates/py/plate.svg?number=AAMO+061&v=256b75c6"
     },
     "number": "AAMO 061",
     "region": ""
@@ -3083,8 +3080,8 @@
    "example": {
     "formatted": "CCK 6781",
     "image": {
-     "png": "https://openvan.camp/api/plates/ph/plate.png?number=CCK+6781&v=255402df",
-     "svg": "https://openvan.camp/api/plates/ph/plate.svg?number=CCK+6781&v=255402df"
+     "png": "https://openvan.camp/api/plates/ph/plate.png?number=CCK+6781&v=449ac189",
+     "svg": "https://openvan.camp/api/plates/ph/plate.svg?number=CCK+6781&v=449ac189"
     },
     "number": "CCK 6781",
     "region": ""
@@ -3105,8 +3102,8 @@
    "example": {
     "formatted": "WI 255RY",
     "image": {
-     "png": "https://openvan.camp/api/plates/pl/plate.png?number=WI+255RY&v=9bbacacb",
-     "svg": "https://openvan.camp/api/plates/pl/plate.svg?number=WI+255RY&v=9bbacacb"
+     "png": "https://openvan.camp/api/plates/pl/plate.png?number=WI+255RY&v=25bf610c",
+     "svg": "https://openvan.camp/api/plates/pl/plate.svg?number=WI+255RY&v=25bf610c"
     },
     "number": "WI 255RY",
     "region": ""
@@ -3127,8 +3124,8 @@
    "example": {
     "formatted": "AE 36 EM",
     "image": {
-     "png": "https://openvan.camp/api/plates/pt/plate.png?number=AE+36+EM&v=10b059f4",
-     "svg": "https://openvan.camp/api/plates/pt/plate.svg?number=AE+36+EM&v=10b059f4"
+     "png": "https://openvan.camp/api/plates/pt/plate.png?number=AE+36+EM&v=99f0ee9d",
+     "svg": "https://openvan.camp/api/plates/pt/plate.svg?number=AE+36+EM&v=99f0ee9d"
     },
     "number": "AE 36 EM",
     "region": ""
@@ -3149,8 +3146,8 @@
    "example": {
     "formatted": "123456",
     "image": {
-     "png": "https://openvan.camp/api/plates/qa/plate.png?number=123456&v=ff981700",
-     "svg": "https://openvan.camp/api/plates/qa/plate.svg?number=123456&v=ff981700"
+     "png": "https://openvan.camp/api/plates/qa/plate.png?number=123456&v=e6585054",
+     "svg": "https://openvan.camp/api/plates/qa/plate.svg?number=123456&v=e6585054"
     },
     "number": "123456",
     "region": ""
@@ -3171,8 +3168,8 @@
    "example": {
     "formatted": "GL 11 JIP",
     "image": {
-     "png": "https://openvan.camp/api/plates/ro/plate.png?number=GL+11+JIP&v=13adbc7f",
-     "svg": "https://openvan.camp/api/plates/ro/plate.svg?number=GL+11+JIP&v=13adbc7f"
+     "png": "https://openvan.camp/api/plates/ro/plate.png?number=GL+11+JIP&v=de341af9",
+     "svg": "https://openvan.camp/api/plates/ro/plate.svg?number=GL+11+JIP&v=de341af9"
     },
     "number": "GL 11 JIP",
     "region": ""
@@ -3259,8 +3256,8 @@
    "example": {
     "formatted": "HU870",
     "image": {
-     "png": "https://openvan.camp/api/plates/lc/plate.png?number=HU870&v=0aa24bab",
-     "svg": "https://openvan.camp/api/plates/lc/plate.svg?number=HU870&v=0aa24bab"
+     "png": "https://openvan.camp/api/plates/lc/plate.png?number=HU870&v=f58b280b",
+     "svg": "https://openvan.camp/api/plates/lc/plate.svg?number=HU870&v=f58b280b"
     },
     "number": "HU870",
     "region": ""
@@ -3325,8 +3322,8 @@
    "example": {
     "formatted": "J0484",
     "image": {
-     "png": "https://openvan.camp/api/plates/sm/plate.png?number=J0484&v=f216c78d",
-     "svg": "https://openvan.camp/api/plates/sm/plate.svg?number=J0484&v=f216c78d"
+     "png": "https://openvan.camp/api/plates/sm/plate.png?number=J0484&v=0f91928a",
+     "svg": "https://openvan.camp/api/plates/sm/plate.svg?number=J0484&v=0f91928a"
     },
     "number": "J0484",
     "region": ""
@@ -3413,8 +3410,8 @@
    "example": {
     "formatted": "KŠ 055-HI",
     "image": {
-     "png": "https://openvan.camp/api/plates/rs/plate.png?number=K%C5%A0+055-HI&v=26dc0317",
-     "svg": "https://openvan.camp/api/plates/rs/plate.svg?number=K%C5%A0+055-HI&v=26dc0317"
+     "png": "https://openvan.camp/api/plates/rs/plate.png?number=K%C5%A0+055-HI&v=a64bdb88",
+     "svg": "https://openvan.camp/api/plates/rs/plate.svg?number=K%C5%A0+055-HI&v=a64bdb88"
     },
     "number": "KŠ 055-HI",
     "region": ""
@@ -3479,8 +3476,8 @@
    "example": {
     "formatted": "SBA 1234 G",
     "image": {
-     "png": "https://openvan.camp/api/plates/sg/plate.png?number=SBA+1234+G&v=90ae287a",
-     "svg": "https://openvan.camp/api/plates/sg/plate.svg?number=SBA+1234+G&v=90ae287a"
+     "png": "https://openvan.camp/api/plates/sg/plate.png?number=SBA+1234+G&v=f556bbb2",
+     "svg": "https://openvan.camp/api/plates/sg/plate.svg?number=SBA+1234+G&v=f556bbb2"
     },
     "number": "SBA 1234 G",
     "region": ""
@@ -3520,8 +3517,8 @@
    "example": {
     "formatted": "LJ 60-CFB",
     "image": {
-     "png": "https://openvan.camp/api/plates/si/plate.png?number=LJ+60-CFB&v=5dc7f248",
-     "svg": "https://openvan.camp/api/plates/si/plate.svg?number=LJ+60-CFB&v=5dc7f248"
+     "png": "https://openvan.camp/api/plates/si/plate.png?number=LJ+60-CFB&v=b15ef8fd",
+     "svg": "https://openvan.camp/api/plates/si/plate.svg?number=LJ+60-CFB&v=b15ef8fd"
     },
     "number": "LJ 60-CFB",
     "region": ""
@@ -3586,8 +3583,8 @@
    "example": {
     "formatted": "CA 123-456",
     "image": {
-     "png": "https://openvan.camp/api/plates/za/plate.png?number=CA+123-456&v=3d9faf4a",
-     "svg": "https://openvan.camp/api/plates/za/plate.svg?number=CA+123-456&v=3d9faf4a"
+     "png": "https://openvan.camp/api/plates/za/plate.png?number=CA+123-456&v=71f44313",
+     "svg": "https://openvan.camp/api/plates/za/plate.svg?number=CA+123-456&v=71f44313"
     },
     "number": "CA 123-456",
     "region": ""
@@ -3608,8 +3605,8 @@
    "example": {
     "formatted": "123가 4568",
     "image": {
-     "png": "https://openvan.camp/api/plates/kr/plate.png?number=123%EA%B0%80+4568&v=9010df90",
-     "svg": "https://openvan.camp/api/plates/kr/plate.svg?number=123%EA%B0%80+4568&v=9010df90"
+     "png": "https://openvan.camp/api/plates/kr/plate.png?number=123%EA%B0%80+4568&v=6eb390cf",
+     "svg": "https://openvan.camp/api/plates/kr/plate.svg?number=123%EA%B0%80+4568&v=6eb390cf"
     },
     "number": "123가 4568",
     "region": ""
@@ -3652,8 +3649,8 @@
    "example": {
     "formatted": "0202 ZBF",
     "image": {
-     "png": "https://openvan.camp/api/plates/es/plate.png?number=0202+ZBF&v=15f291f8",
-     "svg": "https://openvan.camp/api/plates/es/plate.svg?number=0202+ZBF&v=15f291f8"
+     "png": "https://openvan.camp/api/plates/es/plate.png?number=0202+ZBF&v=020194ec",
+     "svg": "https://openvan.camp/api/plates/es/plate.svg?number=0202+ZBF&v=020194ec"
     },
     "number": "0202 ZBF",
     "region": ""
@@ -3674,8 +3671,8 @@
    "example": {
     "formatted": "ND-8740 WP",
     "image": {
-     "png": "https://openvan.camp/api/plates/lk/plate.png?number=ND-8740&region=WP&v=5d501b3e",
-     "svg": "https://openvan.camp/api/plates/lk/plate.svg?number=ND-8740&region=WP&v=5d501b3e"
+     "png": "https://openvan.camp/api/plates/lk/plate.png?number=ND-8740&region=WP&v=d4abb57b",
+     "svg": "https://openvan.camp/api/plates/lk/plate.svg?number=ND-8740&region=WP&v=d4abb57b"
     },
     "number": "ND-8740",
     "region": "WP"
@@ -3740,8 +3737,8 @@
    "example": {
     "formatted": "MLB 84A",
     "image": {
-     "png": "https://openvan.camp/api/plates/se/plate.png?number=MLB+84A&v=2230e9a3",
-     "svg": "https://openvan.camp/api/plates/se/plate.svg?number=MLB+84A&v=2230e9a3"
+     "png": "https://openvan.camp/api/plates/se/plate.png?number=MLB+84A&v=7be7f87d",
+     "svg": "https://openvan.camp/api/plates/se/plate.svg?number=MLB+84A&v=7be7f87d"
     },
     "number": "MLB 84A",
     "region": ""
@@ -3761,14 +3758,11 @@
    "country_name": "Switzerland",
    "example": {
     "formatted": "ZH·272577",
-    "image": {
-     "png": "https://openvan.camp/api/plates/ch/plate.png?number=ZH%C2%B7272577&v=39bb0d6e",
-     "svg": "https://openvan.camp/api/plates/ch/plate.svg?number=ZH%C2%B7272577&v=39bb0d6e"
-    },
+    "image": null,
     "number": "ZH·272577",
     "region": ""
    },
-   "glyphs_license": "free",
+   "glyphs_license": "restricted",
    "intl_code": "CH",
    "region_marking": "prefix_letters",
    "regions_count": 28,
@@ -3828,8 +3822,8 @@
    "example": {
     "formatted": "9999WT02",
     "image": {
-     "png": "https://openvan.camp/api/plates/tj/plate.png?number=9999WT02&v=4e0f8704",
-     "svg": "https://openvan.camp/api/plates/tj/plate.svg?number=9999WT02&v=4e0f8704"
+     "png": "https://openvan.camp/api/plates/tj/plate.png?number=9999WT02&v=442919f5",
+     "svg": "https://openvan.camp/api/plates/tj/plate.svg?number=9999WT02&v=442919f5"
     },
     "number": "9999WT02",
     "region": ""
@@ -3850,8 +3844,8 @@
    "example": {
     "formatted": "T 995 AGT",
     "image": {
-     "png": "https://openvan.camp/api/plates/tz/plate.png?number=T+995+AGT&v=406bd0a1",
-     "svg": "https://openvan.camp/api/plates/tz/plate.svg?number=T+995+AGT&v=406bd0a1"
+     "png": "https://openvan.camp/api/plates/tz/plate.png?number=T+995+AGT&v=da813776",
+     "svg": "https://openvan.camp/api/plates/tz/plate.svg?number=T+995+AGT&v=da813776"
     },
     "number": "T 995 AGT",
     "region": ""
@@ -3894,8 +3888,8 @@
    "example": {
     "formatted": "14-875",
     "image": {
-     "png": "https://openvan.camp/api/plates/tl/plate.png?number=14-875&v=7a599a79",
-     "svg": "https://openvan.camp/api/plates/tl/plate.svg?number=14-875&v=7a599a79"
+     "png": "https://openvan.camp/api/plates/tl/plate.png?number=14-875&v=c1d83cb8",
+     "svg": "https://openvan.camp/api/plates/tl/plate.svg?number=14-875&v=c1d83cb8"
     },
     "number": "14-875",
     "region": ""
@@ -4155,8 +4149,8 @@
    "example": {
     "formatted": "9KDV763 CA",
     "image": {
-     "png": "https://openvan.camp/api/plates/us/plate.png?number=9KDV763&region=CA&v=f3dca3cd",
-     "svg": "https://openvan.camp/api/plates/us/plate.svg?number=9KDV763&region=CA&v=f3dca3cd"
+     "png": "https://openvan.camp/api/plates/us/plate.png?number=9KDV763&region=CA&v=24951872",
+     "svg": "https://openvan.camp/api/plates/us/plate.svg?number=9KDV763&region=CA&v=24951872"
     },
     "number": "9KDV763",
     "region": "CA"
@@ -4177,8 +4171,8 @@
    "example": {
     "formatted": "STP 3480",
     "image": {
-     "png": "https://openvan.camp/api/plates/uy/plate.png?number=STP+3480&v=f940e016",
-     "svg": "https://openvan.camp/api/plates/uy/plate.svg?number=STP+3480&v=f940e016"
+     "png": "https://openvan.camp/api/plates/uy/plate.png?number=STP+3480&v=0ea7e654",
+     "svg": "https://openvan.camp/api/plates/uy/plate.svg?number=STP+3480&v=0ea7e654"
     },
     "number": "STP 3480",
     "region": ""
@@ -4221,8 +4215,8 @@
    "example": {
     "formatted": "10346",
     "image": {
-     "png": "https://openvan.camp/api/plates/vu/plate.png?number=10346&v=4ef817d9",
-     "svg": "https://openvan.camp/api/plates/vu/plate.svg?number=10346&v=4ef817d9"
+     "png": "https://openvan.camp/api/plates/vu/plate.png?number=10346&v=23a5a2ec",
+     "svg": "https://openvan.camp/api/plates/vu/plate.svg?number=10346&v=23a5a2ec"
     },
     "number": "10346",
     "region": ""
@@ -4243,8 +4237,8 @@
    "example": {
     "formatted": "SCV 01177",
     "image": {
-     "png": "https://openvan.camp/api/plates/va/plate.png?number=SCV+01177&v=be3e8c7b",
-     "svg": "https://openvan.camp/api/plates/va/plate.svg?number=SCV+01177&v=be3e8c7b"
+     "png": "https://openvan.camp/api/plates/va/plate.png?number=SCV+01177&v=0598f964",
+     "svg": "https://openvan.camp/api/plates/va/plate.svg?number=SCV+01177&v=0598f964"
     },
     "number": "SCV 01177",
     "region": ""
@@ -4265,8 +4259,8 @@
    "example": {
     "formatted": "AA128GG CARABOBO",
     "image": {
-     "png": "https://openvan.camp/api/plates/ve/plate.png?number=AA128GG&region=CARABOBO&v=2639b453",
-     "svg": "https://openvan.camp/api/plates/ve/plate.svg?number=AA128GG&region=CARABOBO&v=2639b453"
+     "png": "https://openvan.camp/api/plates/ve/plate.png?number=AA128GG&region=CARABOBO&v=6e9ee998",
+     "svg": "https://openvan.camp/api/plates/ve/plate.svg?number=AA128GG&region=CARABOBO&v=6e9ee998"
     },
     "number": "AA128GG",
     "region": "CARABOBO"
@@ -4287,8 +4281,8 @@
    "example": {
     "formatted": "30F-256.58",
     "image": {
-     "png": "https://openvan.camp/api/plates/vn/plate.png?number=30F-256.58&v=bc28c665",
-     "svg": "https://openvan.camp/api/plates/vn/plate.svg?number=30F-256.58&v=bc28c665"
+     "png": "https://openvan.camp/api/plates/vn/plate.png?number=30F-256.58&v=dcd0c460",
+     "svg": "https://openvan.camp/api/plates/vn/plate.svg?number=30F-256.58&v=dcd0c460"
     },
     "number": "30F-256.58",
     "region": ""
@@ -4331,8 +4325,8 @@
    "example": {
     "formatted": "ADD 4077 T",
     "image": {
-     "png": "https://openvan.camp/api/plates/zm/plate.png?number=ADD+4077+T&v=4b6e6a48",
-     "svg": "https://openvan.camp/api/plates/zm/plate.svg?number=ADD+4077+T&v=4b6e6a48"
+     "png": "https://openvan.camp/api/plates/zm/plate.png?number=ADD+4077+T&v=94cf3239",
+     "svg": "https://openvan.camp/api/plates/zm/plate.svg?number=ADD+4077+T&v=94cf3239"
     },
     "number": "ADD 4077 T",
     "region": ""
@@ -4353,8 +4347,8 @@
    "example": {
     "formatted": "ADV 5517",
     "image": {
-     "png": "https://openvan.camp/api/plates/zw/plate.png?number=ADV+5517&v=344e1ff1",
-     "svg": "https://openvan.camp/api/plates/zw/plate.svg?number=ADV+5517&v=344e1ff1"
+     "png": "https://openvan.camp/api/plates/zw/plate.png?number=ADV+5517&v=eaec2960",
+     "svg": "https://openvan.camp/api/plates/zw/plate.svg?number=ADV+5517&v=eaec2960"
     },
     "number": "ADV 5517",
     "region": ""
