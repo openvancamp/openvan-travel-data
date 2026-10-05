@@ -56,7 +56,8 @@
     "diesel": "liter",
     "diesel_premium": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "AE": {
@@ -115,7 +116,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_regular": "liter",
-    "gasoline_super": "liter"
+    "gasoline_super": "liter",
+    "premium": "liter"
    }
   },
   "AF": {
@@ -227,7 +229,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "AM": {
@@ -288,7 +291,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_regular": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "AR": {
@@ -350,7 +354,8 @@
     "diesel": "liter",
     "diesel_premium": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "AT": {
@@ -418,7 +423,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "AU": {
@@ -484,7 +490,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "AZ": {
@@ -546,7 +553,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "BA": {
@@ -606,7 +614,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "BB": {
@@ -716,7 +725,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "kerosene": "liter"
+    "kerosene": "liter",
+    "premium": "liter"
    }
   },
   "BE": {
@@ -776,7 +786,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "BF": {
@@ -890,7 +901,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "BH": {
@@ -949,7 +961,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "gasoline_super": "liter"
+    "gasoline_super": "liter",
+    "premium": "liter"
    }
   },
   "BO": {
@@ -1007,7 +1020,8 @@
     "cng": "m3",
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "BR": {
@@ -1191,7 +1205,8 @@
     "diesel": "liter",
     "e85": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "BW": {
@@ -1308,7 +1323,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_regular": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "BZ": {
@@ -1363,7 +1379,8 @@
    "units": {
     "diesel": "gallon",
     "gasoline": "gallon",
-    "gasoline_premium": "gallon"
+    "gasoline_premium": "gallon",
+    "premium": "gallon"
    }
   },
   "CA": {
@@ -1425,7 +1442,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "CH": {
@@ -1484,7 +1502,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "CI": {
@@ -1602,7 +1621,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "CN": {
@@ -1659,7 +1679,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "gasoline_super": "liter"
+    "gasoline_super": "liter",
+    "premium": "liter"
    }
   },
   "CO": {
@@ -1720,7 +1741,8 @@
     "diesel_premium": "gallon",
     "gasoline": "gallon",
     "gasoline_premium": "gallon",
-    "lpg": "gallon"
+    "lpg": "gallon",
+    "premium": "gallon"
    }
   },
   "CR": {
@@ -1775,7 +1797,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "CU": {
@@ -1837,7 +1860,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_regular": "liter",
-    "gasoline_super": "liter"
+    "gasoline_super": "liter",
+    "premium": "liter"
    }
   },
   "CV": {
@@ -1945,7 +1969,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "CZ": {
@@ -2012,7 +2037,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "DE": {
@@ -2074,7 +2100,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "DK": {
@@ -2134,7 +2161,8 @@
     "diesel": "liter",
     "diesel_premium": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "DO": {
@@ -2196,7 +2224,8 @@
     "gasoline": "gallon",
     "gasoline_premium": "gallon",
     "kerosene": "gallon",
-    "lpg": "gallon"
+    "lpg": "gallon",
+    "premium": "gallon"
    }
   },
   "DZ": {
@@ -2306,7 +2335,8 @@
    "units": {
     "diesel": "gallon",
     "gasoline": "gallon",
-    "gasoline_premium": "gallon"
+    "gasoline_premium": "gallon",
+    "premium": "gallon"
    }
   },
   "EE": {
@@ -2366,7 +2396,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "EG": {
@@ -2427,7 +2458,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_regular": "liter",
-    "kerosene": "liter"
+    "kerosene": "liter",
+    "premium": "liter"
    }
   },
   "ES": {
@@ -2490,7 +2522,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "ET": {
@@ -2600,7 +2633,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "FJ": {
@@ -2758,7 +2792,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "FR": {
@@ -2824,7 +2859,8 @@
     "e85": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "GB": {
@@ -2892,7 +2928,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "GD": {
@@ -3019,7 +3056,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_regular": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "GH": {
@@ -3089,7 +3127,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "kerosene": "liter",
-    "lpg": "kg"
+    "lpg": "kg",
+    "premium": "liter"
    }
   },
   "GM": {
@@ -3253,7 +3292,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "GT": {
@@ -3310,7 +3350,8 @@
    "units": {
     "diesel": "gallon",
     "gasoline": "gallon",
-    "gasoline_premium": "gallon"
+    "gasoline_premium": "gallon",
+    "premium": "gallon"
    }
   },
   "GW": {
@@ -3477,7 +3518,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "HN": {
@@ -3535,7 +3577,8 @@
     "gasoline": "gallon",
     "gasoline_premium": "gallon",
     "kerosene": "gallon",
-    "lpg": "gallon"
+    "lpg": "gallon",
+    "premium": "gallon"
    }
   },
   "HR": {
@@ -3598,7 +3641,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "HT": {
@@ -3714,7 +3758,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "ID": {
@@ -3769,7 +3814,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "IE": {
@@ -3992,7 +4038,8 @@
     "gasoline": "liter",
     "gasoline_regular": "liter",
     "gasoline_super": "liter",
-    "kerosene": "liter"
+    "kerosene": "liter",
+    "premium": "liter"
    }
   },
   "IS": {
@@ -4111,7 +4158,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "JM": {
@@ -4168,7 +4216,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "kerosene": "liter"
+    "kerosene": "liter",
+    "premium": "liter"
    }
   },
   "JO": {
@@ -4228,7 +4277,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_super": "liter",
-    "kerosene": "liter"
+    "kerosene": "liter",
+    "premium": "liter"
    }
   },
   "JP": {
@@ -4287,7 +4337,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "KE": {
@@ -4404,7 +4455,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "KH": {
@@ -4459,7 +4511,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "KN": {
@@ -4567,7 +4620,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "kerosene": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "KU": {
@@ -4620,7 +4674,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "KW": {
@@ -4678,7 +4733,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_super": "liter",
-    "kerosene": "liter"
+    "kerosene": "liter",
+    "premium": "liter"
    }
   },
   "KY": {
@@ -4731,7 +4787,8 @@
    "units": {
     "diesel": "imperial_gallon",
     "gasoline": "imperial_gallon",
-    "gasoline_premium": "imperial_gallon"
+    "gasoline_premium": "imperial_gallon",
+    "premium": "imperial_gallon"
    }
   },
   "KZ": {
@@ -4808,7 +4865,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_regular": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "LA": {
@@ -4862,7 +4920,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "LB": {
@@ -4920,7 +4979,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "LC": {
@@ -5027,7 +5087,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "LK": {
@@ -5086,7 +5147,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "kerosene": "liter"
+    "kerosene": "liter",
+    "premium": "liter"
    }
   },
   "LR": {
@@ -5194,7 +5256,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "LT": {
@@ -5256,7 +5319,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "LU": {
@@ -5315,7 +5379,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "LV": {
@@ -5378,7 +5443,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "MA": {
@@ -5485,7 +5551,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "MD": {
@@ -5599,7 +5666,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "MG": {
@@ -5713,7 +5781,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "MM": {
@@ -5770,7 +5839,8 @@
     "diesel": "liter",
     "diesel_premium": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "MN": {
@@ -5830,7 +5900,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "MR": {
@@ -5940,7 +6011,8 @@
     "diesel": "liter",
     "diesel_premium": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "MU": {
@@ -6157,7 +6229,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "MY": {
@@ -6213,7 +6286,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "MZ": {
@@ -6535,7 +6609,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "kerosene": "liter"
+    "kerosene": "liter",
+    "premium": "liter"
    }
   },
   "NL": {
@@ -6601,7 +6676,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "NO": {
@@ -6657,7 +6733,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "NP": {
@@ -6826,7 +6903,8 @@
     "gasoline_premium": "liter",
     "gasoline_regular": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "OM": {
@@ -6885,7 +6963,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "gasoline_regular": "liter"
+    "gasoline_regular": "liter",
+    "premium": "liter"
    }
   },
   "PA": {
@@ -6940,7 +7019,8 @@
    "units": {
     "diesel": "gallon",
     "gasoline": "gallon",
-    "gasoline_premium": "gallon"
+    "gasoline_premium": "gallon",
+    "premium": "gallon"
    }
   },
   "PE": {
@@ -6997,7 +7077,8 @@
     "diesel": "gallon",
     "gasoline": "gallon",
     "gasoline_premium": "gallon",
-    "lpg": "gallon"
+    "lpg": "gallon",
+    "premium": "gallon"
    }
   },
   "PF": {
@@ -7158,7 +7239,8 @@
     "diesel": "liter",
     "diesel_premium": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "PK": {
@@ -7218,7 +7300,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "kerosene": "liter",
-    "lpg": "kg"
+    "lpg": "kg",
+    "premium": "liter"
    }
   },
   "PL": {
@@ -7279,7 +7362,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "PS": {
@@ -7335,7 +7419,8 @@
     "diesel": "liter",
     "gasoline_premium": "liter",
     "gasoline_super": "liter",
-    "kerosene": "liter"
+    "kerosene": "liter",
+    "premium": "liter"
    }
   },
   "PT": {
@@ -7397,7 +7482,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "PY": {
@@ -7458,7 +7544,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "QA": {
@@ -7514,7 +7601,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "RO": {
@@ -7577,7 +7665,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "RS": {
@@ -7639,7 +7728,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "RU": {
@@ -7713,7 +7803,8 @@
     "gasoline_premium": "liter",
     "gasoline_regular": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "RW": {
@@ -7822,7 +7913,8 @@
     "gasoline": "liter",
     "gasoline_premium": "liter",
     "gasoline_super": "liter",
-    "kerosene": "liter"
+    "kerosene": "liter",
+    "premium": "liter"
    }
   },
   "SB": {
@@ -7987,7 +8079,8 @@
     "diesel": "liter",
     "e85": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "SG": {
@@ -8051,7 +8144,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "gasoline_regular": "liter"
+    "gasoline_regular": "liter",
+    "premium": "liter"
    }
   },
   "SI": {
@@ -8113,7 +8207,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "SK": {
@@ -8174,7 +8269,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "SL": {
@@ -8436,7 +8532,8 @@
    "units": {
     "diesel": "gallon",
     "gasoline": "gallon",
-    "gasoline_premium": "gallon"
+    "gasoline_premium": "gallon",
+    "premium": "gallon"
    }
   },
   "SY": {
@@ -8491,7 +8588,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "SZ": {
@@ -8665,7 +8763,8 @@
     "gasoline_premium": "liter",
     "gasoline_regular": "liter",
     "gasoline_super": "liter",
-    "lpg": "kg"
+    "lpg": "kg",
+    "premium": "liter"
    }
   },
   "TJ": {
@@ -8726,7 +8825,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "TL": {
@@ -8833,7 +8933,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "gasoline_regular": "liter"
+    "gasoline_regular": "liter",
+    "premium": "liter"
    }
   },
   "TN": {
@@ -9053,7 +9154,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "gasoline_super": "liter"
+    "gasoline_super": "liter",
+    "premium": "liter"
    }
   },
   "TZ": {
@@ -9177,7 +9279,8 @@
     "gasoline_premium": "liter",
     "gasoline_regular": "liter",
     "gasoline_super": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "UG": {
@@ -9289,7 +9392,8 @@
     "gasoline": "gallon",
     "gasoline_premium": "gallon",
     "gasoline_super": "gallon",
-    "lpg": "gallon"
+    "lpg": "gallon",
+    "premium": "gallon"
    }
   },
   "UY": {
@@ -9346,7 +9450,8 @@
     "diesel": "liter",
     "diesel_premium": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "UZ": {
@@ -9451,7 +9556,8 @@
     "diesel": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "gasoline_super": "liter"
+    "gasoline_super": "liter",
+    "premium": "liter"
    }
   },
   "VC": {
@@ -9558,7 +9664,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "VN": {
@@ -9780,7 +9887,8 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
-    "lpg": "liter"
+    "lpg": "liter",
+    "premium": "liter"
    }
   },
   "XN": {
@@ -9834,7 +9942,8 @@
    "units": {
     "diesel": "liter",
     "gasoline": "liter",
-    "gasoline_premium": "liter"
+    "gasoline_premium": "liter",
+    "premium": "liter"
    }
   },
   "ZA": {

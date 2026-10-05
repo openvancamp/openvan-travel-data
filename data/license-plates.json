@@ -4149,8 +4149,8 @@
    "example": {
     "formatted": "9KDV763 CA",
     "image": {
-     "png": "https://openvan.camp/api/plates/us/plate.png?number=9KDV763&region=CA&v=24951872",
-     "svg": "https://openvan.camp/api/plates/us/plate.svg?number=9KDV763&region=CA&v=24951872"
+     "png": "https://openvan.camp/api/plates/us/plate.png?number=9KDV763&region=CA&v=35c156d6",
+     "svg": "https://openvan.camp/api/plates/us/plate.svg?number=9KDV763&region=CA&v=35c156d6"
     },
     "number": "9KDV763",
     "region": "CA"
