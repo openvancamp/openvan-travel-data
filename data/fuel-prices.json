@@ -7418,8 +7418,8 @@
    "country_name": "Palestine",
    "currencies": {
     "diesel": "ILS",
+    "gasoline": "ILS",
     "gasoline_premium": "ILS",
-    "gasoline_super": "ILS",
     "kerosene": "ILS",
     "premium": "ILS"
    },
@@ -7433,10 +7433,10 @@
     "diesel_premium": null,
     "diesel_regular": null,
     "e85": null,
-    "gasoline": null,
-    "gasoline_premium": 0.3033,
+    "gasoline": 0.3033,
+    "gasoline_premium": 0.945,
     "gasoline_regular": null,
-    "gasoline_super": 0.945,
+    "gasoline_super": null,
     "kerosene": 1.0875,
     "lpg": null,
     "premium": null
@@ -7447,10 +7447,10 @@
     "diesel_premium": null,
     "diesel_regular": null,
     "e85": null,
-    "gasoline": null,
-    "gasoline_premium": 8.17,
+    "gasoline": 8.17,
+    "gasoline_premium": 9.73,
     "gasoline_regular": null,
-    "gasoline_super": 9.73,
+    "gasoline_super": null,
     "kerosene": 8.99,
     "lpg": null,
     "premium": 9.73
@@ -7464,8 +7464,8 @@
    "unit": "liter",
    "units": {
     "diesel": "liter",
+    "gasoline": "liter",
     "gasoline_premium": "liter",
-    "gasoline_super": "liter",
     "kerosene": "liter",
     "premium": "liter"
    }

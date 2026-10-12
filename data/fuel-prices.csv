@@ -565,8 +565,8 @@ PL,gasoline_premium,Poland,8.2671,PLN,liter,2026-10-11T10:23:01+03:00
 PL,lpg,Poland,3.2398,PLN,liter,2026-10-11T10:23:01+03:00
 PL,premium,Poland,8.2671,PLN,liter,2026-10-11T10:23:01+03:00
 PS,diesel,Palestine,8.99,ILS,liter,2026-10-11T10:23:01+03:00
-PS,gasoline_premium,Palestine,8.17,ILS,liter,2026-10-11T10:23:01+03:00
-PS,gasoline_super,Palestine,9.73,ILS,liter,2026-10-11T10:23:01+03:00
+PS,gasoline,Palestine,8.17,ILS,liter,2026-10-11T10:23:01+03:00
+PS,gasoline_premium,Palestine,9.73,ILS,liter,2026-10-11T10:23:01+03:00
 PS,kerosene,Palestine,8.99,ILS,liter,2026-10-11T10:23:01+03:00
 PS,premium,Palestine,9.73,ILS,liter,2026-10-11T10:23:01+03:00
 PT,diesel,Portugal,2.2134,EUR,liter,2026-10-11T10:23:01+03:00
