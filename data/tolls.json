@@ -3772,7 +3772,7 @@
    "rates": [
     {
      "currency": "UZS",
-     "rate_per_km_eur": 0.0569,
+     "rate_per_km_eur": 0.0566,
      "rate_per_km_local": 754.3,
      "seasonal": null,
      "source_url": "https://www.spot.uz/ru/2026/09/04/toll-road/",
@@ -3782,7 +3782,7 @@
     },
     {
      "currency": "UZS",
-     "rate_per_km_eur": 0.0949,
+     "rate_per_km_eur": 0.0943,
      "rate_per_km_local": 1257.1,
      "seasonal": null,
      "source_url": "https://www.spot.uz/ru/2026/09/04/toll-road/",
@@ -3792,7 +3792,7 @@
     },
     {
      "currency": "UZS",
-     "rate_per_km_eur": 0.1423,
+     "rate_per_km_eur": 0.1414,
      "rate_per_km_local": 1885.7,
      "seasonal": null,
      "source_url": "https://www.spot.uz/ru/2026/09/04/toll-road/",
