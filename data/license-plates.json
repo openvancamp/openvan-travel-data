@@ -225,11 +225,14 @@
    "country_name": "Azerbaijan",
    "example": {
     "formatted": "09-BR-763",
-    "image": null,
+    "image": {
+     "png": "https://openvan.camp/api/plates/az/plate.png?number=09-BR-763&v=fc20e21b",
+     "svg": "https://openvan.camp/api/plates/az/plate.svg?number=09-BR-763&v=fc20e21b"
+    },
     "number": "09-BR-763",
     "region": ""
    },
-   "glyphs_license": "restricted",
+   "glyphs_license": "free",
    "intl_code": "AZ",
    "region_marking": "prefix_digits",
    "regions_count": 74,
@@ -2180,11 +2183,14 @@
    "country_name": "Liechtenstein",
    "example": {
     "formatted": "FL 40001",
-    "image": null,
+    "image": {
+     "png": "https://openvan.camp/api/plates/li/plate.png?number=FL+40001&v=3f78eac5",
+     "svg": "https://openvan.camp/api/plates/li/plate.svg?number=FL+40001&v=3f78eac5"
+    },
     "number": "FL 40001",
     "region": ""
    },
-   "glyphs_license": "restricted",
+   "glyphs_license": "free",
    "intl_code": "FL",
    "region_marking": "none",
    "regions_count": 0,
@@ -3497,11 +3503,14 @@
    "country_name": "Slovakia",
    "example": {
     "formatted": "AA 328AD",
-    "image": null,
+    "image": {
+     "png": "https://openvan.camp/api/plates/sk/plate.png?number=AA+328AD&v=d2cf5aea",
+     "svg": "https://openvan.camp/api/plates/sk/plate.svg?number=AA+328AD&v=d2cf5aea"
+    },
     "number": "AA 328AD",
     "region": ""
    },
-   "glyphs_license": "restricted",
+   "glyphs_license": "free",
    "intl_code": "SK",
    "region_marking": "legacy_only",
    "regions_count": 72,
@@ -3758,11 +3767,14 @@
    "country_name": "Switzerland",
    "example": {
     "formatted": "ZH·272577",
-    "image": null,
+    "image": {
+     "png": "https://openvan.camp/api/plates/ch/plate.png?number=ZH%C2%B7272577&v=2bff68ab",
+     "svg": "https://openvan.camp/api/plates/ch/plate.svg?number=ZH%C2%B7272577&v=2bff68ab"
+    },
     "number": "ZH·272577",
     "region": ""
    },
-   "glyphs_license": "restricted",
+   "glyphs_license": "free",
    "intl_code": "CH",
    "region_marking": "prefix_letters",
    "regions_count": 28,
@@ -4107,11 +4119,14 @@
    "country_name": "Ukraine",
    "example": {
     "formatted": "AK 9265 AK",
-    "image": null,
+    "image": {
+     "png": "https://openvan.camp/api/plates/ua/plate.png?number=AK+9265+AK&v=8ea28a55",
+     "svg": "https://openvan.camp/api/plates/ua/plate.svg?number=AK+9265+AK&v=8ea28a55"
+    },
     "number": "AK 9265 AK",
     "region": ""
    },
-   "glyphs_license": "restricted",
+   "glyphs_license": "free",
    "intl_code": "UA",
    "region_marking": "prefix_letters",
    "regions_count": 29,
@@ -4148,11 +4163,14 @@
    "country_name": "United States",
    "example": {
     "formatted": "9KDV763 CA",
-    "image": null,
+    "image": {
+     "png": "https://openvan.camp/api/plates/us/plate.png?number=9KDV763&region=CA&v=19055a90",
+     "svg": "https://openvan.camp/api/plates/us/plate.svg?number=9KDV763&region=CA&v=19055a90"
+    },
     "number": "9KDV763",
     "region": "CA"
    },
-   "glyphs_license": "restricted",
+   "glyphs_license": "free",
    "intl_code": "USA",
    "region_marking": "text_name",
    "regions_count": 56,
