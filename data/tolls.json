@@ -14,7 +14,7 @@
      "source_url": "https://tuneldenvalira.com/en/rates",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -24,7 +24,7 @@
      "source_url": "https://tuneldenvalira.com/en/rates",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -34,12 +34,12 @@
      "source_url": "https://tuneldenvalira.com/en/rates",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -55,7 +55,7 @@
      "source_url": "https://ar2025.salik.ae/en/strategic-review/operational-review",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "AED",
@@ -65,7 +65,7 @@
      "source_url": "https://ar2025.salik.ae/en/strategic-review/operational-review",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "AED",
@@ -75,12 +75,12 @@
      "source_url": "https://ar2025.salik.ae/en/strategic-review/operational-review",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -96,7 +96,7 @@
      "source_url": "https://atrako.gov.al/?p=1076",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -106,7 +106,7 @@
      "source_url": "https://atrako.gov.al/?p=1076",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -116,12 +116,12 @@
      "source_url": "https://atrako.gov.al/?p=1076",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -134,35 +134,35 @@
      "rate_per_km_eur": null,
      "rate_per_km_local": null,
      "seasonal": null,
-     "source_url": "https://tollguru.com/armenia-toll",
-     "system_type": "free",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-22"
-    },
-    {
-     "currency": "AMD",
-     "rate_per_km_eur": null,
-     "rate_per_km_local": null,
-     "seasonal": null,
-     "source_url": "https://tollguru.com/armenia-toll",
+     "source_url": "https://armenpress.am/en/article/945983",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "AMD",
      "rate_per_km_eur": null,
      "rate_per_km_local": null,
      "seasonal": null,
-     "source_url": "https://tollguru.com/armenia-toll",
+     "source_url": "https://armenpress.am/en/article/945983",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "AMD",
+     "rate_per_km_eur": null,
+     "rate_per_km_local": null,
+     "seasonal": null,
+     "source_url": "https://armenpress.am/en/article/945983",
+     "system_type": "free",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-22",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -178,17 +178,7 @@
      "source_url": "https://www.argentina.gob.ar/noticias/se-aprobaron-los-nuevos-cuadros-tarifarios-para-los-peajes-de-los-corredores-viales-0",
      "system_type": "open",
      "vehicle_class": "van",
-     "verified_at": "2026-09-21"
-    },
-    {
-     "currency": "ARS",
-     "rate_per_km_eur": 0.0153,
-     "rate_per_km_local": 26,
-     "seasonal": null,
-     "source_url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/338657/20260224",
-     "system_type": "open",
-     "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "ARS",
@@ -198,12 +188,22 @@
      "source_url": "https://www.argentina.gob.ar/noticias/se-aprobaron-los-nuevos-cuadros-tarifarios-para-los-peajes-de-los-corredores-viales-0",
      "system_type": "open",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "ARS",
+     "rate_per_km_eur": 0.0153,
+     "rate_per_km_local": 26,
+     "seasonal": null,
+     "source_url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/338657/20260224",
+     "system_type": "open",
+     "vehicle_class": "heavy",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 2,
    "system_type": "open",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -219,7 +219,7 @@
      "source_url": "https://www.asfinag.at/en/toll/vignette/",
      "system_type": "vignette",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -229,22 +229,22 @@
      "source_url": "https://www.asfinag.at/en/toll/vignette/",
      "system_type": "vignette",
      "vehicle_class": "van",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
-     "rate_per_km_eur": null,
-     "rate_per_km_local": null,
+     "rate_per_km_eur": 0.3329,
+     "rate_per_km_local": 0.3329,
      "seasonal": null,
-     "source_url": "https://www.asfinag.at/en/toll/vignette/",
+     "source_url": "https://media.asfinag.at/media/p31n1jxq/go-maut-tarife-2026_de.pdf",
      "system_type": "free_flow",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "vignette",
-   "verified_at": "2026-09-21",
+   "verified_at": "2026-10-16",
    "vignettes": [
     {
      "buy_url": "https://shop.asfinag.at/en/",
@@ -255,7 +255,7 @@
      "source_url": "https://www.asfinag.at/en/toll/vignette/",
      "valid_days": 1,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://shop.asfinag.at/en/",
@@ -266,7 +266,7 @@
      "source_url": "https://www.asfinag.at/en/toll/vignette/",
      "valid_days": 10,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://shop.asfinag.at/en/",
@@ -277,7 +277,7 @@
      "source_url": "https://www.asfinag.at/en/toll/vignette/",
      "valid_days": 60,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://shop.asfinag.at/en/",
@@ -288,7 +288,7 @@
      "source_url": "https://www.asfinag.at/en/toll/vignette/",
      "valid_days": 365,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ]
   },
@@ -299,38 +299,38 @@
    "rates": [
     {
      "currency": "AUD",
-     "rate_per_km_eur": 0.2185,
+     "rate_per_km_eur": 0.2168,
      "rate_per_km_local": 0.35,
      "seasonal": null,
      "source_url": "https://www.westlinkm7.com.au/toll-pricing",
      "system_type": "free_flow",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "AUD",
-     "rate_per_km_eur": 0.2185,
+     "rate_per_km_eur": 0.2168,
      "rate_per_km_local": 0.35,
      "seasonal": null,
      "source_url": "https://www.westlinkm7.com.au/toll-pricing",
      "system_type": "free_flow",
      "vehicle_class": "van",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "AUD",
-     "rate_per_km_eur": 0.6556,
+     "rate_per_km_eur": 0.6503,
      "rate_per_km_local": 1.05,
      "seasonal": null,
      "source_url": "https://www.westlinkm7.com.au/toll-pricing",
      "system_type": "free_flow",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 1,
    "system_type": "free_flow",
-   "verified_at": "2026-09-21",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -340,38 +340,38 @@
    "rates": [
     {
      "currency": "AZN",
-     "rate_per_km_eur": 0.0488,
-     "rate_per_km_local": 0.093,
-     "seasonal": null,
-     "source_url": "https://report.az/biznes-xeberleri/baki-quba-rusiya-ile-dovlet-serhedi-yolunun-yeni-hissesi-ucun-tarifler-mueyyenlesib",
-     "system_type": "closed",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "AZN",
-     "rate_per_km_eur": 0.0488,
-     "rate_per_km_local": 0.093,
-     "seasonal": null,
-     "source_url": "https://report.az/biznes-xeberleri/baki-quba-rusiya-ile-dovlet-serhedi-yolunun-yeni-hissesi-ucun-tarifler-mueyyenlesib",
-     "system_type": "closed",
-     "vehicle_class": "van",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "AZN",
-     "rate_per_km_eur": 0.0609,
+     "rate_per_km_eur": 0.0608,
      "rate_per_km_local": 0.116,
      "seasonal": null,
      "source_url": "https://report.az/biznes-xeberleri/baki-quba-rusiya-ile-dovlet-serhedi-yolunun-yeni-hissesi-ucun-tarifler-mueyyenlesib",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "AZN",
+     "rate_per_km_eur": 0.0487,
+     "rate_per_km_local": 0.093,
+     "seasonal": null,
+     "source_url": "https://report.az/biznes-xeberleri/baki-quba-rusiya-ile-dovlet-serhedi-yolunun-yeni-hissesi-ucun-tarifler-mueyyenlesib",
+     "system_type": "closed",
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "AZN",
+     "rate_per_km_eur": 0.0487,
+     "rate_per_km_local": 0.093,
+     "seasonal": null,
+     "source_url": "https://report.az/biznes-xeberleri/baki-quba-rusiya-ile-dovlet-serhedi-yolunun-yeni-hissesi-ucun-tarifler-mueyyenlesib",
+     "system_type": "closed",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -381,23 +381,23 @@
    "rates": [
     {
      "currency": "BAM",
-     "rate_per_km_eur": 0.0601,
-     "rate_per_km_local": 0.1176,
-     "seasonal": null,
-     "source_url": "https://fbihvlada.gov.ba/hr/13-uredba-o-naplati-naknade-za-koristenje-autoceste-a1",
-     "system_type": "closed",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "BAM",
      "rate_per_km_eur": 0.1203,
      "rate_per_km_local": 0.2353,
      "seasonal": null,
      "source_url": "https://fbihvlada.gov.ba/hr/13-uredba-o-naplati-naknade-za-koristenje-autoceste-a1",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "BAM",
+     "rate_per_km_eur": 0.0601,
+     "rate_per_km_local": 0.1176,
+     "seasonal": null,
+     "source_url": "https://fbihvlada.gov.ba/hr/13-uredba-o-naplati-naknade-za-koristenje-autoceste-a1",
+     "system_type": "closed",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "BAM",
@@ -407,12 +407,12 @@
      "source_url": "https://fbihvlada.gov.ba/hr/13-uredba-o-naplati-naknade-za-koristenje-autoceste-a1",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -427,18 +427,8 @@
      "seasonal": null,
      "source_url": "https://www.viapass.be/en/news/kilometer-charge-obligations-for-motorhomes-horse-transport-and-oldtimer-trucks.html",
      "system_type": "free",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "EUR",
-     "rate_per_km_eur": null,
-     "rate_per_km_local": null,
-     "seasonal": null,
-     "source_url": "https://www.viapass.be/en/news/kilometer-charge-obligations-for-motorhomes-horse-transport-and-oldtimer-trucks.html",
-     "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -448,12 +438,22 @@
      "source_url": "https://www.viapass.be/en/news/kilometer-charge-obligations-for-motorhomes-horse-transport-and-oldtimer-trucks.html",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "EUR",
+     "rate_per_km_eur": null,
+     "rate_per_km_local": null,
+     "seasonal": null,
+     "source_url": "https://www.viapass.be/en/news/kilometer-charge-obligations-for-motorhomes-horse-transport-and-oldtimer-trucks.html",
+     "system_type": "free",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -469,7 +469,7 @@
      "source_url": "https://www.bgtoll.bg/en/",
      "system_type": "vignette",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -479,12 +479,12 @@
      "source_url": "https://www.bgtoll.bg/en/",
      "system_type": "vignette",
      "vehicle_class": "van",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "vignette",
-   "verified_at": "2026-09-21",
+   "verified_at": "2026-10-16",
    "vignettes": [
     {
      "buy_url": "https://www.bgtoll.bg/en/",
@@ -492,10 +492,10 @@
      "period": "day",
      "price_eur": 5.3,
      "price_local": 5.3,
-     "source_url": "https://autovig.eu/en/vignette-bulgaria/",
+     "source_url": "https://www.bgtoll.bg/en/news/up-to-date-information/e-vignette-prices-to-change-from-1-august",
      "valid_days": 1,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://www.bgtoll.bg/en/",
@@ -503,10 +503,10 @@
      "period": "week",
      "price_eur": 10,
      "price_local": 10,
-     "source_url": "https://autovig.eu/en/vignette-bulgaria/",
+     "source_url": "https://www.bgtoll.bg/en/news/up-to-date-information/e-vignette-prices-to-change-from-1-august",
      "valid_days": 7,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://www.bgtoll.bg/en/",
@@ -514,10 +514,10 @@
      "period": "month",
      "price_eur": 19.9,
      "price_local": 19.9,
-     "source_url": "https://autovig.eu/en/vignette-bulgaria/",
+     "source_url": "https://www.bgtoll.bg/en/news/up-to-date-information/e-vignette-prices-to-change-from-1-august",
      "valid_days": 30,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://www.bgtoll.bg/en/",
@@ -528,7 +528,7 @@
      "source_url": "https://www.bgtoll.bg/en/",
      "valid_days": 90,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://www.bgtoll.bg/en/",
@@ -536,10 +536,10 @@
      "period": "year",
      "price_eur": 64.5,
      "price_local": 64.5,
-     "source_url": "https://autovig.eu/en/vignette-bulgaria/",
+     "source_url": "https://www.bgtoll.bg/en/news/up-to-date-information/e-vignette-prices-to-change-from-1-august",
      "valid_days": 365,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ]
   },
@@ -550,38 +550,38 @@
    "rates": [
     {
      "currency": "BRL",
-     "rate_per_km_eur": 0.0213,
+     "rate_per_km_eur": 0.0212,
      "rate_per_km_local": 0.12,
      "seasonal": null,
-     "source_url": "https://blog.pedagioeletronico.com.br/tabela-de-pedagio/",
+     "source_url": "https://rodovias.motiva.com.br/riosp/noticias/2026/agosto/pedagios-da-via-dutra-e-da-rio-santos-terao-novos-valores-a-part/",
      "system_type": "open",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "BRL",
-     "rate_per_km_eur": 0.0213,
-     "rate_per_km_local": 0.12,
-     "seasonal": null,
-     "source_url": "https://portal.antt.gov.br/en/resultado/-/asset_publisher/m2By5inRuGGs/content/id/1328379",
-     "system_type": "open",
-     "vehicle_class": "van",
-     "verified_at": "2026-09-21"
-    },
-    {
-     "currency": "BRL",
-     "rate_per_km_eur": 0.0426,
+     "rate_per_km_eur": 0.0424,
      "rate_per_km_local": 0.24,
      "seasonal": null,
      "source_url": "https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/ccr-rio-sp/documentos-de-gestao/contrato-e-anexos/riosp-contrato-e-aditivos/contrato-1",
      "system_type": "open",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "BRL",
+     "rate_per_km_eur": 0.0212,
+     "rate_per_km_local": 0.12,
+     "seasonal": null,
+     "source_url": "https://portal.antt.gov.br/en/resultado/-/asset_publisher/m2By5inRuGGs/content/id/1328379",
+     "system_type": "open",
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 1,
    "system_type": "open",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -596,8 +596,8 @@
      "seasonal": null,
      "source_url": "https://beltoll.by/en/beltoll-system",
      "system_type": "free",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-22"
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -606,8 +606,8 @@
      "seasonal": null,
      "source_url": "https://beltoll.by/en/beltoll-system",
      "system_type": "free",
-     "vehicle_class": "van",
-     "verified_at": "2026-09-22"
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -617,12 +617,12 @@
      "source_url": "https://beltoll.by/en/news/on-new-toll-rates-from-1-september-2026-en",
      "system_type": "free_flow",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-22",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -632,38 +632,38 @@
    "rates": [
     {
      "currency": "CAD",
-     "rate_per_km_eur": 0.4712,
+     "rate_per_km_eur": 0.4705,
      "rate_per_km_local": 0.75,
      "seasonal": null,
      "source_url": "https://www.407etr.com/en/rates",
      "system_type": "free_flow",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "CAD",
-     "rate_per_km_eur": 0.4712,
-     "rate_per_km_local": 0.75,
+     "rate_per_km_eur": 0.7026,
+     "rate_per_km_local": 1.12,
      "seasonal": null,
-     "source_url": "https://www.407etr.com/en/rates",
+     "source_url": "https://www.407etr.com/en/rate-chart-medium",
      "system_type": "free_flow",
      "vehicle_class": "van",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "CAD",
-     "rate_per_km_eur": 1.3822,
-     "rate_per_km_local": 2.2,
+     "rate_per_km_eur": 0.941,
+     "rate_per_km_local": 1.5,
      "seasonal": null,
-     "source_url": "https://www.407etr.com/en/rates",
+     "source_url": "https://www.407etr.com/en/rate-chart-heavy",
      "system_type": "free_flow",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 1,
    "system_type": "free_flow",
-   "verified_at": "2026-09-21",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -679,7 +679,7 @@
      "source_url": "https://via.admin.ch/",
      "system_type": "vignette",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "CHF",
@@ -689,33 +689,33 @@
      "source_url": "https://via.admin.ch/",
      "system_type": "vignette",
      "vehicle_class": "van",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "CHF",
      "rate_per_km_eur": null,
      "rate_per_km_local": null,
      "seasonal": null,
-     "source_url": "https://via.admin.ch/",
+     "source_url": "https://www.bazg.admin.ch/",
      "system_type": "free_flow",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "vignette",
-   "verified_at": "2026-09-21",
+   "verified_at": "2026-10-16",
    "vignettes": [
     {
      "buy_url": "https://via.admin.ch/",
      "currency": "CHF",
      "period": "year",
-     "price_eur": 42.89,
+     "price_eur": 43,
      "price_local": 40,
-     "source_url": "https://www.tolls.eu/switzerland",
+     "source_url": "https://www.bazg.admin.ch/de/vignette-nationalstrassenabgabe",
      "valid_days": 365,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ]
   },
@@ -726,38 +726,38 @@
    "rates": [
     {
      "currency": "CLP",
-     "rate_per_km_eur": 0.0318,
+     "rate_per_km_eur": 0.0316,
      "rate_per_km_local": 35,
      "seasonal": null,
      "source_url": "https://peajeruta.cl/peajes-ruta-5-sur/",
      "system_type": "open",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "CLP",
-     "rate_per_km_eur": 0.0572,
-     "rate_per_km_local": 63,
-     "seasonal": null,
-     "source_url": "https://concesiones.mop.gob.cl/peajes-y-porticos/",
-     "system_type": "open",
-     "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "CLP",
-     "rate_per_km_eur": 0.0572,
+     "rate_per_km_eur": 0.0569,
      "rate_per_km_local": 63,
      "seasonal": null,
      "source_url": "https://concesiones.mop.gob.cl/peajes-y-porticos/",
      "system_type": "open",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "CLP",
+     "rate_per_km_eur": 0.0569,
+     "rate_per_km_local": 63,
+     "seasonal": null,
+     "source_url": "https://concesiones.mop.gob.cl/peajes-y-porticos/",
+     "system_type": "open",
+     "vehicle_class": "heavy",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 2,
    "system_type": "open",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -767,38 +767,38 @@
    "rates": [
     {
      "currency": "CNY",
-     "rate_per_km_eur": 0.064,
+     "rate_per_km_eur": 0.1198,
+     "rate_per_km_local": 0.9,
+     "seasonal": null,
+     "source_url": "https://www.shanghai.gov.cn/nw12344/20200813/0001-12344_63272.html",
+     "system_type": "closed",
+     "vehicle_class": "heavy",
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "CNY",
+     "rate_per_km_eur": 0.0639,
      "rate_per_km_local": 0.48,
      "seasonal": null,
      "source_url": "https://www.shanghai.gov.cn/nw12344/20200813/0001-12344_63272.html",
      "system_type": "closed",
      "vehicle_class": "car",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "CNY",
-     "rate_per_km_eur": 0.1466,
-     "rate_per_km_local": 1.1,
-     "seasonal": null,
-     "source_url": "https://www.shanghai.gov.cn/nw12344/20200813/0001-12344_63272.html",
-     "system_type": "closed",
-     "vehicle_class": "heavy",
-     "verified_at": "2026-09-22"
-    },
-    {
-     "currency": "CNY",
-     "rate_per_km_eur": 0.064,
+     "rate_per_km_eur": 0.0639,
      "rate_per_km_local": 0.48,
      "seasonal": null,
      "source_url": "https://jt.hlj.gov.cn/jt/c105040/202005/31292921/files/20201106155214231.pdf",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 1,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -808,38 +808,38 @@
    "rates": [
     {
      "currency": "COP",
-     "rate_per_km_eur": 0.0759,
-     "rate_per_km_local": 271,
-     "seasonal": null,
-     "source_url": "https://peajescolombia.co/peajes/bogota-a-medellin",
-     "system_type": "open",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-21"
-    },
-    {
-     "currency": "COP",
-     "rate_per_km_eur": 0.0759,
-     "rate_per_km_local": 271,
-     "seasonal": null,
-     "source_url": "https://mintransporte.gov.co/info/mintransporte/media/anexos/t7hmdkxK.pdf",
-     "system_type": "open",
-     "vehicle_class": "van",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "COP",
-     "rate_per_km_eur": 0.0927,
+     "rate_per_km_eur": 0.0924,
      "rate_per_km_local": 331,
      "seasonal": null,
      "source_url": "https://www.datos.gov.co/resource/7gj8-j6i3.json",
      "system_type": "open",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "COP",
+     "rate_per_km_eur": 0.0756,
+     "rate_per_km_local": 271,
+     "seasonal": null,
+     "source_url": "https://peajescolombia.co/peajes/bogota-a-medellin",
+     "system_type": "open",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "COP",
+     "rate_per_km_eur": 0.0756,
+     "rate_per_km_local": 271,
+     "seasonal": null,
+     "source_url": "https://mintransporte.gov.co/info/mintransporte/media/anexos/t7hmdkxK.pdf",
+     "system_type": "open",
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 2,
    "system_type": "open",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -896,7 +896,7 @@
      "source_url": "https://edalnice.gov.cz/",
      "system_type": "vignette",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "CZK",
@@ -906,22 +906,22 @@
      "source_url": "https://edalnice.gov.cz/",
      "system_type": "vignette",
      "vehicle_class": "van",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "CZK",
-     "rate_per_km_eur": null,
-     "rate_per_km_local": null,
+     "rate_per_km_eur": 0.0337,
+     "rate_per_km_local": 0.822,
      "seasonal": null,
-     "source_url": "https://edalnice.gov.cz/",
+     "source_url": "https://www.zakonyprolidi.cz/cs/2014-240",
      "system_type": "free_flow",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "vignette",
-   "verified_at": "2026-09-21",
+   "verified_at": "2026-10-16",
    "vignettes": [
     {
      "buy_url": "https://edalnice.gov.cz/",
@@ -932,7 +932,7 @@
      "source_url": "https://edalnice.gov.cz/en/price-list",
      "valid_days": 1,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://edalnice.gov.cz/",
@@ -943,7 +943,7 @@
      "source_url": "https://edalnice.gov.cz/en/price-list",
      "valid_days": 10,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://edalnice.gov.cz/",
@@ -954,18 +954,18 @@
      "source_url": "https://edalnice.gov.cz/en/price-list",
      "valid_days": 30,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://edalnice.gov.cz/",
      "currency": "CZK",
      "period": "year",
-     "price_eur": 105.47,
+     "price_eur": 105.48,
      "price_local": 2570,
      "source_url": "https://edalnice.gov.cz/en/price-list",
      "valid_days": 365,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ]
   },
@@ -979,25 +979,25 @@
      "rate_per_km_eur": null,
      "rate_per_km_local": null,
      "seasonal": null,
-     "source_url": "https://tyremap.com/blog/toll-roads-in-europe-guide/",
+     "source_url": "https://www.balm.bund.de/DE/Service/FragenAntwortenFAQ/FragenAntwortenLKWMaut/FAQ_Maut.html",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
      "rate_per_km_eur": null,
      "rate_per_km_local": null,
      "seasonal": null,
-     "source_url": "https://tyremap.com/blog/toll-roads-in-europe-guide/",
+     "source_url": "https://www.balm.bund.de/DE/Service/FragenAntwortenFAQ/FragenAntwortenLKWMaut/FAQ_Maut.html",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-21",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1013,7 +1013,7 @@
      "source_url": "https://www.visitdenmark.com/faq/toll-bridges",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "DKK",
@@ -1023,7 +1023,7 @@
      "source_url": "https://www.visitdenmark.com/faq/toll-bridges",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "DKK",
@@ -1033,12 +1033,12 @@
      "source_url": "https://vejafgifter.dk/en/who-has-to-pay/",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1054,7 +1054,7 @@
      "source_url": "https://www.tsa-algerie.com/peage-sur-lautoroute-est-ouest-tebboune-tranche/",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "DZD",
@@ -1079,7 +1079,7 @@
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1100,10 +1100,28 @@
        9
       ]
      },
+     "source_url": "https://www.cope.es/emisoras/la-rioja/la-rioja-provincia/logrono/noticias/autopista-ap-68-bilbao-zaragoza-sube-peaje-1-enero-sera-gratuita-2026-recorrido-20251231_3279471.html",
+     "system_type": "closed",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "EUR",
+     "rate_per_km_eur": 0.15,
+     "rate_per_km_local": 0.15,
+     "seasonal": {
+      "factor": 1.1,
+      "months": [
+       6,
+       7,
+       8,
+       9
+      ]
+     },
      "source_url": "https://cdn.transportes.gob.es/portal-web-transportes/carreteras/nuestrared/autopistaspeaje/peajes-actuales/autopista-ap-68,-bilbao---zaragoza-2026.pdf",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -1121,30 +1139,12 @@
      "source_url": "https://cdn.transportes.gob.es/portal-web-transportes/carreteras/nuestrared/autopistaspeaje/peajes-actuales/autopista-ap-68,-bilbao---zaragoza-2026.pdf",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "EUR",
-     "rate_per_km_eur": 0.15,
-     "rate_per_km_local": 0.15,
-     "seasonal": {
-      "factor": 1.1,
-      "months": [
-       6,
-       7,
-       8,
-       9
-      ]
-     },
-     "source_url": "https://www.cope.es/emisoras/la-rioja/la-rioja-provincia/logrono/noticias/autopista-ap-68-bilbao-zaragoza-sube-peaje-1-enero-sera-gratuita-2026-recorrido-20251231_3279471.html",
-     "system_type": "closed",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 1,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1160,17 +1160,7 @@
      "source_url": "https://www.finferries.fi/en/ferry-traffic/frequently-asked-questions.html",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "EUR",
-     "rate_per_km_eur": null,
-     "rate_per_km_local": null,
-     "seasonal": null,
-     "source_url": "https://www.finferries.fi/en/ferry-traffic/frequently-asked-questions.html",
-     "system_type": "free",
-     "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -1180,12 +1170,22 @@
      "source_url": "https://www.finferries.fi/en/ferry-traffic/frequently-asked-questions.html",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "EUR",
+     "rate_per_km_eur": null,
+     "rate_per_km_local": null,
+     "seasonal": null,
+     "source_url": "https://www.finferries.fi/en/ferry-traffic/frequently-asked-questions.html",
+     "system_type": "free",
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1198,20 +1198,10 @@
      "rate_per_km_eur": 0.095,
      "rate_per_km_local": 0.095,
      "seasonal": null,
-     "source_url": "https://www.tolls.eu/france",
-     "system_type": "closed",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-21"
-    },
-    {
-     "currency": "EUR",
-     "rate_per_km_eur": 0.22,
-     "rate_per_km_local": 0.22,
-     "seasonal": null,
      "source_url": "https://www.vinci-autoroutes.com/static/b9b8279934080436ee3bba255c7835e2/vinci_autoroutes-tarifs-principales-liaisons-2026.pdf",
      "system_type": "closed",
-     "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -1221,12 +1211,22 @@
      "source_url": "https://www.vinci-autoroutes.com/static/b9b8279934080436ee3bba255c7835e2/vinci_autoroutes-tarifs-principales-liaisons-2026.pdf",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "EUR",
+     "rate_per_km_eur": 0.22,
+     "rate_per_km_local": 0.22,
+     "seasonal": null,
+     "source_url": "https://www.vinci-autoroutes.com/static/b9b8279934080436ee3bba255c7835e2/vinci_autoroutes-tarifs-principales-liaisons-2026.pdf",
+     "system_type": "closed",
+     "vehicle_class": "heavy",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1242,7 +1242,7 @@
      "source_url": "https://www.gov.uk/uk-road-tolls",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "GBP",
@@ -1252,7 +1252,7 @@
      "source_url": "https://www.gov.uk/uk-road-tolls",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "GBP",
@@ -1262,12 +1262,12 @@
      "source_url": "https://www.gov.uk/uk-road-tolls",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1283,17 +1283,17 @@
      "source_url": "https://georgiatoday.ge/roads-department-rules-out-plans-to-introduce-toll-roads-on-national-highways/",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "GEL",
      "rate_per_km_eur": null,
      "rate_per_km_local": null,
      "seasonal": null,
-     "source_url": "https://tollguru.com/georgia-toll",
+     "source_url": "https://georgiatoday.ge/roads-department-rules-out-plans-to-introduce-toll-roads-on-national-highways/",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "GEL",
@@ -1303,12 +1303,12 @@
      "source_url": "https://georgiatoday.ge/roads-department-rules-out-plans-to-introduce-toll-roads-on-national-highways/",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-22",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1324,17 +1324,7 @@
      "source_url": "https://mydiodia.gr/diadromi/athens-thessaloniki/en/",
      "system_type": "open",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
-    },
-    {
-     "currency": "EUR",
-     "rate_per_km_eur": 0.183,
-     "rate_per_km_local": 0.183,
-     "seasonal": null,
-     "source_url": "https://www.olympiaodos.gr/Diodia-OLYMPIA-PASS/Times-diodion/",
-     "system_type": "open",
-     "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -1344,12 +1334,22 @@
      "source_url": "https://www.aegeanmotorway.gr/travel-info/diodia/toll-rates/",
      "system_type": "open",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "EUR",
+     "rate_per_km_eur": 0.183,
+     "rate_per_km_local": 0.183,
+     "seasonal": null,
+     "source_url": "https://www.olympiaodos.gr/Diodia-OLYMPIA-PASS/Times-diodion/",
+     "system_type": "open",
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 1,
    "system_type": "open",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1365,7 +1365,7 @@
      "source_url": "https://www.sapp.gob.hn/_files/ugd/c9b6ca_31b0ccb34e0040ecb428bb395330097b.pdf",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "HNL",
@@ -1375,7 +1375,7 @@
      "source_url": "https://www.sapp.gob.hn/_files/ugd/c9b6ca_31b0ccb34e0040ecb428bb395330097b.pdf",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "HNL",
@@ -1385,12 +1385,12 @@
      "source_url": "https://www.sapp.gob.hn/_files/ugd/c9b6ca_31b0ccb34e0040ecb428bb395330097b.pdf",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1398,22 +1398,6 @@
    "name": "Croatia",
    "objects_count": 0,
    "rates": [
-    {
-     "currency": "EUR",
-     "rate_per_km_eur": 0.105,
-     "rate_per_km_local": 0.105,
-     "seasonal": {
-      "factor": 1.1,
-      "months": [
-       7,
-       8
-      ]
-     },
-     "source_url": "https://www.hac.hr/hr/cestarina/cjenik/a1",
-     "system_type": "closed",
-     "vehicle_class": "van",
-     "verified_at": "2026-09-23"
-    },
     {
      "currency": "EUR",
      "rate_per_km_eur": 0.067,
@@ -1428,7 +1412,23 @@
      "source_url": "https://www.hac.hr/en/toll/toll-rates",
      "system_type": "closed",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "EUR",
+     "rate_per_km_eur": 0.105,
+     "rate_per_km_local": 0.105,
+     "seasonal": {
+      "factor": 1.1,
+      "months": [
+       7,
+       8
+      ]
+     },
+     "source_url": "https://www.hac.hr/hr/cestarina/cjenik/a1",
+     "system_type": "closed",
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -1444,12 +1444,12 @@
      "source_url": "https://www.hac.hr/hr/cestarina/cjenik/a1",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1465,7 +1465,7 @@
      "source_url": "https://nemzetiutdij.hu/",
      "system_type": "vignette",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "HUF",
@@ -1475,33 +1475,55 @@
      "source_url": "https://nemzetiutdij.hu/",
      "system_type": "vignette",
      "vehicle_class": "van",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "HUF",
      "rate_per_km_eur": null,
      "rate_per_km_local": null,
      "seasonal": null,
-     "source_url": "https://nemzetiutdij.hu/",
-     "system_type": "free_flow",
+     "source_url": "https://nemzetiutdij.hu/api/uploads/Lak%C3%B3aut%C3%B3k_2026_t%C3%A1j%C3%A9koztat%C3%B3_HUN_pdf_c53001f7c7.pdf",
+     "system_type": "vignette",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "vignette",
-   "verified_at": "2026-09-21",
+   "verified_at": "2026-10-16",
    "vignettes": [
     {
      "buy_url": "https://nemzetiutdij.hu/",
      "currency": "HUF",
      "period": "day",
-     "price_eur": 15.25,
+     "price_eur": 15.26,
      "price_local": 5550,
      "source_url": "https://e-autopalyamatrica.hu/hu/arak",
      "valid_days": 1,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "buy_url": "https://ematrica.nemzetiutdij.hu/",
+     "currency": "HUF",
+     "period": "day",
+     "price_eur": 21.69,
+     "price_local": 7890,
+     "source_url": "https://nemzetiutdij.hu/api/uploads/e_matrica_arak_2026_pdf_611db0ecc1.pdf",
+     "valid_days": 1,
+     "vehicle_class": "heavy",
+     "verified_at": "2026-10-16"
+    },
+    {
+     "buy_url": "https://ematrica.nemzetiutdij.hu/",
+     "currency": "HUF",
+     "period": "10d",
+     "price_eur": 27.6,
+     "price_local": 10040,
+     "source_url": "https://nemzetiutdij.hu/api/uploads/e_matrica_arak_2026_pdf_611db0ecc1.pdf",
+     "valid_days": 10,
+     "vehicle_class": "heavy",
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://nemzetiutdij.hu/",
@@ -1512,7 +1534,7 @@
      "source_url": "https://e-autopalyamatrica.hu/hu/arak",
      "valid_days": 10,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://nemzetiutdij.hu/",
@@ -1523,18 +1545,40 @@
      "source_url": "https://e-autopalyamatrica.hu/hu/arak",
      "valid_days": 30,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "buy_url": "https://ematrica.nemzetiutdij.hu/",
+     "currency": "HUF",
+     "period": "month",
+     "price_eur": 43.49,
+     "price_local": 15820,
+     "source_url": "https://nemzetiutdij.hu/api/uploads/e_matrica_arak_2026_pdf_611db0ecc1.pdf",
+     "valid_days": 30,
+     "vehicle_class": "heavy",
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://nemzetiutdij.hu/",
      "currency": "HUF",
      "period": "year",
-     "price_eur": 169.75,
+     "price_eur": 169.77,
      "price_local": 61760,
      "source_url": "https://e-autopalyamatrica.hu/hu/arak",
      "valid_days": 365,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "buy_url": "https://ematrica.nemzetiutdij.hu/",
+     "currency": "HUF",
+     "period": "year",
+     "price_eur": 240.94,
+     "price_local": 87650,
+     "source_url": "https://nemzetiutdij.hu/api/uploads/e_matrica_arak_2026_pdf_611db0ecc1.pdf",
+     "valid_days": 365,
+     "vehicle_class": "heavy",
+     "verified_at": "2026-10-16"
     }
    ]
   },
@@ -1548,10 +1592,10 @@
      "rate_per_km_eur": 0.0164,
      "rate_per_km_local": 1.75,
      "seasonal": null,
-     "source_url": "https://tollguru.com/india-toll",
+     "source_url": "https://nhai.gov.in/nhai/sites/default/files/mix_file/D-B_Toll_Notification.pdf",
      "system_type": "closed",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "INR",
@@ -1561,7 +1605,7 @@
      "source_url": "https://nhai.gov.in/nhai/sites/default/files/mix_file/D-B_Toll_Notification.pdf",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "INR",
@@ -1571,12 +1615,12 @@
      "source_url": "https://ihmcl.co.in/wp-content/uploads/2025/07/Vehicle-Classification-Document.pdf",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1592,7 +1636,7 @@
      "source_url": "https://www.veggjald.is/verd-greidsluleidir",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "ISK",
@@ -1602,7 +1646,7 @@
      "source_url": "https://www.veggjald.is/verd-greidsluleidir",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "ISK",
@@ -1612,12 +1656,12 @@
      "source_url": "https://www.veggjald.is/verd-greidsluleidir",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1630,20 +1674,10 @@
      "rate_per_km_eur": 0.09,
      "rate_per_km_local": 0.09,
      "seasonal": null,
-     "source_url": "https://tollguru.com/italy-toll",
-     "system_type": "closed",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-21"
-    },
-    {
-     "currency": "EUR",
-     "rate_per_km_eur": 0.0922,
-     "rate_per_km_local": 0.0922,
-     "seasonal": null,
      "source_url": "https://www.autostrade.it/en/servizi-al-cliente/pedaggio/come-si-calcola-il-pedaggio",
      "system_type": "closed",
-     "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -1653,12 +1687,22 @@
      "source_url": "https://www.autostrade.it/en/servizi-al-cliente/pedaggio/come-si-calcola-il-pedaggio",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "EUR",
+     "rate_per_km_eur": 0.0922,
+     "rate_per_km_local": 0.0922,
+     "seasonal": null,
+     "source_url": "https://www.autostrade.it/en/servizi-al-cliente/pedaggio/come-si-calcola-il-pedaggio",
+     "system_type": "closed",
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1674,7 +1718,7 @@
      "source_url": "https://www.almamlakatv.com/news/182260",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "JOD",
@@ -1699,7 +1743,7 @@
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1709,38 +1753,38 @@
    "rates": [
     {
      "currency": "JPY",
-     "rate_per_km_eur": 0.141,
-     "rate_per_km_local": 25,
-     "seasonal": null,
-     "source_url": "https://highwaypost.c-nexco.co.jp/faq/toll/findout/23.html",
-     "system_type": "closed",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "JPY",
-     "rate_per_km_eur": 0.141,
-     "rate_per_km_local": 25,
-     "seasonal": null,
-     "source_url": "https://www.jb-honshi.co.jp/customer_index/guide/kubun/kubun-2.html",
-     "system_type": "closed",
-     "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "JPY",
-     "rate_per_km_eur": 0.141,
+     "rate_per_km_eur": 0.1412,
      "rate_per_km_local": 25,
      "seasonal": null,
      "source_url": "https://www.jb-honshi.co.jp/customer_index/guide/kubun/kubun-2.html",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "JPY",
+     "rate_per_km_eur": 0.1412,
+     "rate_per_km_local": 25,
+     "seasonal": null,
+     "source_url": "https://highwaypost.c-nexco.co.jp/faq/toll/findout/23.html",
+     "system_type": "closed",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "JPY",
+     "rate_per_km_eur": 0.1412,
+     "rate_per_km_local": 25,
+     "seasonal": null,
+     "source_url": "https://www.jb-honshi.co.jp/customer_index/guide/kubun/kubun-2.html",
+     "system_type": "closed",
+     "vehicle_class": "heavy",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1756,7 +1800,7 @@
      "source_url": "https://mtd.gov.kg/dorogi-2/",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "KGS",
@@ -1766,7 +1810,7 @@
      "source_url": "https://mtd.gov.kg/dorogi-2/",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "KGS",
@@ -1776,12 +1820,12 @@
      "source_url": "https://mtd.gov.kg/dorogi-2/",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-22",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1791,38 +1835,38 @@
    "rates": [
     {
      "currency": "KRW",
-     "rate_per_km_eur": 0.0295,
+     "rate_per_km_eur": 0.0293,
      "rate_per_km_local": 44.3,
      "seasonal": null,
      "source_url": "https://www.acrc.go.kr/boardDownload.es?bid=1013&list_no=111905&seq=1",
      "system_type": "closed",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "KRW",
-     "rate_per_km_eur": 0.0295,
+     "rate_per_km_eur": 0.0293,
      "rate_per_km_local": 44.3,
      "seasonal": null,
      "source_url": "https://www.acrc.go.kr/boardDownload.es?bid=1013&list_no=111905&seq=1",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "KRW",
-     "rate_per_km_eur": 0.0301,
+     "rate_per_km_eur": 0.0299,
      "rate_per_km_local": 45.2,
      "seasonal": null,
      "source_url": "https://www.acrc.go.kr/boardDownload.es?bid=1013&list_no=111905&seq=1",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1832,38 +1876,38 @@
    "rates": [
     {
      "currency": "KZT",
+     "rate_per_km_eur": 0.0382,
+     "rate_per_km_local": 19.34,
+     "seasonal": null,
+     "source_url": "https://ru.qaj.kz/tollroads/",
+     "system_type": "open",
+     "vehicle_class": "heavy",
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "KZT",
      "rate_per_km_eur": 0.0051,
      "rate_per_km_local": 2.58,
      "seasonal": null,
      "source_url": "https://ru.qaj.kz/tollroads/",
      "system_type": "open",
      "vehicle_class": "car",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "KZT",
-     "rate_per_km_eur": 0.0194,
+     "rate_per_km_eur": 0.0192,
      "rate_per_km_local": 9.74,
      "seasonal": null,
      "source_url": "https://ru.qaj.kz/tollroads/",
      "system_type": "open",
      "vehicle_class": "van",
-     "verified_at": "2026-09-22"
-    },
-    {
-     "currency": "KZT",
-     "rate_per_km_eur": 0.0384,
-     "rate_per_km_local": 19.34,
-     "seasonal": null,
-     "source_url": "https://ru.qaj.kz/tollroads/",
-     "system_type": "open",
-     "vehicle_class": "heavy",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 1,
    "system_type": "open",
-   "verified_at": "2026-09-22",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1878,7 +1922,7 @@
      "seasonal": null,
      "source_url": "https://laotiantimes.com/2026/01/02/updated-toll-charges-begin-on-vientiane-vang-vieng-expressway/",
      "system_type": "closed",
-     "vehicle_class": "car",
+     "vehicle_class": "van",
      "verified_at": "2026-09-23"
     },
     {
@@ -1888,12 +1932,12 @@
      "seasonal": null,
      "source_url": "https://laotiantimes.com/2026/01/02/updated-toll-charges-begin-on-vientiane-vang-vieng-expressway/",
      "system_type": "closed",
-     "vehicle_class": "van",
+     "vehicle_class": "car",
      "verified_at": "2026-09-23"
     },
     {
      "currency": "USD",
-     "rate_per_km_eur": 0.116,
+     "rate_per_km_eur": 0.1158,
      "rate_per_km_local": 0.13,
      "seasonal": null,
      "source_url": "https://laotiantimes.com/2026/01/02/updated-toll-charges-begin-on-vientiane-vang-vieng-expressway/",
@@ -1920,7 +1964,7 @@
      "source_url": "https://www.openstreetmap.org/",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "LBP",
@@ -1945,7 +1989,7 @@
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -1961,7 +2005,7 @@
      "source_url": "https://ltsa.lrv.lt/lt/veiklos-sritys/keliu-transportas-5/veiklos-prieziura/transporto-priemoniu-kontrole/keliu-naudotojo-mokestis-vinjete/",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -1971,7 +2015,7 @@
      "source_url": "https://ltsa.lrv.lt/lt/veiklos-sritys/keliu-transportas-5/veiklos-prieziura/transporto-priemoniu-kontrole/keliu-naudotojo-mokestis-vinjete/",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -1981,12 +2025,12 @@
      "source_url": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.254521/asr",
      "system_type": "vignette",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": [
     {
      "buy_url": "https://keliumokestis.lt/",
@@ -1997,7 +2041,7 @@
      "source_url": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.254521/asr",
      "valid_days": 1,
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://keliumokestis.lt/",
@@ -2008,7 +2052,7 @@
      "source_url": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.254521/asr",
      "valid_days": 7,
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://keliumokestis.lt/",
@@ -2019,7 +2063,7 @@
      "source_url": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.254521/asr",
      "valid_days": 30,
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://keliumokestis.lt/",
@@ -2030,7 +2074,7 @@
      "source_url": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.254521/asr",
      "valid_days": 365,
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ]
   },
@@ -2047,7 +2091,7 @@
      "source_url": "https://likumi.lv/ta/id/185656-autocelu-lietosanas-nodevas-likums",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -2057,7 +2101,7 @@
      "source_url": "https://likumi.lv/ta/id/185656-autocelu-lietosanas-nodevas-likums",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -2067,12 +2111,12 @@
      "source_url": "https://likumi.lv/ta/id/185656-autocelu-lietosanas-nodevas-likums",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2082,38 +2126,38 @@
    "rates": [
     {
      "currency": "MAD",
-     "rate_per_km_eur": 0.0309,
-     "rate_per_km_local": 0.34,
-     "seasonal": null,
-     "source_url": "https://calchub.ma/fr/blog/prix-peage-autoroute-maroc-2026.html",
-     "system_type": "closed",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-21"
-    },
-    {
-     "currency": "MAD",
-     "rate_per_km_eur": 0.0464,
+     "rate_per_km_eur": 0.0462,
      "rate_per_km_local": 0.51,
      "seasonal": null,
      "source_url": "https://www.adm.co.ma/fr/votre-classe-de-vehicule",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "MAD",
-     "rate_per_km_eur": 0.0464,
+     "rate_per_km_eur": 0.0308,
+     "rate_per_km_local": 0.34,
+     "seasonal": null,
+     "source_url": "https://www.adm.co.ma/fr/grille-tarifaire-sur-le-reseau",
+     "system_type": "closed",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "MAD",
+     "rate_per_km_eur": 0.0462,
      "rate_per_km_local": 0.51,
      "seasonal": null,
      "source_url": "https://www.adm.co.ma/fr/votre-classe-de-vehicule",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2129,7 +2173,7 @@
      "source_url": "https://evinieta.gov.md/Home/Legislation",
      "system_type": "vignette",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -2139,7 +2183,7 @@
      "source_url": "https://evinieta.gov.md/Home/Legislation",
      "system_type": "vignette",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -2149,12 +2193,12 @@
      "source_url": "https://evinieta.gov.md/Home/Legislation",
      "system_type": "vignette",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "vignette",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": [
     {
      "buy_url": "https://evinieta.gov.md/",
@@ -2165,7 +2209,7 @@
      "source_url": "https://evinieta.gov.md/Home/Legislation",
      "valid_days": 7,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://evinieta.gov.md/",
@@ -2176,7 +2220,7 @@
      "source_url": "https://evinieta.gov.md/Home/Legislation",
      "valid_days": 15,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://evinieta.gov.md/",
@@ -2187,7 +2231,7 @@
      "source_url": "https://evinieta.gov.md/Home/Legislation",
      "valid_days": 30,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://evinieta.gov.md/",
@@ -2198,7 +2242,7 @@
      "source_url": "https://evinieta.gov.md/Home/Legislation",
      "valid_days": 90,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://evinieta.gov.md/",
@@ -2209,7 +2253,7 @@
      "source_url": "https://evinieta.gov.md/Home/Legislation",
      "valid_days": 180,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ]
   },
@@ -2220,23 +2264,23 @@
    "rates": [
     {
      "currency": "EUR",
-     "rate_per_km_eur": 0.0856,
-     "rate_per_km_local": 0.0856,
-     "seasonal": null,
-     "source_url": "https://monteput.me/cjenovnik-autoput-bar-boljare/",
-     "system_type": "closed",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-22"
-    },
-    {
-     "currency": "EUR",
      "rate_per_km_eur": 0.1467,
      "rate_per_km_local": 0.1467,
      "seasonal": null,
      "source_url": "https://monteput.me/cjenovnik-autoput-bar-boljare/",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "EUR",
+     "rate_per_km_eur": 0.0856,
+     "rate_per_km_local": 0.0856,
+     "seasonal": null,
+     "source_url": "https://monteput.me/cjenovnik-autoput-bar-boljare/",
+     "system_type": "closed",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -2246,12 +2290,12 @@
      "source_url": "https://monteput.me/cjenovnik-autoput-bar-boljare/",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "closed",
-   "verified_at": "2026-09-22",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2267,7 +2311,7 @@
      "source_url": "https://roads.org.mk/patarini/cenovnik-po-delnici/",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "MKD",
@@ -2277,7 +2321,7 @@
      "source_url": "https://roads.org.mk/patarini/cenovnik-po-delnici/",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "MKD",
@@ -2287,12 +2331,12 @@
      "source_url": "https://roads.org.mk/patarini/cenovnik-po-delnici/",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2308,7 +2352,7 @@
      "source_url": "http://www.ppp.gov.mr/projets/projet-dautoroute-nouakchott-boutilimit/",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "MRU",
@@ -2333,7 +2377,7 @@
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2349,7 +2393,7 @@
      "source_url": "https://www.gozochannel.com/ferry/fares/car-and-driver/",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -2359,7 +2403,7 @@
      "source_url": "https://www.gozochannel.com/ferry/fares/car-and-driver/",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -2369,12 +2413,12 @@
      "source_url": "https://www.gozochannel.com/ferry/fares/car-and-driver/",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2384,38 +2428,38 @@
    "rates": [
     {
      "currency": "MXN",
-     "rate_per_km_eur": 0.1753,
+     "rate_per_km_eur": 0.174,
      "rate_per_km_local": 3.61,
      "seasonal": null,
      "source_url": "https://iave.capufe.gob.mx/assets/Doc/Tarifas-vigentes-2026.pdf",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "MXN",
-     "rate_per_km_eur": 0.0923,
-     "rate_per_km_local": 1.9,
-     "seasonal": null,
-     "source_url": "https://casetas.com.mx/casetas",
-     "system_type": "closed",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-21"
-    },
-    {
-     "currency": "MXN",
-     "rate_per_km_eur": 0.1753,
+     "rate_per_km_eur": 0.174,
      "rate_per_km_local": 3.61,
      "seasonal": null,
      "source_url": "https://iave.capufe.gob.mx/assets/Doc/Tarifas-vigentes-2026.pdf",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "MXN",
+     "rate_per_km_eur": 0.0916,
+     "rate_per_km_local": 1.9,
+     "seasonal": null,
+     "source_url": "https://casetas.com.mx/casetas",
+     "system_type": "closed",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 3,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2430,7 +2474,17 @@
      "seasonal": null,
      "source_url": "https://litrak.com.my/our-highways/litrak/toll-fares/",
      "system_type": "closed",
-     "vehicle_class": "car",
+     "vehicle_class": "van",
+     "verified_at": "2026-09-23"
+    },
+    {
+     "currency": "MYR",
+     "rate_per_km_eur": 0.0434,
+     "rate_per_km_local": 0.199,
+     "seasonal": null,
+     "source_url": "https://litrak.com.my/our-highways/litrak/toll-fares/",
+     "system_type": "closed",
+     "vehicle_class": "heavy",
      "verified_at": "2026-09-23"
     },
     {
@@ -2440,17 +2494,7 @@
      "seasonal": null,
      "source_url": "https://litrak.com.my/our-highways/litrak/toll-fares/",
      "system_type": "closed",
-     "vehicle_class": "van",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "MYR",
-     "rate_per_km_eur": 0.0435,
-     "rate_per_km_local": 0.199,
-     "seasonal": null,
-     "source_url": "https://litrak.com.my/our-highways/litrak/toll-fares/",
-     "system_type": "closed",
-     "vehicle_class": "heavy",
+     "vehicle_class": "car",
      "verified_at": "2026-09-23"
     }
    ],
@@ -2472,7 +2516,7 @@
      "source_url": "https://tracn4.co.za/toll-plazas-toll-fees/",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "MZN",
@@ -2482,7 +2526,7 @@
      "source_url": "https://tracn4.co.za/toll-plazas-toll-fees/",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "MZN",
@@ -2492,12 +2536,12 @@
      "source_url": "https://tracn4.co.za/toll-plazas-toll-fees/",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2513,7 +2557,7 @@
      "source_url": "https://rfanam.com.na/consideration-of-toll-gates-on-the-national-road-network/",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "NAD",
@@ -2523,7 +2567,7 @@
      "source_url": "https://rfanam.com.na/consideration-of-toll-gates-on-the-national-road-network/",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "NAD",
@@ -2533,12 +2577,12 @@
      "source_url": "https://rfanam.com.na/consideration-of-toll-gates-on-the-national-road-network/",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2554,7 +2598,7 @@
      "source_url": "https://www.rijksoverheid.nl/themas/verkeer-en-vervoer/wegen/tijdelijke-tolheffing-blankenburgverbinding-en-via15",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -2564,7 +2608,7 @@
      "source_url": "https://www.rijksoverheid.nl/themas/verkeer-en-vervoer/wegen/tijdelijke-tolheffing-blankenburgverbinding-en-via15",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -2574,12 +2618,12 @@
      "source_url": "https://www.rijksoverheid.nl/themas/verkeer-en-vervoer/wegen/tijdelijke-tolheffing-blankenburgverbinding-en-via15",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2609,7 +2653,7 @@
     },
     {
      "currency": "NOK",
-     "rate_per_km_eur": 0.1597,
+     "rate_per_km_eur": 0.1596,
      "rate_per_km_local": 1.7,
      "seasonal": null,
      "source_url": "https://www.autopass.no/siteassets/filer-og-vedlegg/04.-takstretningslinjene/takstretninglinjer-for-bompengeprosjekt-pa-offentlig-veg---februar-2025.pdf",
@@ -2636,7 +2680,7 @@
      "source_url": "https://kathmandupost.com/national/2026/08/24/nagdhunga-road-tunnel-opens-to-private-vehicles",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "NPR",
@@ -2646,7 +2690,7 @@
      "source_url": "https://kathmandupost.com/national/2026/08/24/nagdhunga-road-tunnel-opens-to-private-vehicles",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "NPR",
@@ -2656,12 +2700,12 @@
      "source_url": "https://kathmandupost.com/national/2026/08/24/nagdhunga-road-tunnel-opens-to-private-vehicles",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2677,7 +2721,7 @@
      "source_url": "https://www.nzta.govt.nz/travelling-on-our-roads/toll-roads/toll-road-information/toll-fees",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "NZD",
@@ -2687,7 +2731,7 @@
      "source_url": "https://www.nzta.govt.nz/travelling-on-our-roads/toll-roads/toll-road-information/toll-fees",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "NZD",
@@ -2697,12 +2741,12 @@
      "source_url": "https://www.nzta.govt.nz/travelling-on-our-roads/toll-roads/toll-road-information/toll-fees",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2718,7 +2762,7 @@
      "source_url": "https://www.omanobserver.om/article/1116766/oman/transport/oman-to-have-toll-roads-only-for-trucks",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "OMR",
@@ -2743,7 +2787,7 @@
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2753,38 +2797,38 @@
    "rates": [
     {
      "currency": "USD",
-     "rate_per_km_eur": 0.1195,
-     "rate_per_km_local": 0.134,
-     "seasonal": null,
-     "source_url": "https://www.ena.com.pa/pag/tarifas",
-     "system_type": "free_flow",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "USD",
-     "rate_per_km_eur": 0.1873,
-     "rate_per_km_local": 0.21,
-     "seasonal": null,
-     "source_url": "https://www.ena.com.pa/pag/tarifas",
-     "system_type": "free_flow",
-     "vehicle_class": "van",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "USD",
-     "rate_per_km_eur": 0.3452,
+     "rate_per_km_eur": 0.3448,
      "rate_per_km_local": 0.387,
      "seasonal": null,
      "source_url": "https://www.ena.com.pa/pag/tarifas",
      "system_type": "free_flow",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "USD",
+     "rate_per_km_eur": 0.1194,
+     "rate_per_km_local": 0.134,
+     "seasonal": null,
+     "source_url": "https://www.ena.com.pa/pag/tarifas",
+     "system_type": "free_flow",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "USD",
+     "rate_per_km_eur": 0.1871,
+     "rate_per_km_local": 0.21,
+     "seasonal": null,
+     "source_url": "https://www.ena.com.pa/pag/tarifas",
+     "system_type": "free_flow",
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free_flow",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2800,7 +2844,7 @@
      "source_url": "https://coviperu.com/tarifario/",
      "system_type": "open",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "PEN",
@@ -2810,7 +2854,7 @@
      "source_url": "https://coviperu.com/tarifario/",
      "system_type": "open",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "PEN",
@@ -2820,12 +2864,12 @@
      "source_url": "https://coviperu.com/tarifario/",
      "system_type": "open",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 1,
    "system_type": "open",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2841,17 +2885,7 @@
      "source_url": "https://www.gov.pl/web/infrastruktura/bezplatne-autostrady",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-21"
-    },
-    {
-     "currency": "PLN",
-     "rate_per_km_eur": 0.1373,
-     "rate_per_km_local": 0.6,
-     "seasonal": null,
-     "source_url": "https://etoll.gov.pl/artykuly/zmiany-w-systemie-e-toll-od-1-lutego-2026-r/",
-     "system_type": "closed",
-     "vehicle_class": "heavy",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "PLN",
@@ -2861,12 +2895,22 @@
      "source_url": "https://www.gov.pl/web/infrastruktura/bezplatne-autostrady",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "PLN",
+     "rate_per_km_eur": 0.0938,
+     "rate_per_km_local": 0.41,
+     "seasonal": null,
+     "source_url": "https://dziennikustaw.gov.pl/DU/2026/33/D2026000003301.pdf",
+     "system_type": "closed",
+     "vehicle_class": "heavy",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 2,
    "system_type": "free",
-   "verified_at": "2026-09-21",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2876,38 +2920,38 @@
    "rates": [
     {
      "currency": "EUR",
-     "rate_per_km_eur": 0.083,
-     "rate_per_km_local": 0.083,
+     "rate_per_km_eur": 0.09,
+     "rate_per_km_local": 0.09,
      "seasonal": null,
-     "source_url": "https://travelinformation.eu/portugal/toll-roads/",
+     "source_url": "https://www.brisaconcessao.pt/Portals/0/Documentos/TabelaEcadaTaxas_23iva_25082026_v7.pdf",
      "system_type": "closed",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
-     "rate_per_km_eur": 0.145,
-     "rate_per_km_local": 0.145,
+     "rate_per_km_eur": 0.157,
+     "rate_per_km_local": 0.157,
      "seasonal": null,
      "source_url": "https://www.brisaconcessao.pt/Portals/0/Documentos/TabelaEcadaTaxas_23iva_25082026_v7.pdf",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
-     "rate_per_km_eur": 0.145,
-     "rate_per_km_local": 0.145,
+     "rate_per_km_eur": 0.157,
+     "rate_per_km_local": 0.157,
      "seasonal": null,
      "source_url": "https://www.brisaconcessao.pt/Portals/0/Documentos/TabelaEcadaTaxas_23iva_25082026_v7.pdf",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 1,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2923,7 +2967,7 @@
      "source_url": "https://mopc.gov.py/rally-del-paraguay-asistencia-en-ruta-y-peajes-lo-que-hay-que-saber-antes-de-viajar/",
      "system_type": "open",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "PYG",
@@ -2933,22 +2977,22 @@
      "source_url": "https://mopc.gov.py/ruta-py02-desde-el-domingo-6-de-julio-rige-la-nueva-tarifa-del-peaje-de-tape-pora-s-a/",
      "system_type": "open",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "PYG",
-     "rate_per_km_eur": 0.0546,
+     "rate_per_km_eur": 0.0547,
      "rate_per_km_local": 350,
      "seasonal": null,
      "source_url": "https://mopc.gov.py/ruta-py02-desde-el-domingo-6-de-julio-rige-la-nueva-tarifa-del-peaje-de-tape-pora-s-a/",
      "system_type": "open",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 1,
    "system_type": "open",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -2964,7 +3008,7 @@
      "source_url": "https://www.erovinieta.ro/",
      "system_type": "vignette",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "RON",
@@ -2974,67 +3018,67 @@
      "source_url": "https://www.erovinieta.ro/",
      "system_type": "vignette",
      "vehicle_class": "van",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "vignette",
-   "verified_at": "2026-09-21",
+   "verified_at": "2026-10-16",
    "vignettes": [
     {
      "buy_url": "https://www.erovinieta.ro/",
      "currency": "RON",
      "period": "day",
-     "price_eur": 3.45,
-     "price_local": 18.4,
-     "source_url": "https://erovinieta.net/preturi",
+     "price_eur": 4.12,
+     "price_local": 22,
+     "source_url": "https://www.roviniete.ro/ro/info/rovinieta-pret",
      "valid_days": 1,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://www.erovinieta.ro/",
      "currency": "RON",
      "period": "10d",
-     "price_eur": 5.91,
-     "price_local": 31.55,
-     "source_url": "https://erovinieta.net/preturi",
+     "price_eur": 5.62,
+     "price_local": 30,
+     "source_url": "https://www.roviniete.ro/ro/info/rovinieta-pret",
      "valid_days": 10,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://www.erovinieta.ro/",
      "currency": "RON",
      "period": "month",
-     "price_eur": 9.36,
-     "price_local": 49.95,
-     "source_url": "https://erovinieta.net/preturi",
+     "price_eur": 9,
+     "price_local": 48,
+     "source_url": "https://www.roviniete.ro/ro/info/rovinieta-pret",
      "valid_days": 30,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://www.erovinieta.ro/",
      "currency": "RON",
      "period": "60d",
-     "price_eur": 14.78,
-     "price_local": 78.88,
-     "source_url": "https://erovinieta.net/preturi",
+     "price_eur": 14.24,
+     "price_local": 76,
+     "source_url": "https://www.roviniete.ro/ro/info/rovinieta-pret",
      "valid_days": 60,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://www.erovinieta.ro/",
      "currency": "RON",
      "period": "year",
-     "price_eur": 49.26,
-     "price_local": 262.92,
-     "source_url": "https://erovinieta.net/preturi",
+     "price_eur": 47.6,
+     "price_local": 254,
+     "source_url": "https://www.roviniete.ro/ro/info/rovinieta-pret",
      "valid_days": 365,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ]
   },
@@ -3051,7 +3095,7 @@
      "source_url": "https://www.putevi-srbije.rs/index.php/en/kategorizacija-vozila-cenovnik-putarine-2",
      "system_type": "closed",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "RSD",
@@ -3061,22 +3105,22 @@
      "source_url": "https://www.putevi-srbije.rs/index.php/en/kategorizacija-vozila-cenovnik-putarine-2",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "RSD",
-     "rate_per_km_eur": 0.1269,
+     "rate_per_km_eur": 0.1268,
      "rate_per_km_local": 14.94,
      "seasonal": null,
      "source_url": "https://www.putevi-srbije.rs/images/pdf/cene_putarina_cir.pdf",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3086,38 +3130,38 @@
    "rates": [
     {
      "currency": "RUB",
-     "rate_per_km_eur": 0.0479,
+     "rate_per_km_eur": 0.048,
      "rate_per_km_local": 4.5,
      "seasonal": null,
      "source_url": "https://avtodor-tr.ru/road/calculation/",
      "system_type": "closed",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "RUB",
-     "rate_per_km_eur": 0.0799,
-     "rate_per_km_local": 7.5,
-     "seasonal": null,
-     "source_url": "https://russianhighways.ru/for_drivers/calculation/",
-     "system_type": "closed",
-     "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "RUB",
-     "rate_per_km_eur": 0.0799,
+     "rate_per_km_eur": 0.08,
      "rate_per_km_local": 7.5,
      "seasonal": null,
      "source_url": "https://www.yuga.ru/news/481222/",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "RUB",
+     "rate_per_km_eur": 0.08,
+     "rate_per_km_local": 7.5,
+     "seasonal": null,
+     "source_url": "https://russianhighways.ru/for_drivers/calculation/",
+     "system_type": "closed",
+     "vehicle_class": "heavy",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 19,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3133,7 +3177,7 @@
      "source_url": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-no-road-tolls-planned-1.1594540580499",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "SAR",
@@ -3158,7 +3202,7 @@
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3174,7 +3218,7 @@
      "source_url": "https://www.transportstyrelsen.se/en/road/vehicles/taxes-and-fees/road-tolls/infrastructure-charges/",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "SEK",
@@ -3184,7 +3228,7 @@
      "source_url": "https://www.transportstyrelsen.se/en/road/vehicles/taxes-and-fees/road-tolls/infrastructure-charges/",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "SEK",
@@ -3194,12 +3238,12 @@
      "source_url": "https://www.transportstyrelsen.se/en/road/vehicles/taxes-and-fees/road-tolls/infrastructure-charges/",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3212,46 +3256,46 @@
      "rate_per_km_eur": null,
      "rate_per_km_local": null,
      "seasonal": null,
-     "source_url": "https://autovig.eu/en/vignette-slovenia/",
-     "system_type": "vignette",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-21"
-    },
-    {
-     "currency": "EUR",
-     "rate_per_km_eur": null,
-     "rate_per_km_local": null,
-     "seasonal": null,
-     "source_url": "https://avtokampi.si/news/slovenian-vignette-camper",
+     "source_url": "https://www.dars.si/Vinjetni_sistem/E-vinjeta",
      "system_type": "vignette",
      "vehicle_class": "van",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "EUR",
+     "rate_per_km_eur": 0.1464,
+     "rate_per_km_local": 0.1464,
+     "seasonal": null,
+     "source_url": "https://www.uradni-list.si/files/RS_-2025-076-02726-OB~P001-0000.PDF",
+     "system_type": "free_flow",
+     "vehicle_class": "heavy",
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
      "rate_per_km_eur": null,
      "rate_per_km_local": null,
      "seasonal": null,
-     "source_url": "https://evinjeta.dars.si/",
-     "system_type": "free_flow",
-     "vehicle_class": "heavy",
-     "verified_at": "2026-09-21"
+     "source_url": "https://www.dars.si/Vinjetni_sistem/E-vinjeta",
+     "system_type": "vignette",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "vignette",
-   "verified_at": "2026-09-21",
+   "verified_at": "2026-10-16",
    "vignettes": [
     {
      "buy_url": "https://evinjeta.dars.si/",
      "currency": "EUR",
      "period": "week",
-     "price_eur": 32,
-     "price_local": 32,
-     "source_url": "https://avtokampi.si/news/slovenian-vignette-camper",
+     "price_eur": 16,
+     "price_local": 16,
+     "source_url": "https://www.dars.si/Vinjetni_sistem/E-vinjeta",
      "valid_days": 7,
-     "vehicle_class": "van",
-     "verified_at": "2026-09-21"
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://evinjeta.dars.si/",
@@ -3259,10 +3303,10 @@
      "period": "week",
      "price_eur": 16,
      "price_local": 16,
-     "source_url": "https://autovig.eu/en/vignette-slovenia/",
+     "source_url": "https://www.dars.si/Vinjetni_sistem/E-vinjeta",
      "valid_days": 7,
-     "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://evinjeta.dars.si/",
@@ -3270,32 +3314,21 @@
      "period": "month",
      "price_eur": 32,
      "price_local": 32,
-     "source_url": "https://autovig.eu/en/vignette-slovenia/",
+     "source_url": "https://www.dars.si/Vinjetni_sistem/E-vinjeta",
      "valid_days": 30,
-     "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://evinjeta.dars.si/",
      "currency": "EUR",
      "period": "month",
-     "price_eur": 64.1,
-     "price_local": 64.1,
-     "source_url": "https://avtokampi.si/news/slovenian-vignette-camper",
+     "price_eur": 32,
+     "price_local": 32,
+     "source_url": "https://www.dars.si/Vinjetni_sistem/E-vinjeta",
      "valid_days": 30,
-     "vehicle_class": "van",
-     "verified_at": "2026-09-21"
-    },
-    {
-     "buy_url": "https://evinjeta.dars.si/",
-     "currency": "EUR",
-     "period": "year",
-     "price_eur": 235,
-     "price_local": 235,
-     "source_url": "https://avtokampi.si/news/slovenian-vignette-camper",
-     "valid_days": 365,
-     "vehicle_class": "van",
-     "verified_at": "2026-09-21"
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://evinjeta.dars.si/",
@@ -3303,10 +3336,21 @@
      "period": "year",
      "price_eur": 117.5,
      "price_local": 117.5,
-     "source_url": "https://autovig.eu/en/vignette-slovenia/",
+     "source_url": "https://www.dars.si/Vinjetni_sistem/E-vinjeta",
      "valid_days": 365,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "buy_url": "https://evinjeta.dars.si/",
+     "currency": "EUR",
+     "period": "year",
+     "price_eur": 117.5,
+     "price_local": 117.5,
+     "source_url": "https://www.dars.si/Vinjetni_sistem/E-vinjeta",
+     "valid_days": 365,
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
     }
    ]
   },
@@ -3323,7 +3367,7 @@
      "source_url": "https://eznamka.sk/en/evignettes/types-and-prices",
      "system_type": "vignette",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
@@ -3333,22 +3377,22 @@
      "source_url": "https://eznamka.sk/en/evignettes/types-and-prices",
      "system_type": "vignette",
      "vehicle_class": "van",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "EUR",
      "rate_per_km_eur": null,
      "rate_per_km_local": null,
      "seasonal": null,
-     "source_url": "https://eznamka.sk/en/",
-     "system_type": "free_flow",
+     "source_url": "https://eznamka.sk/en/evignettes/types-and-prices",
+     "system_type": "vignette",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "vignette",
-   "verified_at": "2026-09-21",
+   "verified_at": "2026-10-16",
    "vignettes": [
     {
      "buy_url": "https://eznamka.sk/en/",
@@ -3359,7 +3403,7 @@
      "source_url": "https://eznamka.sk/en/evignettes/types-and-prices",
      "valid_days": 1,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://eznamka.sk/en/",
@@ -3370,7 +3414,7 @@
      "source_url": "https://eznamka.sk/en/evignettes/types-and-prices",
      "valid_days": 10,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://eznamka.sk/en/",
@@ -3381,7 +3425,7 @@
      "source_url": "https://eznamka.sk/en/evignettes/types-and-prices",
      "valid_days": 30,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "buy_url": "https://eznamka.sk/en/",
@@ -3392,7 +3436,7 @@
      "source_url": "https://eznamka.sk/en/evignettes/types-and-prices",
      "valid_days": 365,
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     }
    ]
   },
@@ -3409,17 +3453,7 @@
      "source_url": "https://en.thairath.co.th/lifestyle/life/2906353",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "THB",
-     "rate_per_km_eur": 0.0266,
-     "rate_per_km_local": 1,
-     "seasonal": null,
-     "source_url": "https://en.thairath.co.th/lifestyle/life/2906353",
-     "system_type": "closed",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "THB",
@@ -3429,12 +3463,22 @@
      "source_url": "https://www.motorway.go.th/m79tollfee/",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "THB",
+     "rate_per_km_eur": 0.0266,
+     "rate_per_km_local": 1,
+     "seasonal": null,
+     "source_url": "https://en.thairath.co.th/lifestyle/life/2906353",
+     "system_type": "closed",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3450,7 +3494,7 @@
      "source_url": "https://www.irs.tj/pages/tariffs",
      "system_type": "open",
      "vehicle_class": "car",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "TJS",
@@ -3470,12 +3514,12 @@
      "source_url": "https://www.irs.tj/pages/tariffs",
      "system_type": "open",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 1,
    "system_type": "open",
-   "verified_at": "2026-09-22",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3485,7 +3529,7 @@
    "rates": [
     {
      "currency": "TMT",
-     "rate_per_km_eur": 0.0892,
+     "rate_per_km_eur": 0.0891,
      "rate_per_km_local": 0.35,
      "seasonal": null,
      "source_url": "https://beyan.tm/news/new-toll-rates-announced-for-ashgabat-turkmenabat-",
@@ -3495,7 +3539,7 @@
     },
     {
      "currency": "TMT",
-     "rate_per_km_eur": 0.0892,
+     "rate_per_km_eur": 0.0891,
      "rate_per_km_local": 0.35,
      "seasonal": null,
      "source_url": "https://beyan.tm/news/new-toll-rates-announced-for-ashgabat-turkmenabat-",
@@ -3505,7 +3549,7 @@
     },
     {
      "currency": "TMT",
-     "rate_per_km_eur": 0.3466,
+     "rate_per_km_eur": 0.346,
      "rate_per_km_local": 1.36,
      "seasonal": null,
      "source_url": "https://beyan.tm/news/new-toll-rates-announced-for-ashgabat-turkmenabat-",
@@ -3526,38 +3570,38 @@
    "rates": [
     {
      "currency": "TRY",
+     "rate_per_km_eur": 0.0185,
+     "rate_per_km_local": 1.0245,
+     "seasonal": null,
+     "source_url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Otoyollar/HGS.aspx",
+     "system_type": "free_flow",
+     "vehicle_class": "heavy",
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "TRY",
      "rate_per_km_eur": 0.0161,
      "rate_per_km_local": 0.89,
      "seasonal": null,
-     "source_url": "https://vignetim.com/blog/cost-of-driving-in-turkey",
-     "system_type": "free_flow",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-21"
-    },
-    {
-     "currency": "TRY",
-     "rate_per_km_eur": 0.0255,
-     "rate_per_km_local": 1.41,
-     "seasonal": null,
-     "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16136&MevzuatTur=7&MevzuatTertip=5",
-     "system_type": "free_flow",
-     "vehicle_class": "van",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "TRY",
-     "rate_per_km_eur": 0.0255,
-     "rate_per_km_local": 1.41,
-     "seasonal": null,
      "source_url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Otoyollar/UcretlerYeni.aspx",
      "system_type": "free_flow",
-     "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "TRY",
+     "rate_per_km_eur": 0.0185,
+     "rate_per_km_local": 1.0245,
+     "seasonal": null,
+     "source_url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Otoyollar/HGS.aspx",
+     "system_type": "free_flow",
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 2,
    "system_type": "free_flow",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3567,38 +3611,38 @@
    "rates": [
     {
      "currency": "TWD",
-     "rate_per_km_eur": 0.0333,
-     "rate_per_km_local": 1.2,
-     "seasonal": null,
-     "source_url": "https://www.freeway.gov.tw/Rate.aspx",
-     "system_type": "free_flow",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "TWD",
-     "rate_per_km_eur": 0.0333,
+     "rate_per_km_eur": 0.033,
      "rate_per_km_local": 1.2,
      "seasonal": null,
      "source_url": "https://www.freeway.gov.tw/Rate.aspx",
      "system_type": "free_flow",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "TWD",
-     "rate_per_km_eur": 0.0416,
+     "rate_per_km_eur": 0.033,
+     "rate_per_km_local": 1.2,
+     "seasonal": null,
+     "source_url": "https://www.freeway.gov.tw/Rate.aspx",
+     "system_type": "free_flow",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "TWD",
+     "rate_per_km_eur": 0.0413,
      "rate_per_km_local": 1.5,
      "seasonal": null,
      "source_url": "https://www.freeway.gov.tw/Rate.aspx",
      "system_type": "free_flow",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free_flow",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3613,8 +3657,8 @@
      "seasonal": null,
      "source_url": "https://www.mof.go.tz/uploads/documents/en-1676545134-THE%20FOREIGN%20VEHICLES%20TRANSIT%20CHARGES%20ACT,%20CAP%2084,%20R.E%202019.pdf",
      "system_type": "free",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "TZS",
@@ -3623,8 +3667,8 @@
      "seasonal": null,
      "source_url": "https://www.mof.go.tz/uploads/documents/en-1676545134-THE%20FOREIGN%20VEHICLES%20TRANSIT%20CHARGES%20ACT,%20CAP%2084,%20R.E%202019.pdf",
      "system_type": "free",
-     "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "TZS",
@@ -3634,12 +3678,12 @@
      "source_url": "https://www.mof.go.tz/uploads/documents/en-1676545134-THE%20FOREIGN%20VEHICLES%20TRANSIT%20CHARGES%20ACT,%20CAP%2084,%20R.E%202019.pdf",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3652,35 +3696,35 @@
      "rate_per_km_eur": null,
      "rate_per_km_local": null,
      "seasonal": null,
-     "source_url": "https://tollguru.com/ukraine-toll",
-     "system_type": "free",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "UAH",
-     "rate_per_km_eur": null,
-     "rate_per_km_local": null,
-     "seasonal": null,
-     "source_url": "https://tollguru.com/ukraine-toll",
+     "source_url": "https://netfreedom.org.ua/platni-dorogy-v-ukrayini-realiyi-ta-perspektyvy/",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "UAH",
      "rate_per_km_eur": null,
      "rate_per_km_local": null,
      "seasonal": null,
-     "source_url": "https://tollguru.com/ukraine-toll",
+     "source_url": "https://netfreedom.org.ua/platni-dorogy-v-ukrayini-realiyi-ta-perspektyvy/",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "UAH",
+     "rate_per_km_eur": null,
+     "rate_per_km_local": null,
+     "seasonal": null,
+     "source_url": "https://netfreedom.org.ua/platni-dorogy-v-ukrayini-realiyi-ta-perspektyvy/",
+     "system_type": "free",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3690,38 +3734,38 @@
    "rates": [
     {
      "currency": "USD",
-     "rate_per_km_eur": 0.0553,
+     "rate_per_km_eur": 0.0552,
      "rate_per_km_local": 0.062,
      "seasonal": null,
-     "source_url": "https://tollroadcalculator.com/blog/most-expensive-toll-roads-america",
-     "system_type": "closed",
-     "vehicle_class": "van",
-     "verified_at": "2026-09-21"
-    },
-    {
-     "currency": "USD",
-     "rate_per_km_eur": 0.0553,
-     "rate_per_km_local": 0.062,
-     "seasonal": null,
-     "source_url": "https://tollroadcalculator.com/blog/most-expensive-toll-roads-america",
+     "source_url": "https://www.ohioturnpike.org/docs/default-source/schedule-of-tolls/new-toll-system/2026-schedule-of-tolls---new-toll-system.pdf",
      "system_type": "closed",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "USD",
-     "rate_per_km_eur": 0.0892,
+     "rate_per_km_eur": 0.0891,
+     "rate_per_km_local": 0.1,
+     "seasonal": null,
+     "source_url": "https://www.ohioturnpike.org/docs/default-source/schedule-of-tolls/new-toll-system/2026-schedule-of-tolls---new-toll-system.pdf",
+     "system_type": "closed",
+     "vehicle_class": "van",
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "USD",
+     "rate_per_km_eur": 0.0891,
      "rate_per_km_local": 0.1,
      "seasonal": null,
      "source_url": "https://www.ohioturnpike.org/docs/default-source/schedule-of-tolls/new-toll-system/2026-schedule-of-tolls---new-toll-system.pdf",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 1,
    "system_type": "closed",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3737,7 +3781,7 @@
      "source_url": "https://datosuruguay.com/peajes",
      "system_type": "open",
      "vehicle_class": "car",
-     "verified_at": "2026-09-21"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "UYU",
@@ -3747,7 +3791,7 @@
      "source_url": "https://www.gub.uy/ministerio-transporte-obras-publicas/comunicacion/comunicados/ajuste-tarifas-peajes-desde-hora-cero-del-5-junio-2026",
      "system_type": "open",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "UYU",
@@ -3757,12 +3801,12 @@
      "source_url": "https://www.gub.uy/ministerio-transporte-obras-publicas/comunicacion/comunicados/ajuste-tarifas-peajes-desde-hora-cero-del-5-junio-2026",
      "system_type": "open",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "open",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3772,38 +3816,38 @@
    "rates": [
     {
      "currency": "UZS",
-     "rate_per_km_eur": 0.0566,
-     "rate_per_km_local": 754.3,
+     "rate_per_km_eur": 0.0375,
+     "rate_per_km_local": 502.86,
      "seasonal": null,
-     "source_url": "https://www.spot.uz/ru/2026/09/04/toll-road/",
-     "system_type": "closed",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-22"
-    },
-    {
-     "currency": "UZS",
-     "rate_per_km_eur": 0.0943,
-     "rate_per_km_local": 1257.1,
-     "seasonal": null,
-     "source_url": "https://www.spot.uz/ru/2026/09/04/toll-road/",
+     "source_url": "https://lex.uz/ru/docs/8517318",
      "system_type": "closed",
      "vehicle_class": "van",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "UZS",
-     "rate_per_km_eur": 0.1415,
-     "rate_per_km_local": 1885.7,
+     "rate_per_km_eur": 0.0375,
+     "rate_per_km_local": 502.86,
      "seasonal": null,
-     "source_url": "https://www.spot.uz/ru/2026/09/04/toll-road/",
+     "source_url": "https://lex.uz/ru/docs/8517318",
+     "system_type": "closed",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "UZS",
+     "rate_per_km_eur": 0.1877,
+     "rate_per_km_local": 2514.29,
+     "seasonal": null,
+     "source_url": "https://lex.uz/ru/docs/8517318",
      "system_type": "closed",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "closed",
-   "verified_at": "2026-09-22",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3813,17 +3857,7 @@
    "rates": [
     {
      "currency": "VND",
-     "rate_per_km_eur": 0.0448,
-     "rate_per_km_local": 1300,
-     "seasonal": null,
-     "source_url": "https://drvn.gov.vn/tin-tuc/hoat-dong-nganh-duong-bo/muc-phi-cao-toc-do-nha-nuoc-dau-tu-duoc-tinh-the-nao.html",
-     "system_type": "closed",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "VND",
-     "rate_per_km_eur": 0.0448,
+     "rate_per_km_eur": 0.0447,
      "rate_per_km_local": 1300,
      "seasonal": null,
      "source_url": "https://drvn.gov.vn/tin-tuc/hoat-dong-nganh-duong-bo/muc-phi-cao-toc-do-nha-nuoc-dau-tu-duoc-tinh-the-nao.html",
@@ -3833,7 +3867,17 @@
     },
     {
      "currency": "VND",
-     "rate_per_km_eur": 0.0672,
+     "rate_per_km_eur": 0.0447,
+     "rate_per_km_local": 1300,
+     "seasonal": null,
+     "source_url": "https://drvn.gov.vn/tin-tuc/hoat-dong-nganh-duong-bo/muc-phi-cao-toc-do-nha-nuoc-dau-tu-duoc-tinh-the-nao.html",
+     "system_type": "closed",
+     "vehicle_class": "car",
+     "verified_at": "2026-09-23"
+    },
+    {
+     "currency": "VND",
+     "rate_per_km_eur": 0.0671,
      "rate_per_km_local": 1950,
      "seasonal": null,
      "source_url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/130-cp.signed.pdf",
@@ -3860,7 +3904,7 @@
      "source_url": "https://www.kiprarent.com/en/blog/north-cyprus-driving-rules/",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "TRY",
@@ -3870,7 +3914,7 @@
      "source_url": "https://www.kiprarent.com/en/blog/north-cyprus-driving-rules/",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "TRY",
@@ -3880,12 +3924,12 @@
      "source_url": "https://www.kiprarent.com/en/blog/north-cyprus-driving-rules/",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-10-01",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3901,7 +3945,7 @@
      "source_url": "https://www.nra.co.za/uploads/17/SANRAL%20Toll%20Tariff%202026%20A3%20Poster%20v2.pdf",
      "system_type": "free",
      "vehicle_class": "car",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "ZAR",
@@ -3911,7 +3955,7 @@
      "source_url": "https://www.nra.co.za/uploads/17/SANRAL%20Toll%20Tariff%202026%20A3%20Poster%20v2.pdf",
      "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "ZAR",
@@ -3921,12 +3965,12 @@
      "source_url": "https://www.nra.co.za/uploads/17/SANRAL%20Toll%20Tariff%202026%20A3%20Poster%20v2.pdf",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   },
   {
@@ -3941,18 +3985,8 @@
      "seasonal": null,
      "source_url": "https://www.zinara.co.zw/services/tolling/",
      "system_type": "free",
-     "vehicle_class": "car",
-     "verified_at": "2026-09-23"
-    },
-    {
-     "currency": "USD",
-     "rate_per_km_eur": null,
-     "rate_per_km_local": null,
-     "seasonal": null,
-     "source_url": "https://www.zinara.co.zw/services/tolling/",
-     "system_type": "free",
      "vehicle_class": "van",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
     },
     {
      "currency": "USD",
@@ -3962,12 +3996,22 @@
      "source_url": "https://www.zinara.co.zw/services/tolling/",
      "system_type": "free",
      "vehicle_class": "heavy",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "currency": "USD",
+     "rate_per_km_eur": null,
+     "rate_per_km_local": null,
+     "seasonal": null,
+     "source_url": "https://www.zinara.co.zw/services/tolling/",
+     "system_type": "free",
+     "vehicle_class": "car",
+     "verified_at": "2026-10-16"
     }
    ],
    "sections_count": 0,
    "system_type": "free",
-   "verified_at": "2026-09-23",
+   "verified_at": "2026-10-16",
    "vignettes": []
   }
  ],
