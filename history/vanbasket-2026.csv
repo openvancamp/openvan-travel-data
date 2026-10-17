@@ -1287,3 +1287,95 @@ date,country_code,country_name,region,vanbasket_index,pct_vs_world,data_quality,
 2026-10-16,UZ,Uzbekistan,asia,68,-32,official,2026-10-01
 2026-10-16,VN,Vietnam,asia,84,-16,official,2026-10-01
 2026-10-16,ZA,South Africa,africa,72,-28,official,2026-10-01
+2026-10-17,AE,UAE,middle_east,138.4,38.4,official,2026-10-01
+2026-10-17,AL,Albania,europe,96.9,-3.1,official,2026-10-01
+2026-10-17,AM,Armenia,asia,78,-22,official,2026-10-01
+2026-10-17,AR,Argentina,americas,70,-30,official,2026-10-01
+2026-10-17,AT,Austria,europe,128.4,28.4,official,2026-10-01
+2026-10-17,AU,Australia,oceania,148.5,48.5,official,2026-10-01
+2026-10-17,AZ,Azerbaijan,asia,83,-17,official,2026-10-01
+2026-10-17,BA,Bih,europe,92,-8,official,2026-10-01
+2026-10-17,BD,Bangladesh,asia,65,-35,official,2026-10-01
+2026-10-17,BE,Belgium,europe,124.8,24.8,official,2026-10-01
+2026-10-17,BG,Bulgaria,europe,92.4,-7.6,official,2026-10-01
+2026-10-17,BR,Brazil,americas,78,-22,official,2026-10-01
+2026-10-17,BY,Belarus,europe,80,-20,official,2026-10-01
+2026-10-17,CA,Canada,americas,152,52,official,2026-10-01
+2026-10-17,CH,Switzerland,europe,199.2,99.2,official,2026-10-01
+2026-10-17,CL,Chile,americas,92,-8,official,2026-10-01
+2026-10-17,CN,China,asia,130.4,30.4,official,2026-10-01
+2026-10-17,CO,Colombia,americas,72,-28,official,2026-10-01
+2026-10-17,CR,Costa Rica,americas,95,-5,official,2026-10-01
+2026-10-17,CY,Cyprus,europe,118,18,official,2026-10-01
+2026-10-17,CZ,Czech Republic,europe,105.4,5.4,official,2026-10-01
+2026-10-17,DE,Germany,europe,124.9,24.9,official,2026-10-01
+2026-10-17,DK,Denmark,europe,140.2,40.2,official,2026-10-01
+2026-10-17,EG,Egypt,middle_east,65,-35,official,2026-10-01
+2026-10-17,ES,Spain,europe,115.5,15.5,official,2026-10-01
+2026-10-17,FI,Finland,europe,133,33,official,2026-10-01
+2026-10-17,FR,France,europe,132.1,32.1,official,2026-10-01
+2026-10-17,GE,Georgia,asia,75,-25,official,2026-10-01
+2026-10-17,GH,Ghana,africa,82,-18,official,2026-10-01
+2026-10-17,GR,Greece,europe,116,16,official,2026-10-01
+2026-10-17,HR,Croatia,europe,112,12,official,2026-10-01
+2026-10-17,HU,Hungary,europe,101,1,official,2026-10-01
+2026-10-17,ID,Indonesia,asia,89.5,-10.5,official,2026-10-01
+2026-10-17,IE,Ireland,europe,130,30,official,2026-10-01
+2026-10-17,IL,Israel,middle_east,188.7,88.7,official,2026-10-01
+2026-10-17,IN,India,asia,58.2,-41.8,official,2026-10-01
+2026-10-17,IS,Iceland,europe,165,65,official,2026-10-01
+2026-10-17,IT,Italy,europe,128.8,28.8,official,2026-10-01
+2026-10-17,JO,Jordan,middle_east,110,10,official,2026-10-01
+2026-10-17,JP,Japan,asia,199.5,99.5,official,2026-10-01
+2026-10-17,KE,Kenya,africa,78,-22,official,2026-10-01
+2026-10-17,KG,Kyrgyzstan,asia,65,-35,official,2026-10-01
+2026-10-17,KH,Cambodia,asia,89.6,-10.4,official,2026-10-01
+2026-10-17,KR,South Korea,asia,208.8,108.8,official,2026-10-01
+2026-10-17,KZ,Kazakhstan,asia,76,-24,official,2026-10-01
+2026-10-17,LA,Laos,asia,82,-18,official,2026-10-01
+2026-10-17,LB,Lebanon,middle_east,95,-5,official,2026-10-01
+2026-10-17,LK,Sri Lanka,asia,68,-32,official,2026-10-01
+2026-10-17,LU,Luxembourg,europe,128.5,28.5,official,2026-10-01
+2026-10-17,MA,Morocco,africa,92.6,-7.4,official,2026-10-01
+2026-10-17,MD,Moldova,europe,72,-28,official,2026-10-01
+2026-10-17,ME,Montenegro,europe,95,-5,official,2026-10-01
+2026-10-17,MK,North Macedonia,europe,85,-15,official,2026-10-01
+2026-10-17,MM,Myanmar,asia,63,-37,official,2026-10-01
+2026-10-17,MN,Mongolia,asia,78,-22,official,2026-10-01
+2026-10-17,MT,Malta,europe,115,15,official,2026-10-01
+2026-10-17,MX,Mexico,americas,88,-12,official,2026-10-01
+2026-10-17,MY,Malaysia,asia,90,-10,official,2026-10-01
+2026-10-17,NA,Namibia,africa,80,-20,official,2026-10-01
+2026-10-17,NL,Netherlands,europe,114,14,official,2026-10-01
+2026-10-17,NO,Norway,europe,177.2,77.2,official,2026-10-01
+2026-10-17,NP,Nepal,asia,61,-39,official,2026-10-01
+2026-10-17,NZ,New Zealand,oceania,142.5,42.5,official,2026-10-01
+2026-10-17,OM,Oman,middle_east,120,20,official,2026-10-01
+2026-10-17,PA,Panama,americas,88,-12,official,2026-10-01
+2026-10-17,PE,Peru,americas,75,-25,official,2026-10-01
+2026-10-17,PH,Philippines,asia,93.2,-6.8,official,2026-10-01
+2026-10-17,PK,Pakistan,asia,69,-31,official,2026-10-01
+2026-10-17,PL,Poland,europe,96,-4,official,2026-10-01
+2026-10-17,PT,Portugal,europe,117.8,17.8,official,2026-10-01
+2026-10-17,QA,Qatar,middle_east,127.9,27.9,official,2026-10-01
+2026-10-17,RO,Romania,europe,88,-12,official,2026-10-01
+2026-10-17,RS,Serbia,europe,99.5,-0.5,official,2026-10-01
+2026-10-17,RU,Russia,europe,82,-18,official,2026-10-01
+2026-10-17,SA,Saudi Arabia,middle_east,130.2,30.2,official,2026-10-01
+2026-10-17,SE,Sweden,europe,138.3,38.3,official,2026-10-01
+2026-10-17,SG,Singapore,asia,130.8,30.8,official,2026-10-01
+2026-10-17,SI,Slovenia,europe,112.5,12.5,official,2026-10-01
+2026-10-17,SK,Slovakia,europe,104,4,official,2026-10-01
+2026-10-17,SN,Senegal,africa,85,-15,official,2026-10-01
+2026-10-17,TH,Thailand,asia,83,-17,official,2026-10-01
+2026-10-17,TJ,Tajikistan,asia,62,-38,official,2026-10-01
+2026-10-17,TN,Tunisia,africa,74,-26,official,2026-10-01
+2026-10-17,TR,Turkey,middle_east,88,-12,official,2026-10-01
+2026-10-17,TW,Taiwan,asia,110,10,official,2026-10-01
+2026-10-17,TZ,Tanzania,africa,70,-30,official,2026-10-01
+2026-10-17,UA,Ukraine,europe,70,-30,official,2026-10-01
+2026-10-17,US,United States,americas,117.5,17.5,official,2026-10-01
+2026-10-17,UY,Uruguay,americas,95,-5,official,2026-10-01
+2026-10-17,UZ,Uzbekistan,asia,68,-32,official,2026-10-01
+2026-10-17,VN,Vietnam,asia,84,-16,official,2026-10-01
+2026-10-17,ZA,South Africa,africa,72,-28,official,2026-10-01
