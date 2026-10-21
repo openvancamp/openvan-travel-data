@@ -3130,7 +3130,7 @@
    "rates": [
     {
      "currency": "RUB",
-     "rate_per_km_eur": 0.0483,
+     "rate_per_km_eur": 0.0484,
      "rate_per_km_local": 4.5,
      "seasonal": null,
      "source_url": "https://avtodor-tr.ru/road/calculation/",
@@ -3140,7 +3140,7 @@
     },
     {
      "currency": "RUB",
-     "rate_per_km_eur": 0.0804,
+     "rate_per_km_eur": 0.0806,
      "rate_per_km_local": 7.5,
      "seasonal": null,
      "source_url": "https://www.yuga.ru/news/481222/",
@@ -3150,7 +3150,7 @@
     },
     {
      "currency": "RUB",
-     "rate_per_km_eur": 0.0804,
+     "rate_per_km_eur": 0.0806,
      "rate_per_km_local": 7.5,
      "seasonal": null,
      "source_url": "https://russianhighways.ru/for_drivers/calculation/",
@@ -3816,7 +3816,7 @@
    "rates": [
     {
      "currency": "UZS",
-     "rate_per_km_eur": 0.0371,
+     "rate_per_km_eur": 0.0372,
      "rate_per_km_local": 502.86,
      "seasonal": null,
      "source_url": "https://lex.uz/ru/docs/8517318",
@@ -3826,7 +3826,7 @@
     },
     {
      "currency": "UZS",
-     "rate_per_km_eur": 0.0371,
+     "rate_per_km_eur": 0.0372,
      "rate_per_km_local": 502.86,
      "seasonal": null,
      "source_url": "https://lex.uz/ru/docs/8517318",
@@ -3836,7 +3836,7 @@
     },
     {
      "currency": "UZS",
-     "rate_per_km_eur": 0.1853,
+     "rate_per_km_eur": 0.186,
      "rate_per_km_local": 2514.29,
      "seasonal": null,
      "source_url": "https://lex.uz/ru/docs/8517318",
