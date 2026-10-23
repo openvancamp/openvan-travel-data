@@ -15347,3 +15347,771 @@ date,country_code,grade,country_name,price,currency,unit,fetched_at
 2026-10-22,ZW,diesel,Zimbabwe,54.2843,ZWG,liter,2026-10-17T08:22:49+03:00
 2026-10-22,ZW,gasoline,Zimbabwe,54.5504,ZWG,liter,2026-10-17T08:22:49+03:00
 2026-10-22,ZW,lpg,Zimbabwe,46.8335,ZWG,kg,2026-10-17T08:22:49+03:00
+2026-10-23,AD,diesel,Andorra,1.7165,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AD,diesel_premium,Andorra,1.7436,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AD,gasoline,Andorra,1.5889,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AD,gasoline_premium,Andorra,1.6489,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AD,premium,Andorra,1.6489,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AE,diesel,UAE,4.8,AED,liter,2026-10-17T08:22:50+03:00
+2026-10-23,AE,gasoline,UAE,4.28,AED,liter,2026-10-17T08:22:50+03:00
+2026-10-23,AE,gasoline_regular,UAE,4.21,AED,liter,2026-10-17T08:22:50+03:00
+2026-10-23,AE,gasoline_super,UAE,4.4,AED,liter,2026-10-17T08:22:50+03:00
+2026-10-23,AE,premium,UAE,4.4,AED,liter,2026-10-17T08:22:50+03:00
+2026-10-23,AF,diesel,Afghanistan,78.125,AFN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AF,gasoline,Afghanistan,86,AFN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AL,diesel,Albania,213.3144,ALL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AL,diesel_premium,Albania,225,ALL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AL,gasoline,Albania,190.5133,ALL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AL,gasoline_premium,Albania,220,ALL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AL,lpg,Albania,68.9377,ALL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AL,premium,Albania,220,ALL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AM,diesel,Armenia,696.1526,AMD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AM,gasoline,Armenia,612.4263,AMD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AM,gasoline_premium,Armenia,700,AMD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AM,gasoline_regular,Armenia,600,AMD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AM,lpg,Armenia,240,AMD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AM,premium,Armenia,700,AMD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AR,cng,Argentina,829,ARS,m3,2026-10-17T08:22:49+03:00
+2026-10-23,AR,diesel,Argentina,2438.7739,ARS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AR,diesel_premium,Argentina,2671.2222,ARS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AR,gasoline,Argentina,2229.6152,ARS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AR,gasoline_premium,Argentina,2490.3889,ARS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AR,premium,Argentina,2490.3889,ARS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AT,cng,Austria,1.799,EUR,kg,2026-10-17T08:22:49+03:00
+2026-10-23,AT,diesel,Austria,2.1672,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AT,diesel_premium,Austria,2.5361,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AT,gasoline,Austria,1.8626,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AT,gasoline_premium,Austria,2.1524,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AT,gasoline_super,Austria,2.089,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AT,lpg,Austria,1.1542,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AT,premium,Austria,2.089,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AU,diesel,Australia,2.8357,AUD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AU,diesel_premium,Australia,2.8438,AUD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AU,e85,Australia,2.599,AUD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AU,gasoline,Australia,2.4323,AUD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AU,gasoline_premium,Australia,2.5973,AUD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AU,gasoline_super,Australia,2.6908,AUD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AU,lpg,Australia,1.395,AUD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AU,premium,Australia,2.6908,AUD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AZ,cng,Azerbaijan,0.4,AZN,m3,2026-10-17T08:22:49+03:00
+2026-10-23,AZ,diesel,Azerbaijan,1.1,AZN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AZ,gasoline,Azerbaijan,1.15,AZN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AZ,gasoline_premium,Azerbaijan,1.6,AZN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AZ,gasoline_super,Azerbaijan,2.3,AZN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AZ,lpg,Azerbaijan,0.7,AZN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,AZ,premium,Azerbaijan,2.3,AZN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BA,diesel,Bih,3.7022,BAM,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BA,gasoline,Bih,3.4122,BAM,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BA,gasoline_premium,Bih,3.45,BAM,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BA,lpg,Bih,1.4116,BAM,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BA,premium,Bih,3.45,BAM,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BB,diesel,Barbados,3.8,BBD,liter,2026-10-11T10:23:01+03:00
+2026-10-23,BB,gasoline,Barbados,4.27,BBD,liter,2026-10-11T10:23:01+03:00
+2026-10-23,BB,kerosene,Barbados,2.3,BBD,liter,2026-10-11T10:23:01+03:00
+2026-10-23,BD,diesel,Bangladesh,135,BDT,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BD,gasoline,Bangladesh,160,BDT,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BD,gasoline_premium,Bangladesh,165,BDT,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BD,kerosene,Bangladesh,155,BDT,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BD,premium,Bangladesh,165,BDT,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BE,diesel,Belgium,2.4219,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BE,gasoline,Belgium,2.0526,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BE,gasoline_premium,Belgium,2.1937,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BE,lpg,Belgium,1.0568,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BE,premium,Belgium,2.1937,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BF,diesel,Burkina Faso,750,XOF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BF,gasoline,Burkina Faso,850,XOF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BF,kerosene,Burkina Faso,950,XOF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BG,diesel,Bulgaria,1.8805,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BG,diesel_premium,Bulgaria,2.1124,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BG,gasoline,Bulgaria,1.6419,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BG,gasoline_super,Bulgaria,1.8624,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BG,lpg,Bulgaria,0.6129,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BG,premium,Bulgaria,1.8624,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BH,diesel,Bahrain,0.26,BHD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BH,gasoline,Bahrain,0.235,BHD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BH,gasoline_premium,Bahrain,0.277,BHD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BH,gasoline_super,Bahrain,0.41,BHD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BH,premium,Bahrain,0.41,BHD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BO,cng,Bolivia,3.2,BOB,m3,2026-10-17T08:22:50+03:00
+2026-10-23,BO,diesel,Bolivia,9.8,BOB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BO,gasoline,Bolivia,6.96,BOB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BO,gasoline_premium,Bolivia,11,BOB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BO,premium,Bolivia,11,BOB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BR,cng,Brazil,4.8528,BRL,m3,2026-10-17T08:22:49+03:00
+2026-10-23,BR,diesel,Brazil,7.3406,BRL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BR,e85,Brazil,4.3367,BRL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BR,gasoline,Brazil,6.5566,BRL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BR,gasoline_premium,Brazil,6.7629,BRL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BR,premium,Brazil,6.7629,BRL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BW,diesel,Botswana,20.93,BWP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BW,gasoline,Botswana,18.21,BWP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BW,kerosene,Botswana,18.33,BWP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,BY,diesel,Belarus,2.72,BYN,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BY,gasoline,Belarus,2.72,BYN,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BY,gasoline_premium,Belarus,2.94,BYN,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BY,gasoline_regular,Belarus,2.62,BYN,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BY,lpg,Belarus,1.34,BYN,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BY,premium,Belarus,2.94,BYN,liter,2026-10-17T08:22:50+03:00
+2026-10-23,BZ,diesel,Belize,14.6649,BZD,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,BZ,gasoline,Belize,14.2291,BZD,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,BZ,gasoline_premium,Belize,15.54,BZD,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,BZ,premium,Belize,15.54,BZD,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,CA,diesel,Canada,2.693,CAD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CA,gasoline,Canada,1.9043,CAD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CA,gasoline_premium,Canada,2.0731,CAD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CA,gasoline_super,Canada,2.1802,CAD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CA,lpg,Canada,1.286,CAD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CA,premium,Canada,2.1802,CAD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CD,diesel,DR Congo,2635,CDF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CD,gasoline,DR Congo,2640,CDF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CH,diesel,Switzerland,2.3173,CHF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CH,gasoline,Switzerland,2.0887,CHF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CH,gasoline_premium,Switzerland,2.27,CHF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CH,lpg,Switzerland,1.183,CHF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CH,premium,Switzerland,2.27,CHF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CI,diesel,Ivory Coast,725,XOF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CI,gasoline,Ivory Coast,905,XOF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CI,kerosene,Ivory Coast,780,XOF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CL,cng,Chile,906,CLP,m3,2026-10-17T08:22:49+03:00
+2026-10-23,CL,diesel,Chile,1508.8095,CLP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CL,gasoline,Chile,1547.8571,CLP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CL,gasoline_premium,Chile,1569.1538,CLP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CL,gasoline_super,Chile,1609.1538,CLP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CL,lpg,Chile,696.5,CLP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CL,premium,Chile,1609.1538,CLP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CN,diesel,China,8.3082,CNY,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CN,gasoline,China,8.6098,CNY,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CN,gasoline_premium,China,9.1267,CNY,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CN,gasoline_super,China,10.6609,CNY,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CN,premium,China,10.6609,CNY,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CO,cng,Colombia,3551,COP,m3,2026-10-17T08:22:49+03:00
+2026-10-23,CO,diesel,Colombia,11219.5,COP,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,CO,diesel_premium,Colombia,11450,COP,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,CO,gasoline,Colombia,15968,COP,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,CO,gasoline_premium,Colombia,22210,COP,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,CO,lpg,Colombia,2490,COP,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,CO,premium,Colombia,22210,COP,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,CR,diesel,Costa Rica,785,CRC,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CR,gasoline,Costa Rica,719,CRC,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CR,gasoline_premium,Costa Rica,764,CRC,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CR,premium,Costa Rica,764,CRC,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CU,diesel,Cuba,132,CUP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,CU,diesel_premium,Cuba,150,CUP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,CU,gasoline,Cuba,132,CUP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,CU,gasoline_premium,Cuba,156,CUP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,CU,gasoline_regular,Cuba,114,CUP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,CU,gasoline_super,Cuba,198,CUP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,CU,premium,Cuba,198,CUP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,CV,diesel,Cape Verde,190.3,CVE,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CV,gasoline,Cape Verde,197.2,CVE,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CV,kerosene,Cape Verde,216.9,CVE,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CY,diesel,Cyprus,1.9422,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CY,gasoline,Cyprus,1.7587,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CY,gasoline_premium,Cyprus,1.809,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CY,premium,Cyprus,1.809,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CZ,cng,Czech Republic,44.8,CZK,kg,2026-10-17T08:22:49+03:00
+2026-10-23,CZ,diesel,Czech Republic,46.4431,CZK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CZ,diesel_premium,Czech Republic,47,CZK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CZ,gasoline,Czech Republic,44.9374,CZK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CZ,gasoline_premium,Czech Republic,48.1,CZK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CZ,lpg,Czech Republic,22.4211,CZK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,CZ,premium,Czech Republic,48.1,CZK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,DE,diesel,Germany,2.2479,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,DE,diesel_premium,Germany,2.4586,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,DE,gasoline,Germany,2.1585,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,DE,gasoline_premium,Germany,2.258,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,DE,lpg,Germany,1.157,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,DE,premium,Germany,2.258,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,DK,diesel,Denmark,18.9611,DKK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,DK,diesel_premium,Denmark,19.9031,DKK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,DK,gasoline,Denmark,17.7357,DKK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,DK,gasoline_premium,Denmark,20.2137,DKK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,DK,premium,Denmark,20.2137,DKK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,DO,diesel,Dominican Republic,270.8,DOP,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,DO,diesel_premium,Dominican Republic,318.1,DOP,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,DO,gasoline,Dominican Republic,317.5,DOP,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,DO,gasoline_premium,Dominican Republic,358.1,DOP,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,DO,kerosene,Dominican Republic,387.2,DOP,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,DO,lpg,Dominican Republic,135.2,DOP,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,DO,premium,Dominican Republic,358.1,DOP,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,DZ,diesel,Algeria,31,DZD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,DZ,gasoline,Algeria,47,DZD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,DZ,lpg,Algeria,12,DZD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,EC,diesel,Ecuador,3.11,USD,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,EC,gasoline,Ecuador,3.17,USD,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,EC,gasoline_premium,Ecuador,4.74,USD,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,EC,premium,Ecuador,4.74,USD,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,EE,diesel,Estonia,2.0613,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,EE,gasoline,Estonia,1.9422,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,EE,gasoline_premium,Estonia,2.006,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,EE,lpg,Estonia,1.005,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,EE,premium,Estonia,2.006,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,EG,diesel,Egypt,20.5,EGP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,EG,gasoline,Egypt,22.25,EGP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,EG,gasoline_premium,Egypt,24,EGP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,EG,gasoline_regular,Egypt,20.75,EGP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,EG,kerosene,Egypt,20.5,EGP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,EG,premium,Egypt,24,EGP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,ES,cng,Spain,1.9202,EUR,kg,2026-10-17T08:22:49+03:00
+2026-10-23,ES,diesel,Spain,1.9313,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ES,diesel_premium,Spain,2.0315,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ES,gasoline,Spain,1.8241,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ES,gasoline_premium,Spain,1.973,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ES,lpg,Spain,1.1304,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ES,premium,Spain,1.973,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ET,diesel,Ethiopia,180.46,ETB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,ET,gasoline,Ethiopia,167.41,ETB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,ET,kerosene,Ethiopia,320.66,ETB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,FI,diesel,Finland,2.4939,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,FI,gasoline,Finland,2.296,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,FI,gasoline_premium,Finland,2.384,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,FI,premium,Finland,2.384,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,FJ,diesel,Fiji,3.41,FJD,liter,2026-10-11T10:23:01+03:00
+2026-10-23,FJ,gasoline,Fiji,3.15,FJD,liter,2026-10-11T10:23:01+03:00
+2026-10-23,FJ,kerosene,Fiji,2.67,FJD,liter,2026-10-11T10:23:01+03:00
+2026-10-23,FM,diesel,Micronesia,0.9344,EUR,liter,2026-05-02T15:49:36+03:00
+2026-10-23,FM,gasoline,Micronesia,0.9794,EUR,liter,2026-05-02T15:49:36+03:00
+2026-10-23,FO,diesel,Faroe Islands,16.255,DKK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,FO,gasoline,Faroe Islands,15.56,DKK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,FO,gasoline_premium,Faroe Islands,18.45,DKK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,FO,premium,Faroe Islands,18.45,DKK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,FR,diesel,France,2.3685,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,FR,diesel_premium,France,2.314,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,FR,e85,France,0.9076,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,FR,gasoline,France,2.1841,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,FR,gasoline_premium,France,2.2617,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,FR,lpg,France,1.0508,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,FR,premium,France,2.2617,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GB,diesel,United Kingdom,2.0081,GBP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GB,diesel_premium,United Kingdom,2.2059,GBP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GB,gasoline,United Kingdom,1.7548,GBP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GB,gasoline_premium,United Kingdom,1.9385,GBP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GB,lpg,United Kingdom,0.946,GBP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GB,premium,United Kingdom,1.9385,GBP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GD,diesel,Grenada,17,XCD,imperial_gallon,2026-10-17T08:22:49+03:00
+2026-10-23,GD,gasoline,Grenada,17,XCD,imperial_gallon,2026-10-17T08:22:49+03:00
+2026-10-23,GD,kerosene,Grenada,16.86,XCD,imperial_gallon,2026-10-17T08:22:49+03:00
+2026-10-23,GE,cng,Georgia,1.6111,GEL,m3,2026-10-17T08:22:49+03:00
+2026-10-23,GE,diesel,Georgia,4.9354,GEL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GE,diesel_premium,Georgia,4.9809,GEL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GE,gasoline,Georgia,4.2933,GEL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GE,gasoline_premium,Georgia,4.6222,GEL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GE,gasoline_regular,Georgia,4.0056,GEL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GE,lpg,Georgia,1.8847,GEL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GE,premium,Georgia,4.6222,GEL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GH,diesel,Ghana,18.4334,GHS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GH,gasoline,Ghana,16.98,GHS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GH,gasoline_premium,Ghana,19.0284,GHS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GH,premium,Ghana,19.0284,GHS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GM,diesel,Gambia,120,GMD,liter,2026-10-11T10:23:01+03:00
+2026-10-23,GM,gasoline,Gambia,109.8,GMD,liter,2026-10-11T10:23:01+03:00
+2026-10-23,GM,kerosene,Gambia,112.64,GMD,liter,2026-10-11T10:23:01+03:00
+2026-10-23,GN,diesel,Guinea,12000,GNF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GN,gasoline,Guinea,12000,GNF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GR,diesel,Greece,2.1186,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GR,diesel_premium,Greece,2.1533,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GR,gasoline,Greece,2.2068,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GR,gasoline_super,Greece,2.4241,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GR,lpg,Greece,1.2016,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GR,premium,Greece,2.4241,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GT,diesel,Guatemala,41.695,GTQ,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,GT,gasoline,Guatemala,35.9954,GTQ,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,GT,gasoline_premium,Guatemala,37.4423,GTQ,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,GT,premium,Guatemala,37.4423,GTQ,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,GW,diesel,Guinea-Bissau,898,XOF,liter,2026-10-03T14:01:37+03:00
+2026-10-23,GW,gasoline,Guinea-Bissau,899,XOF,liter,2026-10-03T14:01:37+03:00
+2026-10-23,GY,diesel,Guyana,318,GYD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GY,gasoline,Guyana,258,GYD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,GY,kerosene,Guyana,230,GYD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HK,diesel,Hong Kong,37.07,HKD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HK,gasoline,Hong Kong,34.72,HKD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HK,gasoline_premium,Hong Kong,36.52,HKD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HK,lpg,Hong Kong,4.19,HKD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HK,premium,Hong Kong,36.52,HKD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HN,diesel,Honduras,153.53,HNL,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,HN,gasoline,Honduras,139.96,HNL,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,HN,gasoline_premium,Honduras,157.84,HNL,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,HN,kerosene,Honduras,145.92,HNL,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,HN,lpg,Honduras,54.93,HNL,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,HN,premium,Honduras,157.84,HNL,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,HR,diesel,Croatia,1.8718,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HR,diesel_premium,Croatia,2.09,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HR,gasoline,Croatia,1.7637,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HR,gasoline_super,Croatia,2.3633,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HR,lpg,Croatia,0.9196,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HR,premium,Croatia,2.3633,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HT,diesel,Haiti,203.4126,HTG,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HT,gasoline,Haiti,184.9205,HTG,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HT,kerosene,Haiti,202.0917,HTG,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HU,cng,Hungary,850,HUF,kg,2026-10-17T08:22:49+03:00
+2026-10-23,HU,diesel,Hungary,711.1786,HUF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HU,diesel_premium,Hungary,806,HUF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HU,gasoline,Hungary,635.9286,HUF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HU,gasoline_premium,Hungary,726,HUF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HU,lpg,Hungary,359.3043,HUF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,HU,premium,Hungary,726,HUF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ID,diesel,Indonesia,24007.6923,IDR,liter,2026-10-11T10:23:01+03:00
+2026-10-23,ID,gasoline,Indonesia,16165.3846,IDR,liter,2026-10-11T10:23:01+03:00
+2026-10-23,ID,gasoline_premium,Indonesia,19846.1538,IDR,liter,2026-10-11T10:23:01+03:00
+2026-10-23,ID,premium,Indonesia,19846.1538,IDR,liter,2026-10-11T10:23:01+03:00
+2026-10-23,IE,diesel,Ireland,2.1237,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,IE,gasoline,Ireland,1.9522,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,IL,diesel,Israel,8.682,ILS,liter,2026-10-17T08:22:50+03:00
+2026-10-23,IL,gasoline,Israel,8.27,ILS,liter,2026-10-17T08:22:50+03:00
+2026-10-23,IN,cng,India,86.98,INR,kg,2026-10-17T08:22:50+03:00
+2026-10-23,IN,diesel,India,95.2,INR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,IN,gasoline,India,102.12,INR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,IQ,diesel,Iraq,400,IQD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,IQ,gasoline,Iraq,850,IQD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,IQ,gasoline_regular,Iraq,450,IQD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,IQ,gasoline_super,Iraq,1250,IQD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,IQ,kerosene,Iraq,150,IQD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,IQ,premium,Iraq,1250,IQD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,IS,diesel,Iceland,321.5085,ISK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,IS,gasoline,Iceland,272.4558,ISK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,IT,cng,Italy,1.919,EUR,kg,2026-10-17T08:22:49+03:00
+2026-10-23,IT,diesel,Italy,2.2907,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,IT,diesel_premium,Italy,2.4517,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,IT,gasoline,Italy,2.0624,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,IT,gasoline_premium,Italy,2.2897,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,IT,gasoline_super,Italy,2.249,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,IT,lpg,Italy,0.7736,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,IT,premium,Italy,2.249,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,JM,diesel,Jamaica,292.65,JMD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,JM,gasoline,Jamaica,251.87,JMD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,JM,gasoline_premium,Jamaica,265.42,JMD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,JM,premium,Jamaica,265.42,JMD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,JO,diesel,Jordan,0.9,JOD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,JO,gasoline,Jordan,1.05,JOD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,JO,gasoline_premium,Jordan,1.36,JOD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,JO,gasoline_super,Jordan,1.51,JOD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,JO,kerosene,Jordan,0.55,JOD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,JO,premium,Jordan,1.51,JOD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,JP,diesel,Japan,150.7333,JPY,liter,2026-10-17T08:22:49+03:00
+2026-10-23,JP,gasoline,Japan,162.1255,JPY,liter,2026-10-17T08:22:49+03:00
+2026-10-23,JP,gasoline_premium,Japan,172.4902,JPY,liter,2026-10-17T08:22:49+03:00
+2026-10-23,JP,lpg,Japan,138.2,JPY,liter,2026-10-17T08:22:49+03:00
+2026-10-23,JP,premium,Japan,172.4902,JPY,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KE,diesel,Kenya,227,KES,liter,2026-10-17T08:22:50+03:00
+2026-10-23,KE,gasoline,Kenya,226,KES,liter,2026-10-17T08:22:50+03:00
+2026-10-23,KE,kerosene,Kenya,219.87,KES,liter,2026-10-17T08:22:50+03:00
+2026-10-23,KG,diesel,Kyrgyzstan,86.46,KGS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KG,gasoline,Kyrgyzstan,88.4189,KGS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KG,gasoline_premium,Kyrgyzstan,106.8267,KGS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KG,gasoline_super,Kyrgyzstan,149.9,KGS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KG,lpg,Kyrgyzstan,48.8,KGS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KG,premium,Kyrgyzstan,149.9,KGS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KH,diesel,Cambodia,5650,KHR,liter,2026-10-11T10:23:01+03:00
+2026-10-23,KH,gasoline,Cambodia,5150,KHR,liter,2026-10-11T10:23:01+03:00
+2026-10-23,KN,gasoline,Saint Kitts and Nevis,16.93,XCD,imperial_gallon,2026-10-17T08:22:49+03:00
+2026-10-23,KR,diesel,South Korea,1843.0061,KRW,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KR,gasoline,South Korea,1856.9597,KRW,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KR,gasoline_premium,South Korea,2391.58,KRW,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KR,kerosene,South Korea,1572.21,KRW,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KR,lpg,South Korea,1143.09,KRW,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KR,premium,South Korea,2391.58,KRW,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KU,diesel,Kurdistan Region,1550,IQD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,KU,gasoline,Kurdistan Region,1625,IQD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,KU,gasoline_premium,Kurdistan Region,2300,IQD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,KU,premium,Kurdistan Region,2300,IQD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,KW,diesel,Kuwait,0.115,KWD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,KW,gasoline,Kuwait,0.085,KWD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,KW,gasoline_premium,Kuwait,0.105,KWD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,KW,gasoline_super,Kuwait,0.275,KWD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,KW,kerosene,Kuwait,0.115,KWD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,KW,premium,Kuwait,0.275,KWD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,KY,diesel,Cayman Islands,7.04,KYD,imperial_gallon,2026-10-17T08:22:49+03:00
+2026-10-23,KY,gasoline,Cayman Islands,5.92,KYD,imperial_gallon,2026-10-17T08:22:49+03:00
+2026-10-23,KY,gasoline_premium,Cayman Islands,6.45,KYD,imperial_gallon,2026-10-17T08:22:49+03:00
+2026-10-23,KY,premium,Cayman Islands,6.45,KYD,imperial_gallon,2026-10-17T08:22:49+03:00
+2026-10-23,KZ,diesel,Kazakhstan,345.511,KZT,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KZ,gasoline,Kazakhstan,312.3977,KZT,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KZ,gasoline_premium,Kazakhstan,352.7256,KZT,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KZ,gasoline_regular,Kazakhstan,248.3359,KZT,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KZ,lpg,Kazakhstan,105.1485,KZT,liter,2026-10-17T08:22:49+03:00
+2026-10-23,KZ,premium,Kazakhstan,352.7256,KZT,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LA,diesel,Laos,33870,LAK,liter,2026-10-17T08:22:50+03:00
+2026-10-23,LA,gasoline,Laos,36770,LAK,liter,2026-10-17T08:22:50+03:00
+2026-10-23,LA,gasoline_premium,Laos,43420,LAK,liter,2026-10-17T08:22:50+03:00
+2026-10-23,LA,premium,Laos,43420,LAK,liter,2026-10-17T08:22:50+03:00
+2026-10-23,LB,diesel,Lebanon,128900,LBP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,LB,gasoline,Lebanon,138650,LBP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,LB,gasoline_premium,Lebanon,139550,LBP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,LB,lpg,Lebanon,70900,LBP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,LB,premium,Lebanon,139550,LBP,liter,2026-10-17T08:22:50+03:00
+2026-10-23,LC,diesel,Saint Lucia,3.79,XCD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LC,gasoline,Saint Lucia,3.79,XCD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LC,kerosene,Saint Lucia,2.29,XCD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LI,diesel,Liechtenstein,2.415,CHF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LI,gasoline,Liechtenstein,2.12,CHF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LI,gasoline_premium,Liechtenstein,2.27,CHF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LI,premium,Liechtenstein,2.27,CHF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LK,diesel,Sri Lanka,392,LKR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LK,gasoline,Sri Lanka,414,LKR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LK,gasoline_premium,Sri Lanka,475,LKR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LK,premium,Sri Lanka,475,LKR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LR,diesel,Liberia,313.931,LRD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LR,gasoline,Liberia,256.8035,LRD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LS,diesel,Lesotho,34.9,LSL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LS,gasoline,Lesotho,28.2,LSL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LS,gasoline_premium,Lesotho,28.6,LSL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LS,premium,Lesotho,28.6,LSL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LT,diesel,Lithuania,2.1932,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LT,diesel_premium,Lithuania,2.334,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LT,gasoline,Lithuania,1.9276,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LT,gasoline_premium,Lithuania,2.0174,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LT,lpg,Lithuania,0.8579,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LT,premium,Lithuania,2.0174,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LU,diesel,Luxembourg,2.0646,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LU,gasoline,Luxembourg,1.842,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LU,gasoline_premium,Luxembourg,1.984,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LU,lpg,Luxembourg,0.9264,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LU,premium,Luxembourg,1.984,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LV,diesel,Latvia,2.0619,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LV,diesel_premium,Latvia,2.2001,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LV,gasoline,Latvia,1.9193,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LV,gasoline_premium,Latvia,1.9933,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LV,lpg,Latvia,0.9667,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,LV,premium,Latvia,1.9933,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MA,diesel,Morocco,15.3,MAD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MA,gasoline,Morocco,15.18,MAD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MC,diesel,Monaco,2.4675,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MC,gasoline,Monaco,2.2765,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MC,gasoline_premium,Monaco,2.3392,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MC,lpg,Monaco,1.15,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MC,premium,Monaco,2.3392,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MD,diesel,Moldova,35.22,MDL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MD,gasoline,Moldova,33.53,MDL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ME,diesel,Montenegro,1.939,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ME,gasoline,Montenegro,1.7725,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ME,gasoline_premium,Montenegro,1.8125,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ME,premium,Montenegro,1.8125,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MG,diesel,Madagascar,4860,MGA,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MG,gasoline,Madagascar,5300,MGA,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MG,kerosene,Madagascar,3910,MGA,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MK,cng,North Macedonia,101,MKD,kg,2026-10-17T08:22:49+03:00
+2026-10-23,MK,diesel,North Macedonia,97,MKD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MK,diesel_premium,North Macedonia,98,MKD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MK,gasoline,North Macedonia,98.5,MKD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MK,gasoline_premium,North Macedonia,100.5,MKD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MK,lpg,North Macedonia,50,MKD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MK,premium,North Macedonia,100.5,MKD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ML,diesel,Mali,940,XOF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ML,gasoline,Mali,875,XOF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MM,diesel,Myanmar,4580,MMK,liter,2026-10-11T10:23:01+03:00
+2026-10-23,MM,diesel_premium,Myanmar,5575,MMK,liter,2026-10-11T10:23:01+03:00
+2026-10-23,MM,gasoline,Myanmar,4595,MMK,liter,2026-10-11T10:23:01+03:00
+2026-10-23,MM,gasoline_premium,Myanmar,4770,MMK,liter,2026-10-11T10:23:01+03:00
+2026-10-23,MM,premium,Myanmar,4770,MMK,liter,2026-10-11T10:23:01+03:00
+2026-10-23,MN,diesel,Mongolia,4913.75,MNT,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MN,gasoline,Mongolia,3673,MNT,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MN,gasoline_premium,Mongolia,5290,MNT,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MN,gasoline_super,Mongolia,5550,MNT,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MN,lpg,Mongolia,1840,MNT,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MN,premium,Mongolia,5550,MNT,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MR,diesel,Mauritania,62.13,MRU,liter,2026-10-11T10:23:01+03:00
+2026-10-23,MR,gasoline,Mauritania,65.02,MRU,liter,2026-10-11T10:23:01+03:00
+2026-10-23,MT,diesel,Malta,1.207,EUR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,MT,diesel_premium,Malta,1.31,EUR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,MT,gasoline,Malta,1.337,EUR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,MT,gasoline_premium,Malta,1.49,EUR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,MT,premium,Malta,1.49,EUR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,MU,diesel,Mauritius,75.9833,MUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MU,gasoline,Mauritius,75.35,MUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MV,diesel,Maldives,17.54,MVR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MV,gasoline,Maldives,16.01,MVR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MW,diesel,Malawi,5863,MWK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MW,gasoline,Malawi,5619,MWK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MW,kerosene,Malawi,4389,MWK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MX,diesel,Mexico,26.9932,MXN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MX,gasoline,Mexico,23.7874,MXN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MX,gasoline_premium,Mexico,28.654,MXN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MX,premium,Mexico,28.654,MXN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MY,diesel,Malaysia,5.17,MYR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,MY,gasoline,Malaysia,4.62,MYR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,MY,gasoline_premium,Malaysia,5.1,MYR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,MY,premium,Malaysia,5.1,MYR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,MZ,diesel,Mozambique,116.6587,MZN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MZ,gasoline,Mozambique,94.0987,MZN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,MZ,kerosene,Mozambique,97.56,MZN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NA,diesel,Namibia,27.86,NAD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,NA,diesel_premium,Namibia,27.96,NAD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,NA,gasoline,Namibia,26.58,NAD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,NC,diesel,New Caledonia,190.6,XPF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NC,gasoline,New Caledonia,182.4,XPF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NE,diesel,Niger,618,XOF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NE,gasoline,Niger,499,XOF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NG,diesel,Nigeria,1795,NGN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NG,gasoline,Nigeria,1751.6667,NGN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NI,diesel,Nicaragua,43.22,NIO,liter,2026-10-17T08:22:50+03:00
+2026-10-23,NI,gasoline,Nicaragua,47.82,NIO,liter,2026-10-17T08:22:50+03:00
+2026-10-23,NI,gasoline_premium,Nicaragua,49,NIO,liter,2026-10-17T08:22:50+03:00
+2026-10-23,NI,kerosene,Nicaragua,60.44,NIO,liter,2026-10-17T08:22:50+03:00
+2026-10-23,NI,premium,Nicaragua,49,NIO,liter,2026-10-17T08:22:50+03:00
+2026-10-23,NL,cng,Netherlands,1.699,EUR,kg,2026-10-17T08:22:49+03:00
+2026-10-23,NL,diesel,Netherlands,2.4989,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NL,diesel_premium,Netherlands,2.6328,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NL,gasoline,Netherlands,2.4509,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NL,gasoline_premium,Netherlands,2.7121,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NL,lpg,Netherlands,1.0061,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NL,premium,Netherlands,2.7121,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NO,diesel,Norway,27.2178,NOK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NO,gasoline,Norway,24.6511,NOK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NO,gasoline_premium,Norway,27.08,NOK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NO,premium,Norway,27.08,NOK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NP,diesel,Nepal,200,NPR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NP,gasoline,Nepal,200,NPR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NP,kerosene,Nepal,200,NPR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NR,diesel,Nauru,2.9032,AUD,liter,2026-10-11T10:23:01+03:00
+2026-10-23,NR,gasoline,Nauru,2.4238,AUD,liter,2026-10-11T10:23:01+03:00
+2026-10-23,NR,kerosene,Nauru,2.1811,AUD,liter,2026-10-11T10:23:01+03:00
+2026-10-23,NZ,diesel,New Zealand,3.227,NZD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NZ,gasoline,New Zealand,3.7536,NZD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NZ,gasoline_premium,New Zealand,3.9209,NZD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NZ,gasoline_regular,New Zealand,3.5694,NZD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NZ,gasoline_super,New Zealand,3.876,NZD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NZ,lpg,New Zealand,1.9851,NZD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,NZ,premium,New Zealand,3.876,NZD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,OM,diesel,Oman,0.258,OMR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,OM,gasoline,Oman,0.239,OMR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,OM,gasoline_premium,Oman,0.399,OMR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,OM,gasoline_regular,Oman,0.229,OMR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,OM,premium,Oman,0.399,OMR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,PA,diesel,Panama,5.7387,USD,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,PA,gasoline,Panama,4.8415,USD,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,PA,gasoline_premium,Panama,5.3791,USD,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,PA,premium,Panama,5.3791,USD,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,PE,diesel,Peru,25.75,PEN,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,PE,gasoline,Peru,22.3,PEN,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,PE,gasoline_premium,Peru,23.5,PEN,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,PE,lpg,Peru,7.19,PEN,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,PE,premium,Peru,23.5,PEN,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,PF,diesel,French Polynesia,165,XPF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PF,gasoline,French Polynesia,165,XPF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PF,kerosene,French Polynesia,137,XPF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PG,diesel,Papua New Guinea,5.9,PGK,liter,2026-10-11T10:23:01+03:00
+2026-10-23,PG,gasoline,Papua New Guinea,5.9,PGK,liter,2026-10-11T10:23:01+03:00
+2026-10-23,PG,kerosene,Papua New Guinea,5.9,PGK,liter,2026-10-11T10:23:01+03:00
+2026-10-23,PH,diesel,Philippines,92.3389,PHP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PH,diesel_premium,Philippines,97.176,PHP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PH,gasoline,Philippines,91.1553,PHP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PH,gasoline_premium,Philippines,91.6107,PHP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PH,gasoline_super,Philippines,97.3,PHP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PH,kerosene,Philippines,122.7,PHP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PH,premium,Philippines,97.3,PHP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PK,diesel,Pakistan,396.96,PKR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,PK,gasoline,Pakistan,390.23,PKR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,PK,gasoline_premium,Pakistan,415,PKR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,PK,kerosene,Pakistan,330.41,PKR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,PK,lpg,Pakistan,279.34,PKR,kg,2026-10-17T08:22:50+03:00
+2026-10-23,PK,premium,Pakistan,415,PKR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,PL,diesel,Poland,7.9672,PLN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PL,diesel_premium,Poland,8.39,PLN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PL,gasoline,Poland,6.944,PLN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PL,gasoline_premium,Poland,7.795,PLN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PL,lpg,Poland,3.3424,PLN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PL,premium,Poland,7.795,PLN,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PS,diesel,Palestine,8.99,ILS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PS,gasoline,Palestine,8.17,ILS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PS,gasoline_premium,Palestine,9.73,ILS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PS,kerosene,Palestine,8.99,ILS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PS,premium,Palestine,9.73,ILS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PT,diesel,Portugal,2.1914,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PT,diesel_premium,Portugal,2.2522,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PT,gasoline,Portugal,2.1509,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PT,gasoline_premium,Portugal,2.3226,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PT,lpg,Portugal,0.9884,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PT,premium,Portugal,2.3226,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PY,diesel,Paraguay,8927.1429,PYG,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PY,diesel_premium,Paraguay,10821.4286,PYG,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PY,gasoline,Paraguay,7490,PYG,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PY,gasoline_premium,Paraguay,9040,PYG,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PY,lpg,Paraguay,4900,PYG,liter,2026-10-17T08:22:49+03:00
+2026-10-23,PY,premium,Paraguay,9040,PYG,liter,2026-10-17T08:22:49+03:00
+2026-10-23,QA,diesel,Qatar,2.05,QAR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,QA,gasoline,Qatar,1.95,QAR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,QA,gasoline_premium,Qatar,2.1,QAR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,QA,premium,Qatar,2.1,QAR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,RO,diesel,Romania,10.9039,RON,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RO,diesel_premium,Romania,11.5289,RON,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RO,gasoline,Romania,10.0846,RON,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RO,gasoline_premium,Romania,10.6937,RON,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RO,lpg,Romania,4.7178,RON,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RO,premium,Romania,10.6937,RON,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RS,diesel,Serbia,236,RSD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RS,diesel_premium,Serbia,251.95,RSD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RS,gasoline,Serbia,207,RSD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RS,gasoline_premium,Serbia,229.9,RSD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RS,gasoline_super,Serbia,230.3469,RSD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RS,lpg,Serbia,108.8469,RSD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RS,premium,Serbia,230.3469,RSD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RU,cng,Russia,30.1589,RUB,m3,2026-10-17T08:22:49+03:00
+2026-10-23,RU,diesel,Russia,82.9247,RUB,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RU,diesel_premium,Russia,82.555,RUB,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RU,gasoline,Russia,80.7404,RUB,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RU,gasoline_premium,Russia,98.1314,RUB,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RU,gasoline_regular,Russia,74.7006,RUB,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RU,gasoline_super,Russia,109.4939,RUB,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RU,lpg,Russia,43.908,RUB,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RU,premium,Russia,109.4939,RUB,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RW,diesel,Rwanda,2927,RWF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,RW,gasoline,Rwanda,2938,RWF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SA,diesel,Saudi Arabia,1.79,SAR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,SA,gasoline,Saudi Arabia,2.18,SAR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,SA,gasoline_premium,Saudi Arabia,2.33,SAR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,SA,gasoline_super,Saudi Arabia,5.33,SAR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,SA,kerosene,Saudi Arabia,1.75,SAR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,SA,premium,Saudi Arabia,5.33,SAR,liter,2026-10-17T08:22:50+03:00
+2026-10-23,SB,diesel,Solomon Islands,13.4759,SBD,liter,2026-10-03T14:01:37+03:00
+2026-10-23,SB,gasoline,Solomon Islands,11.1771,SBD,liter,2026-10-03T14:01:37+03:00
+2026-10-23,SB,kerosene,Solomon Islands,14.2583,SBD,liter,2026-10-03T14:01:37+03:00
+2026-10-23,SC,diesel,Seychelles,25.19,SCR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SC,gasoline,Seychelles,24.68,SCR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SC,kerosene,Seychelles,30,SCR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SE,diesel,Sweden,22.6338,SEK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SE,e85,Sweden,15.065,SEK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SE,gasoline,Sweden,18.165,SEK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SE,gasoline_premium,Sweden,19.54,SEK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SE,premium,Sweden,19.54,SEK,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SG,diesel,Singapore,4.0186,SGD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SG,gasoline,Singapore,3.565,SGD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SG,gasoline_premium,Singapore,4.1635,SGD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SG,gasoline_regular,Singapore,3.54,SGD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SG,premium,Singapore,4.1635,SGD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SI,diesel,Slovenia,1.9002,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SI,diesel_premium,Slovenia,2.2117,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SI,gasoline,Slovenia,1.753,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SI,gasoline_premium,Slovenia,2.111,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SI,lpg,Slovenia,1.0159,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SI,premium,Slovenia,2.111,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SK,cng,Slovakia,2.067,EUR,kg,2026-10-17T08:22:49+03:00
+2026-10-23,SK,diesel,Slovakia,1.9587,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SK,diesel_premium,Slovakia,2.178,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SK,gasoline,Slovakia,1.8541,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SK,gasoline_premium,Slovakia,2.0533,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SK,lpg,Slovakia,0.8553,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SK,premium,Slovakia,2.0533,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SL,diesel,Sierra Leone,45,SLE,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SL,gasoline,Sierra Leone,40,SLE,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SL,kerosene,Sierra Leone,44.1,SLE,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SN,diesel,Senegal,755,XOF,liter,2026-10-11T10:23:01+03:00
+2026-10-23,SN,gasoline,Senegal,990,XOF,liter,2026-10-11T10:23:01+03:00
+2026-10-23,SN,gasoline_regular,Senegal,665,XOF,liter,2026-10-11T10:23:01+03:00
+2026-10-23,SR,diesel,Suriname,53.27,SRD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SR,gasoline,Suriname,48.32,SRD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SS,diesel,South Sudan,18000,SSP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SS,gasoline,South Sudan,17500,SSP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SV,diesel,El Salvador,4.86,USD,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,SV,gasoline,El Salvador,4.8,USD,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,SV,gasoline_premium,El Salvador,5.13,USD,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,SV,premium,El Salvador,5.13,USD,gallon,2026-10-17T08:22:50+03:00
+2026-10-23,SY,diesel,Syria,175,SYP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SY,gasoline,Syria,185,SYP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SY,gasoline_premium,Syria,195,SYP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SY,premium,Syria,195,SYP,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SZ,diesel,Eswatini,32.25,SZL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SZ,gasoline,Eswatini,29.4,SZL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,SZ,kerosene,Eswatini,25.16,SZL,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TG,diesel,Togo,766,XOF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TG,gasoline,Togo,817,XOF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TG,kerosene,Togo,1056,XOF,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TH,diesel,Thailand,42.94,THB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TH,diesel_premium,Thailand,50.05,THB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TH,e85,Thailand,31.63,THB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TH,gasoline,Thailand,41.44,THB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TH,gasoline_premium,Thailand,49.29,THB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TH,gasoline_regular,Thailand,41.07,THB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TH,gasoline_super,Thailand,49.79,THB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TH,lpg,Thailand,25.87,THB,kg,2026-10-17T08:22:50+03:00
+2026-10-23,TH,premium,Thailand,49.79,THB,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TJ,diesel,Tajikistan,15.8015,TJS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TJ,diesel_premium,Tajikistan,15.3667,TJS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TJ,gasoline,Tajikistan,13.3425,TJS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TJ,gasoline_premium,Tajikistan,13.2667,TJS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TJ,lpg,Tajikistan,6.329,TJS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TJ,premium,Tajikistan,13.2667,TJS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TL,diesel,Timor-Leste,1.6237,USD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TL,gasoline,Timor-Leste,1.5225,USD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TM,diesel,Turkmenistan,1.35,TMT,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TM,gasoline,Turkmenistan,1.35,TMT,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TM,gasoline_premium,Turkmenistan,1.5,TMT,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TM,gasoline_regular,Turkmenistan,1.15,TMT,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TM,premium,Turkmenistan,1.5,TMT,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TN,diesel,Tunisia,2.21,TND,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TN,gasoline,Tunisia,2.53,TND,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TO,diesel,Tonga,4.55,TOP,liter,2026-10-11T10:23:01+03:00
+2026-10-23,TO,gasoline,Tonga,3.9,TOP,liter,2026-10-11T10:23:01+03:00
+2026-10-23,TO,kerosene,Tonga,3.55,TOP,liter,2026-10-11T10:23:01+03:00
+2026-10-23,TR,diesel,Turkey,96.6285,TRY,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TR,gasoline,Turkey,83.8067,TRY,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TR,lpg,Turkey,41.2367,TRY,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TW,diesel,Taiwan,29.8426,TWD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TW,gasoline,Taiwan,31.1511,TWD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TW,gasoline_premium,Taiwan,32.6915,TWD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TW,gasoline_super,Taiwan,34.6915,TWD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TW,premium,Taiwan,34.6915,TWD,liter,2026-10-17T08:22:49+03:00
+2026-10-23,TZ,diesel,Tanzania,4086,TZS,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TZ,gasoline,Tanzania,4057,TZS,liter,2026-10-17T08:22:50+03:00
+2026-10-23,TZ,kerosene,Tanzania,4067,TZS,liter,2026-10-17T08:22:50+03:00
+2026-10-23,UA,diesel,Ukraine,101.6424,UAH,liter,2026-10-17T08:22:49+03:00
+2026-10-23,UA,diesel_premium,Ukraine,105.7,UAH,liter,2026-10-17T08:22:49+03:00
+2026-10-23,UA,gasoline,Ukraine,90.05,UAH,liter,2026-10-17T08:22:49+03:00
+2026-10-23,UA,gasoline_premium,Ukraine,95.3292,UAH,liter,2026-10-17T08:22:49+03:00
+2026-10-23,UA,gasoline_regular,Ukraine,86.4444,UAH,liter,2026-10-17T08:22:49+03:00
+2026-10-23,UA,gasoline_super,Ukraine,101.4,UAH,liter,2026-10-17T08:22:49+03:00
+2026-10-23,UA,lpg,Ukraine,50.1846,UAH,liter,2026-10-17T08:22:49+03:00
+2026-10-23,UA,premium,Ukraine,101.4,UAH,liter,2026-10-17T08:22:49+03:00
+2026-10-23,UG,diesel,Uganda,6724.5,UGX,liter,2026-10-17T08:22:49+03:00
+2026-10-23,UG,gasoline,Uganda,6874.5,UGX,liter,2026-10-17T08:22:49+03:00
+2026-10-23,US,diesel,United States,6.2507,USD,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,US,e85,United States,3.31,USD,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,US,gasoline,United States,4.3372,USD,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,US,gasoline_premium,United States,4.9073,USD,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,US,gasoline_super,United States,5.3076,USD,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,US,lpg,United States,3.59,USD,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,US,premium,United States,5.3076,USD,gallon,2026-10-17T08:22:49+03:00
+2026-10-23,UY,diesel,Uruguay,62.79,UYU,liter,2026-10-17T08:22:50+03:00
+2026-10-23,UY,diesel_premium,Uruguay,72.05,UYU,liter,2026-10-17T08:22:50+03:00
+2026-10-23,UY,gasoline,Uruguay,90.45,UYU,liter,2026-10-17T08:22:50+03:00
+2026-10-23,UY,gasoline_premium,Uruguay,93.01,UYU,liter,2026-10-17T08:22:50+03:00
+2026-10-23,UY,premium,Uruguay,93.01,UYU,liter,2026-10-17T08:22:50+03:00
+2026-10-23,UZ,diesel,Uzbekistan,16781.203,UZS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,UZ,gasoline,Uzbekistan,12235.3175,UZS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,UZ,gasoline_premium,Uzbekistan,18762.5483,UZS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,UZ,gasoline_super,Uzbekistan,27396.1039,UZS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,UZ,premium,Uzbekistan,27396.1039,UZS,liter,2026-10-17T08:22:49+03:00
+2026-10-23,VC,diesel,Saint Vincent and the Grenadines,17.53,XCD,imperial_gallon,2026-10-17T08:22:49+03:00
+2026-10-23,VC,gasoline,Saint Vincent and the Grenadines,18.31,XCD,imperial_gallon,2026-10-17T08:22:49+03:00
+2026-10-23,VE,diesel,Venezuela,0.5,USD,liter,2026-10-17T08:22:50+03:00
+2026-10-23,VE,gasoline,Venezuela,440.5332,VES,liter,2026-10-17T08:22:50+03:00
+2026-10-23,VE,gasoline_premium,Venezuela,881.0664,VES,liter,2026-10-17T08:22:50+03:00
+2026-10-23,VE,premium,Venezuela,881.0664,VES,liter,2026-10-17T08:22:50+03:00
+2026-10-23,VN,diesel,Vietnam,29106.6667,VND,liter,2026-10-17T08:22:49+03:00
+2026-10-23,VN,diesel_premium,Vietnam,30360,VND,liter,2026-10-17T08:22:49+03:00
+2026-10-23,VN,gasoline,Vietnam,27696.6667,VND,liter,2026-10-17T08:22:49+03:00
+2026-10-23,VN,gasoline_regular,Vietnam,27213.3333,VND,liter,2026-10-17T08:22:49+03:00
+2026-10-23,VU,diesel,Vanuatu,195,VUV,liter,2026-10-11T10:23:01+03:00
+2026-10-23,VU,gasoline,Vanuatu,222,VUV,liter,2026-10-11T10:23:01+03:00
+2026-10-23,WS,diesel,Samoa,4.44,WST,liter,2026-10-17T08:22:49+03:00
+2026-10-23,WS,gasoline,Samoa,3.58,WST,liter,2026-10-17T08:22:49+03:00
+2026-10-23,WS,kerosene,Samoa,3.9,WST,liter,2026-10-17T08:22:49+03:00
+2026-10-23,XK,diesel,Kosovo,1.88,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,XK,diesel_premium,Kosovo,1.89,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,XK,gasoline,Kosovo,1.66,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,XK,gasoline_premium,Kosovo,1.73,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,XK,lpg,Kosovo,0.75,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,XK,premium,Kosovo,1.73,EUR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,XN,diesel,Turkish Republic of Northern Cyprus,76,TRY,liter,2026-10-17T08:22:50+03:00
+2026-10-23,XN,gasoline,Turkish Republic of Northern Cyprus,77.12,TRY,liter,2026-10-17T08:22:50+03:00
+2026-10-23,XN,gasoline_premium,Turkish Republic of Northern Cyprus,78.12,TRY,liter,2026-10-17T08:22:50+03:00
+2026-10-23,XN,premium,Turkish Republic of Northern Cyprus,78.12,TRY,liter,2026-10-17T08:22:50+03:00
+2026-10-23,ZA,diesel,South Africa,31.9518,ZAR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ZA,diesel_premium,South Africa,32.7933,ZAR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ZA,gasoline,South Africa,30.25,ZAR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ZA,gasoline_regular,South Africa,29.88,ZAR,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ZM,diesel,Zambia,33.27,ZMW,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ZM,gasoline,Zambia,31.46,ZMW,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ZM,kerosene,Zambia,29.76,ZMW,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ZW,diesel,Zimbabwe,54.2843,ZWG,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ZW,gasoline,Zimbabwe,54.5504,ZWG,liter,2026-10-17T08:22:49+03:00
+2026-10-23,ZW,lpg,Zimbabwe,46.8335,ZWG,kg,2026-10-17T08:22:49+03:00
