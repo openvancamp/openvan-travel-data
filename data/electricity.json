@@ -14,7 +14,7 @@
    "url": "https://www.caravanclub.co.uk/overseas-holidays/useful-information/electricity-and-gas/"
   }
  },
- "count": 229,
+ "count": 230,
  "countries": [
   {
    "country_code": "AD",
@@ -2362,6 +2362,16 @@
    "plugs": [
     "D",
     "G"
+   ],
+   "voltage": 220
+  },
+  {
+   "country_code": "XB",
+   "frequency": 50,
+   "name": "Abkhazia",
+   "plugs": [
+    "C",
+    "F"
    ],
    "voltage": 220
   },

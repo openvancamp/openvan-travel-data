@@ -1,5 +1,5 @@
 {
- "count": 212,
+ "count": 213,
  "countries": [
   {
    "country_code": "AD",
@@ -860,8 +860,8 @@
    "public": true,
    "school": true,
    "sources": [
-    "openholidays",
-    "nager"
+    "nager",
+    "openholidays"
    ],
    "traffic": false
   },
@@ -881,8 +881,8 @@
    "public": true,
    "school": true,
    "sources": [
-    "nager",
-    "openholidays"
+    "openholidays",
+    "nager"
    ],
    "traffic": false
   },
@@ -1167,8 +1167,8 @@
    "public": true,
    "school": true,
    "sources": [
-    "openholidays",
-    "nager"
+    "nager",
+    "openholidays"
    ],
    "traffic": false
   },
@@ -1512,8 +1512,8 @@
    "public": true,
    "school": true,
    "sources": [
-    "openholidays",
-    "nager"
+    "nager",
+    "openholidays"
    ],
    "traffic": false
   },
@@ -1728,8 +1728,8 @@
    "public": true,
    "school": true,
    "sources": [
-    "openholidays",
-    "nager"
+    "nager",
+    "openholidays"
    ],
    "traffic": false
   },
@@ -2094,6 +2094,16 @@
    "traffic": false
   },
   {
+   "country_code": "XB",
+   "name": "Abkhazia",
+   "public": true,
+   "school": false,
+   "sources": [
+    "curated"
+   ],
+   "traffic": false
+  },
+  {
    "country_code": "XK",
    "name": "Kosovo",
    "public": true,
@@ -2129,8 +2139,8 @@
    "public": true,
    "school": true,
    "sources": [
-    "openholidays",
-    "nager"
+    "nager",
+    "openholidays"
    ],
    "traffic": false
   },

@@ -104,8 +104,8 @@
    },
    "region": "middle_east",
    "sources": [
-    "Almurakib (Arab)",
     "ADNOC Distribution UAE",
+    "Almurakib (Arab)",
     "UAE Fuel Price Committee",
     "Ventrax UAE Fuel Prices"
    ],
@@ -339,8 +339,8 @@
    },
    "region": "latam",
    "sources": [
-    "OpenVan Stations (median)",
     "GobEnergy Argentina",
+    "OpenVan Stations (median)",
     "Secretaría de Energía Argentina (datos.energia.gob.ar)",
     "YPF (combustibles.ar)",
     "Shell Argentina (combustibles.ar)",
@@ -715,8 +715,8 @@
    },
    "region": "south_asia",
    "sources": [
-    "Bangladesh Petroleum Corporation (BPC)",
-    "BSS Bangladesh"
+    "BSS Bangladesh",
+    "Bangladesh Petroleum Corporation (BPC)"
    ],
    "sources_count": 1,
    "unit": "liter",
@@ -1068,8 +1068,8 @@
    },
    "region": "latam",
    "sources": [
-    "Petrobras Brazil",
     "ANP Brazil",
+    "Petrobras Brazil",
     "FuelSaver.one (RAIZEN #BR-07.717.314/0001-59)",
     "FuelSaver.one (RAIZEN #BR-01.811.156/0001-15)",
     "FuelSaver.one (RAIZEN #BR-03.584.580/0001-08)",
@@ -2964,8 +2964,8 @@
    "region": "europe",
    "sources": [
     "Fuelo.net",
-    "Sainsbury's UK Fuel JSON",
     "GOV.UK DESNZ Weekly Road Fuel Prices",
+    "Sainsbury's UK Fuel JSON",
     "ASDA UK CMA Open Data",
     "Motor Fuel Group UK CMA Open Data",
     "Tesco UK CMA Open Data",
@@ -3086,8 +3086,8 @@
    },
    "region": "cis",
    "sources": [
-    "Gulf Georgia",
     "LUKOIL Georgia",
+    "Gulf Georgia",
     "SOCAR Georgia Petroleum",
     "Rompetrol Georgia",
     "OpenVan Stations (median)",
@@ -6982,8 +6982,8 @@
    },
    "region": "oceania",
    "sources": [
-    "MBIE New Zealand",
     "MBIE NZ Weekly CSV",
+    "MBIE New Zealand",
     "PetrolSpy NZ",
     "Gaspy NZ Firebase",
     "PriceWatch New Zealand (pricewatch.co.nz)"
@@ -7593,11 +7593,12 @@
     "diesel_premium": "PYG",
     "gasoline": "PYG",
     "gasoline_premium": "PYG",
+    "gasoline_regular": "PYG",
     "lpg": "PYG",
     "premium": "PYG"
    },
    "currency": "PYG",
-   "fetched_at": "2026-10-17T08:22:49+03:00",
+   "fetched_at": "2026-10-25T09:06:12+03:00",
    "is_excluded": false,
    "local_currency": "PYG",
    "price_changes": {
@@ -7611,7 +7612,7 @@
     "gasoline_regular": null,
     "gasoline_super": null,
     "kerosene": null,
-    "lpg": 0,
+    "lpg": -264,
     "premium": null
    },
    "prices": {
@@ -7622,19 +7623,19 @@
     "e85": null,
     "gasoline": 7490,
     "gasoline_premium": 9040,
-    "gasoline_regular": null,
+    "gasoline_regular": 6990,
     "gasoline_super": null,
     "kerosene": null,
-    "lpg": 4900,
+    "lpg": 4636,
     "premium": 9040
    },
    "region": "latam",
    "sources": [
     "PETROPAR Paraguay",
     "Paraguay MIC GIS API",
-    "combustibles.com.py",
     "FullTanque (Paraguay)",
-    "PETROPAR (Paraguay)"
+    "PETROPAR (Paraguay)",
+    "combustibles.com.py"
    ],
    "sources_count": 3,
    "unit": "liter",
@@ -7643,6 +7644,7 @@
     "diesel_premium": "liter",
     "gasoline": "liter",
     "gasoline_premium": "liter",
+    "gasoline_regular": "liter",
     "lpg": "liter",
     "premium": "liter"
    }
@@ -8856,8 +8858,8 @@
    "sources": [
     "EPPO Thailand",
     "EPPO Thailand Structure",
-    "chnwt.dev",
     "EPPO Thailand CSV",
+    "chnwt.dev",
     "PTTOR Thailand (OR Public Company)",
     "Bangchak"
    ],
@@ -9193,8 +9195,8 @@
    },
    "region": "middle_east",
    "sources": [
-    "OPET Turkey",
     "Petrol Ofisi (petrolofisi.com.tr)",
+    "OPET Turkey",
     "Bigpara / Hürriyet (Turkey)",
     "TP Petrol (Turkey)",
     "Aytemiz (Turkey)"
@@ -9486,8 +9488,8 @@
    },
    "region": "north_america",
    "sources": [
-    "EIA (US Energy Information Administration)",
     "FRED / EIA Weekly (US)",
+    "EIA (US Energy Information Administration)",
     "fueleconomy.gov (DOE/EPA)",
     "AAA Gas Prices (US)"
    ],
@@ -10221,7 +10223,7 @@
  "meta": {
   "cache_ttl_hours": 6,
   "total_countries": 173,
-  "updated_at": "2026-10-17 08:22:50"
+  "updated_at": "2026-10-25 09:06:12"
  },
  "success": true
 }
