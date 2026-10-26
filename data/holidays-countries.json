@@ -860,8 +860,8 @@
    "public": true,
    "school": true,
    "sources": [
-    "nager",
-    "openholidays"
+    "openholidays",
+    "nager"
    ],
    "traffic": false
   },
@@ -881,8 +881,8 @@
    "public": true,
    "school": true,
    "sources": [
-    "openholidays",
-    "nager"
+    "nager",
+    "openholidays"
    ],
    "traffic": false
   },
@@ -1084,8 +1084,8 @@
    "public": true,
    "school": true,
    "sources": [
-    "openholidays",
-    "nager"
+    "nager",
+    "openholidays"
    ],
    "traffic": false
   },
@@ -1126,8 +1126,8 @@
    "public": true,
    "school": true,
    "sources": [
-    "nager",
-    "openholidays"
+    "openholidays",
+    "nager"
    ],
    "traffic": false
   },
@@ -1167,8 +1167,8 @@
    "public": true,
    "school": true,
    "sources": [
-    "nager",
-    "openholidays"
+    "openholidays",
+    "nager"
    ],
    "traffic": false
   },
@@ -1595,8 +1595,8 @@
    "public": true,
    "school": true,
    "sources": [
-    "openholidays",
-    "nager"
+    "nager",
+    "openholidays"
    ],
    "traffic": false
   },
