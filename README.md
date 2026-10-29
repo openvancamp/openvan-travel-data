@@ -12,8 +12,8 @@ Open CSV and JSON for road trips, updated every day by a GitHub Action from the 
 - **Exchange rates** — 150+ currencies per EUR
 - **Food cost index** — 92 countries, world average = 100
 - **Vanlife weather scores** — 160+ countries, 0–100 with sleep / drive / solar / sea sub-scores
-- **Reference** — toll roads (85 countries), power plugs and voltage (229), public and school
-  holidays (212), customs rules, license plates (199), passport ranking
+- **Reference** — toll roads (80+ countries), power plugs and voltage (220+), public and school
+  holidays (210+), customs rules, license plates (199), passport ranking
 
 Every day adds a row per country to `history/`, so the repository is also a time series.
 
