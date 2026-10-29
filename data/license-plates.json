@@ -182,8 +182,8 @@
    "example": {
     "formatted": "CB·33·GO NSW",
     "image": {
-     "png": "https://openvan.camp/api/plates/au/plate.png?number=CB%C2%B733%C2%B7GO&region=NSW&v=ac7c71f3",
-     "svg": "https://openvan.camp/api/plates/au/plate.svg?number=CB%C2%B733%C2%B7GO&region=NSW&v=ac7c71f3"
+     "png": "https://openvan.camp/api/plates/au/plate.png?number=CB%C2%B733%C2%B7GO&region=NSW&v=9864a31d",
+     "svg": "https://openvan.camp/api/plates/au/plate.svg?number=CB%C2%B733%C2%B7GO&region=NSW&v=9864a31d"
     },
     "number": "CB·33·GO",
     "region": "NSW"
@@ -2910,8 +2910,8 @@
    "example": {
     "formatted": "91169 A",
     "image": {
-     "png": "https://openvan.camp/api/plates/om/plate.png?number=91169+A&v=c98db04a",
-     "svg": "https://openvan.camp/api/plates/om/plate.svg?number=91169+A&v=c98db04a"
+     "png": "https://openvan.camp/api/plates/om/plate.png?number=91169+A&v=e342099d",
+     "svg": "https://openvan.camp/api/plates/om/plate.svg?number=91169+A&v=e342099d"
     },
     "number": "91169 A",
     "region": ""
