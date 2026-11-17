@@ -182,7 +182,7 @@
     },
     {
      "currency": "ARS",
-     "rate_per_km_eur": 0.0153,
+     "rate_per_km_eur": 0.0152,
      "rate_per_km_local": 26,
      "seasonal": null,
      "source_url": "https://www.covicen.com.ar/tarifas/",
@@ -192,7 +192,7 @@
     },
     {
      "currency": "ARS",
-     "rate_per_km_eur": 0.0153,
+     "rate_per_km_eur": 0.0152,
      "rate_per_km_local": 26,
      "seasonal": null,
      "source_url": "https://www.covicen.com.ar/tarifas/",
@@ -299,7 +299,7 @@
    "rates": [
     {
      "currency": "AUD",
-     "rate_per_km_eur": 0.2145,
+     "rate_per_km_eur": 0.2142,
      "rate_per_km_local": 0.35,
      "seasonal": null,
      "source_url": "https://www.westlinkm7.com.au/toll-pricing",
@@ -309,7 +309,7 @@
     },
     {
      "currency": "AUD",
-     "rate_per_km_eur": 0.2145,
+     "rate_per_km_eur": 0.2142,
      "rate_per_km_local": 0.35,
      "seasonal": null,
      "source_url": "https://www.westlinkm7.com.au/toll-pricing",
@@ -319,7 +319,7 @@
     },
     {
      "currency": "AUD",
-     "rate_per_km_eur": 0.6436,
+     "rate_per_km_eur": 0.6425,
      "rate_per_km_local": 1.05,
      "seasonal": null,
      "source_url": "https://www.westlinkm7.com.au/toll-pricing",
@@ -340,7 +340,7 @@
    "rates": [
     {
      "currency": "AZN",
-     "rate_per_km_eur": 0.0619,
+     "rate_per_km_eur": 0.062,
      "rate_per_km_local": 0.116,
      "seasonal": null,
      "source_url": "https://report.az/biznes-xeberleri/baki-quba-rusiya-ile-dovlet-serhedi-yolunun-yeni-hissesi-ucun-tarifler-mueyyenlesib",
@@ -350,7 +350,7 @@
     },
     {
      "currency": "AZN",
-     "rate_per_km_eur": 0.0496,
+     "rate_per_km_eur": 0.0497,
      "rate_per_km_local": 0.093,
      "seasonal": null,
      "source_url": "https://report.az/biznes-xeberleri/baki-quba-rusiya-ile-dovlet-serhedi-yolunun-yeni-hissesi-ucun-tarifler-mueyyenlesib",
@@ -360,7 +360,7 @@
     },
     {
      "currency": "AZN",
-     "rate_per_km_eur": 0.0496,
+     "rate_per_km_eur": 0.0497,
      "rate_per_km_local": 0.093,
      "seasonal": null,
      "source_url": "https://report.az/biznes-xeberleri/baki-quba-rusiya-ile-dovlet-serhedi-yolunun-yeni-hissesi-ucun-tarifler-mueyyenlesib",
@@ -601,7 +601,7 @@
    "rates": [
     {
      "currency": "BRL",
-     "rate_per_km_eur": 0.0192,
+     "rate_per_km_eur": 0.0188,
      "rate_per_km_local": 0.12,
      "seasonal": null,
      "source_url": "https://rodovias.motiva.com.br/riosp/noticias/2026/agosto/pedagios-da-via-dutra-e-da-rio-santos-terao-novos-valores-a-part/",
@@ -611,7 +611,7 @@
     },
     {
      "currency": "BRL",
-     "rate_per_km_eur": 0.0384,
+     "rate_per_km_eur": 0.0377,
      "rate_per_km_local": 0.24,
      "seasonal": null,
      "source_url": "https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/ccr-rio-sp/documentos-de-gestao/contrato-e-anexos/riosp-contrato-e-aditivos/contrato-1",
@@ -621,7 +621,7 @@
     },
     {
      "currency": "BRL",
-     "rate_per_km_eur": 0.0192,
+     "rate_per_km_eur": 0.0188,
      "rate_per_km_local": 0.12,
      "seasonal": null,
      "source_url": "https://portal.antt.gov.br/en/resultado/-/asset_publisher/m2By5inRuGGs/content/id/1328379",
@@ -683,7 +683,7 @@
    "rates": [
     {
      "currency": "CAD",
-     "rate_per_km_eur": 0.4767,
+     "rate_per_km_eur": 0.4764,
      "rate_per_km_local": 0.75,
      "seasonal": null,
      "source_url": "https://www.407etr.com/en/rates",
@@ -693,7 +693,7 @@
     },
     {
      "currency": "CAD",
-     "rate_per_km_eur": 0.7119,
+     "rate_per_km_eur": 0.7114,
      "rate_per_km_local": 1.12,
      "seasonal": null,
      "source_url": "https://www.407etr.com/en/rate-chart-medium",
@@ -703,7 +703,7 @@
     },
     {
      "currency": "CAD",
-     "rate_per_km_eur": 0.9534,
+     "rate_per_km_eur": 0.9528,
      "rate_per_km_local": 1.5,
      "seasonal": null,
      "source_url": "https://www.407etr.com/en/rate-chart-heavy",
@@ -761,7 +761,7 @@
      "buy_url": "https://via.admin.ch/",
      "currency": "CHF",
      "period": "year",
-     "price_eur": 43.28,
+     "price_eur": 43.29,
      "price_local": 40,
      "source_url": "https://www.bazg.admin.ch/de/vignette-nationalstrassenabgabe",
      "valid_days": 365,
@@ -818,7 +818,7 @@
    "rates": [
     {
      "currency": "CLP",
-     "rate_per_km_eur": 0.0318,
+     "rate_per_km_eur": 0.0319,
      "rate_per_km_local": 35,
      "seasonal": null,
      "source_url": "https://peajeruta.cl/peajes-ruta-5-sur/",
@@ -828,7 +828,7 @@
     },
     {
      "currency": "CLP",
-     "rate_per_km_eur": 0.0573,
+     "rate_per_km_eur": 0.0574,
      "rate_per_km_local": 63,
      "seasonal": null,
      "source_url": "https://concesiones.mop.gob.cl/peajes-y-porticos/",
@@ -838,7 +838,7 @@
     },
     {
      "currency": "CLP",
-     "rate_per_km_eur": 0.0573,
+     "rate_per_km_eur": 0.0574,
      "rate_per_km_local": 63,
      "seasonal": null,
      "source_url": "https://concesiones.mop.gob.cl/peajes-y-porticos/",
@@ -859,7 +859,7 @@
    "rates": [
     {
      "currency": "CNY",
-     "rate_per_km_eur": 0.0653,
+     "rate_per_km_eur": 0.0654,
      "rate_per_km_local": 0.48,
      "seasonal": null,
      "source_url": "https://www.shanghai.gov.cn/nw12344/20200813/0001-12344_63272.html",
@@ -869,7 +869,7 @@
     },
     {
      "currency": "CNY",
-     "rate_per_km_eur": 0.0653,
+     "rate_per_km_eur": 0.0654,
      "rate_per_km_local": 0.48,
      "seasonal": null,
      "source_url": "https://jt.hlj.gov.cn/jt/c105040/202005/31292921/files/20201106155214231.pdf",
@@ -879,7 +879,7 @@
     },
     {
      "currency": "CNY",
-     "rate_per_km_eur": 0.1306,
+     "rate_per_km_eur": 0.1308,
      "rate_per_km_local": 0.96,
      "seasonal": null,
      "source_url": "https://www.shanghai.gov.cn/nw12344/20200813/0001-12344_63272.html",
@@ -941,7 +941,7 @@
    "rates": [
     {
      "currency": "CRC",
-     "rate_per_km_eur": 0.0599,
+     "rate_per_km_eur": 0.0602,
      "rate_per_km_local": 29.56,
      "seasonal": null,
      "source_url": "https://globalviaruta27.com/tarifas/",
@@ -951,7 +951,7 @@
     },
     {
      "currency": "CRC",
-     "rate_per_km_eur": 0.0599,
+     "rate_per_km_eur": 0.0602,
      "rate_per_km_local": 29.56,
      "seasonal": null,
      "source_url": "https://globalviaruta27.com/tarifas/",
@@ -961,7 +961,7 @@
     },
     {
      "currency": "CRC",
-     "rate_per_km_eur": 0.1493,
+     "rate_per_km_eur": 0.1501,
      "rate_per_km_local": 73.7,
      "seasonal": null,
      "source_url": "https://globalviaruta27.com/tarifas/",
@@ -1093,7 +1093,7 @@
      "buy_url": "https://edalnice.gov.cz/",
      "currency": "CZK",
      "period": "year",
-     "price_eur": 105.28,
+     "price_eur": 105.29,
      "price_local": 2570,
      "source_url": "https://edalnice.gov.cz/en/price-list",
      "valid_days": 365,
@@ -1885,7 +1885,7 @@
      "buy_url": "https://ematrica.nemzetiutdij.hu/",
      "currency": "HUF",
      "period": "day",
-     "price_eur": 21.62,
+     "price_eur": 21.68,
      "price_local": 7890,
      "source_url": "https://nemzetiutdij.hu/api/uploads/e_matrica_arak_2026_pdf_611db0ecc1.pdf",
      "valid_days": 1,
@@ -1896,7 +1896,7 @@
      "buy_url": "https://nemzetiutdij.hu/",
      "currency": "HUF",
      "period": "day",
-     "price_eur": 15.21,
+     "price_eur": 15.25,
      "price_local": 5550,
      "source_url": "https://nemzetiutdij.hu/api/uploads/e_matrica_arak_2026_pdf_611db0ecc1.pdf",
      "valid_days": 1,
@@ -1907,7 +1907,7 @@
      "buy_url": "https://nemzetiutdij.hu/",
      "currency": "HUF",
      "period": "10d",
-     "price_eur": 18.91,
+     "price_eur": 18.96,
      "price_local": 6900,
      "source_url": "https://nemzetiutdij.hu/api/uploads/e_matrica_arak_2026_pdf_611db0ecc1.pdf",
      "valid_days": 10,
@@ -1918,7 +1918,7 @@
      "buy_url": "https://ematrica.nemzetiutdij.hu/",
      "currency": "HUF",
      "period": "10d",
-     "price_eur": 27.51,
+     "price_eur": 27.58,
      "price_local": 10040,
      "source_url": "https://nemzetiutdij.hu/api/uploads/e_matrica_arak_2026_pdf_611db0ecc1.pdf",
      "valid_days": 10,
@@ -1929,7 +1929,7 @@
      "buy_url": "https://nemzetiutdij.hu/",
      "currency": "HUF",
      "period": "month",
-     "price_eur": 30.61,
+     "price_eur": 30.69,
      "price_local": 11170,
      "source_url": "https://nemzetiutdij.hu/api/uploads/e_matrica_arak_2026_pdf_611db0ecc1.pdf",
      "valid_days": 30,
@@ -1940,7 +1940,7 @@
      "buy_url": "https://ematrica.nemzetiutdij.hu/",
      "currency": "HUF",
      "period": "month",
-     "price_eur": 43.35,
+     "price_eur": 43.46,
      "price_local": 15820,
      "source_url": "https://nemzetiutdij.hu/api/uploads/e_matrica_arak_2026_pdf_611db0ecc1.pdf",
      "valid_days": 30,
@@ -1951,7 +1951,7 @@
      "buy_url": "https://nemzetiutdij.hu/",
      "currency": "HUF",
      "period": "year",
-     "price_eur": 169.25,
+     "price_eur": 169.66,
      "price_local": 61760,
      "source_url": "https://nemzetiutdij.hu/api/uploads/e_matrica_arak_2026_pdf_611db0ecc1.pdf",
      "valid_days": 365,
@@ -1962,7 +1962,7 @@
      "buy_url": "https://ematrica.nemzetiutdij.hu/",
      "currency": "HUF",
      "period": "year",
-     "price_eur": 240.2,
+     "price_eur": 240.79,
      "price_local": 87650,
      "source_url": "https://nemzetiutdij.hu/api/uploads/e_matrica_arak_2026_pdf_611db0ecc1.pdf",
      "valid_days": 365,
@@ -2060,7 +2060,7 @@
    "rates": [
     {
      "currency": "INR",
-     "rate_per_km_eur": 0.0169,
+     "rate_per_km_eur": 0.017,
      "rate_per_km_local": 1.75,
      "seasonal": null,
      "source_url": "https://nhai.gov.in/nhai/sites/default/files/mix_file/D-B_Toll_Notification.pdf",
@@ -2070,7 +2070,7 @@
     },
     {
      "currency": "INR",
-     "rate_per_km_eur": 0.0169,
+     "rate_per_km_eur": 0.017,
      "rate_per_km_local": 1.75,
      "seasonal": null,
      "source_url": "https://nhai.gov.in/nhai/sites/default/files/mix_file/D-B_Toll_Notification.pdf",
@@ -2080,7 +2080,7 @@
     },
     {
      "currency": "INR",
-     "rate_per_km_eur": 0.0169,
+     "rate_per_km_eur": 0.017,
      "rate_per_km_local": 1.75,
      "seasonal": null,
      "source_url": "https://ihmcl.co.in/wp-content/uploads/2025/07/Vehicle-Classification-Document.pdf",
@@ -2265,7 +2265,7 @@
    "rates": [
     {
      "currency": "JPY",
-     "rate_per_km_eur": 0.1423,
+     "rate_per_km_eur": 0.1427,
      "rate_per_km_local": 25,
      "seasonal": null,
      "source_url": "https://www.jb-honshi.co.jp/customer_index/guide/kubun/kubun-2.html",
@@ -2275,7 +2275,7 @@
     },
     {
      "currency": "JPY",
-     "rate_per_km_eur": 0.1423,
+     "rate_per_km_eur": 0.1427,
      "rate_per_km_local": 25,
      "seasonal": null,
      "source_url": "https://highwaypost.c-nexco.co.jp/faq/toll/findout/23.html",
@@ -2285,7 +2285,7 @@
     },
     {
      "currency": "JPY",
-     "rate_per_km_eur": 0.1423,
+     "rate_per_km_eur": 0.1427,
      "rate_per_km_local": 25,
      "seasonal": null,
      "source_url": "https://www.jb-honshi.co.jp/customer_index/guide/kubun/kubun-2.html",
@@ -2470,7 +2470,7 @@
    "rates": [
     {
      "currency": "KZT",
-     "rate_per_km_eur": 0.0394,
+     "rate_per_km_eur": 0.0396,
      "rate_per_km_local": 19.34,
      "seasonal": null,
      "source_url": "https://ru.qaj.kz/tollroads/",
@@ -2511,7 +2511,7 @@
    "rates": [
     {
      "currency": "USD",
-     "rate_per_km_eur": 0.0635,
+     "rate_per_km_eur": 0.0636,
      "rate_per_km_local": 0.07,
      "seasonal": null,
      "source_url": "https://laotiantimes.com/2026/01/02/updated-toll-charges-begin-on-vientiane-vang-vieng-expressway/",
@@ -2521,7 +2521,7 @@
     },
     {
      "currency": "USD",
-     "rate_per_km_eur": 0.0635,
+     "rate_per_km_eur": 0.0636,
      "rate_per_km_local": 0.07,
      "seasonal": null,
      "source_url": "https://laotiantimes.com/2026/01/02/updated-toll-charges-begin-on-vientiane-vang-vieng-expressway/",
@@ -2531,7 +2531,7 @@
     },
     {
      "currency": "USD",
-     "rate_per_km_eur": 0.1179,
+     "rate_per_km_eur": 0.1181,
      "rate_per_km_local": 0.13,
      "seasonal": null,
      "source_url": "https://laotiantimes.com/2026/01/02/updated-toll-charges-begin-on-vientiane-vang-vieng-expressway/",
@@ -2634,7 +2634,7 @@
    "rates": [
     {
      "currency": "LKR",
-     "rate_per_km_eur": 0.014,
+     "rate_per_km_eur": 0.0141,
      "rate_per_km_local": 5.151,
      "seasonal": null,
      "source_url": "https://www.rda.gov.lk/",
@@ -2644,7 +2644,7 @@
     },
     {
      "currency": "LKR",
-     "rate_per_km_eur": 0.014,
+     "rate_per_km_eur": 0.0141,
      "rate_per_km_local": 5.151,
      "seasonal": null,
      "source_url": "https://www.rda.gov.lk/",
@@ -2654,7 +2654,7 @@
     },
     {
      "currency": "LKR",
-     "rate_per_km_eur": 0.0248,
+     "rate_per_km_eur": 0.0249,
      "rate_per_km_local": 9.113,
      "seasonal": null,
      "source_url": "https://www.rda.gov.lk/",
@@ -2843,7 +2843,7 @@
    "rates": [
     {
      "currency": "MAD",
-     "rate_per_km_eur": 0.0466,
+     "rate_per_km_eur": 0.0464,
      "rate_per_km_local": 0.51,
      "seasonal": null,
      "source_url": "https://www.adm.co.ma/fr/votre-classe-de-vehicule",
@@ -2853,7 +2853,7 @@
     },
     {
      "currency": "MAD",
-     "rate_per_km_eur": 0.0311,
+     "rate_per_km_eur": 0.0309,
      "rate_per_km_local": 0.34,
      "seasonal": null,
      "source_url": "https://www.adm.co.ma/fr/grille-tarifaire-sur-le-reseau",
@@ -2863,7 +2863,7 @@
     },
     {
      "currency": "MAD",
-     "rate_per_km_eur": 0.0466,
+     "rate_per_km_eur": 0.0464,
      "rate_per_km_local": 0.51,
      "seasonal": null,
      "source_url": "https://www.adm.co.ma/fr/votre-classe-de-vehicule",
@@ -3186,7 +3186,7 @@
    "rates": [
     {
      "currency": "MXN",
-     "rate_per_km_eur": 0.1762,
+     "rate_per_km_eur": 0.1772,
      "rate_per_km_local": 3.61,
      "seasonal": null,
      "source_url": "https://iave.capufe.gob.mx/assets/Doc/Tarifas-vigentes-2026.pdf",
@@ -3196,7 +3196,7 @@
     },
     {
      "currency": "MXN",
-     "rate_per_km_eur": 0.1762,
+     "rate_per_km_eur": 0.1772,
      "rate_per_km_local": 3.61,
      "seasonal": null,
      "source_url": "https://iave.capufe.gob.mx/assets/Doc/Tarifas-vigentes-2026.pdf",
@@ -3206,7 +3206,7 @@
     },
     {
      "currency": "MXN",
-     "rate_per_km_eur": 0.0928,
+     "rate_per_km_eur": 0.0933,
      "rate_per_km_local": 1.9,
      "seasonal": null,
      "source_url": "https://casetas.com.mx/casetas",
@@ -3237,7 +3237,7 @@
     },
     {
      "currency": "MYR",
-     "rate_per_km_eur": 0.0441,
+     "rate_per_km_eur": 0.0442,
      "rate_per_km_local": 0.199,
      "seasonal": null,
      "source_url": "https://litrak.com.my/our-highways/litrak/toll-fares/",
@@ -3391,7 +3391,7 @@
    "rates": [
     {
      "currency": "NOK",
-     "rate_per_km_eur": 0.0644,
+     "rate_per_km_eur": 0.064,
      "rate_per_km_local": 0.68,
      "seasonal": null,
      "source_url": "https://bomkalk.no/bompenger/oslo-trondheim/",
@@ -3401,7 +3401,7 @@
     },
     {
      "currency": "NOK",
-     "rate_per_km_eur": 0.0644,
+     "rate_per_km_eur": 0.064,
      "rate_per_km_local": 0.68,
      "seasonal": null,
      "source_url": "https://www.autopass.no/",
@@ -3411,7 +3411,7 @@
     },
     {
      "currency": "NOK",
-     "rate_per_km_eur": 0.1611,
+     "rate_per_km_eur": 0.16,
      "rate_per_km_local": 1.7,
      "seasonal": null,
      "source_url": "https://www.autopass.no/siteassets/filer-og-vedlegg/04.-takstretningslinjene/takstretninglinjer-for-bompengeprosjekt-pa-offentlig-veg---februar-2025.pdf",
@@ -3555,7 +3555,7 @@
    "rates": [
     {
      "currency": "USD",
-     "rate_per_km_eur": 0.3511,
+     "rate_per_km_eur": 0.3516,
      "rate_per_km_local": 0.387,
      "seasonal": null,
      "source_url": "https://www.ena.com.pa/pag/tarifas",
@@ -3565,7 +3565,7 @@
     },
     {
      "currency": "USD",
-     "rate_per_km_eur": 0.1216,
+     "rate_per_km_eur": 0.1217,
      "rate_per_km_local": 0.134,
      "seasonal": null,
      "source_url": "https://www.ena.com.pa/pag/tarifas",
@@ -3575,7 +3575,7 @@
     },
     {
      "currency": "USD",
-     "rate_per_km_eur": 0.1905,
+     "rate_per_km_eur": 0.1908,
      "rate_per_km_local": 0.21,
      "seasonal": null,
      "source_url": "https://www.ena.com.pa/pag/tarifas",
@@ -3637,7 +3637,7 @@
    "rates": [
     {
      "currency": "PHP",
-     "rate_per_km_eur": 0.1544,
+     "rate_per_km_eur": 0.155,
      "rate_per_km_local": 10.8773,
      "seasonal": null,
      "source_url": "https://cms.nlex.com.ph/api/toll-table",
@@ -3647,7 +3647,7 @@
     },
     {
      "currency": "PHP",
-     "rate_per_km_eur": 0.1544,
+     "rate_per_km_eur": 0.155,
      "rate_per_km_local": 10.8773,
      "seasonal": null,
      "source_url": "https://cms.nlex.com.ph/api/toll-table",
@@ -3657,7 +3657,7 @@
     },
     {
      "currency": "PHP",
-     "rate_per_km_eur": 0.0693,
+     "rate_per_km_eur": 0.0696,
      "rate_per_km_local": 4.8825,
      "seasonal": null,
      "source_url": "https://cms.nlex.com.ph/api/toll-table",
@@ -3678,7 +3678,7 @@
    "rates": [
     {
      "currency": "PKR",
-     "rate_per_km_eur": 0.0137,
+     "rate_per_km_eur": 0.0138,
      "rate_per_km_local": 4.19,
      "seasonal": null,
      "source_url": "https://nha.gov.pk/",
@@ -3739,7 +3739,7 @@
     },
     {
      "currency": "PLN",
-     "rate_per_km_eur": 0.093,
+     "rate_per_km_eur": 0.0932,
      "rate_per_km_local": 0.41,
      "seasonal": null,
      "source_url": "https://dziennikustaw.gov.pl/DU/2026/33/D2026000003301.pdf",
@@ -3760,7 +3760,7 @@
    "rates": [
     {
      "currency": "USD",
-     "rate_per_km_eur": 0.0771,
+     "rate_per_km_eur": 0.0772,
      "rate_per_km_local": 0.085,
      "seasonal": null,
      "source_url": "https://www.primerahora.com/noticias/gobierno-politica/notas/con-el-ano-nuevo-llega-el-aumento-en-los-peajes/",
@@ -3822,7 +3822,7 @@
    "rates": [
     {
      "currency": "PYG",
-     "rate_per_km_eur": 0.0303,
+     "rate_per_km_eur": 0.0304,
      "rate_per_km_local": 208,
      "seasonal": null,
      "source_url": "https://mopc.gov.py/rally-del-paraguay-asistencia-en-ruta-y-peajes-lo-que-hay-que-saber-antes-de-viajar/",
@@ -3832,7 +3832,7 @@
     },
     {
      "currency": "PYG",
-     "rate_per_km_eur": 0.0303,
+     "rate_per_km_eur": 0.0304,
      "rate_per_km_local": 208,
      "seasonal": null,
      "source_url": "https://mopc.gov.py/ruta-py02-desde-el-domingo-6-de-julio-rige-la-nueva-tarifa-del-peaje-de-tape-pora-s-a/",
@@ -3842,7 +3842,7 @@
     },
     {
      "currency": "PYG",
-     "rate_per_km_eur": 0.051,
+     "rate_per_km_eur": 0.0512,
      "rate_per_km_local": 350,
      "seasonal": null,
      "source_url": "https://mopc.gov.py/ruta-py02-desde-el-domingo-6-de-julio-rige-la-nueva-tarifa-del-peaje-de-tape-pora-s-a/",
@@ -4042,7 +4042,7 @@
    "rates": [
     {
      "currency": "RUB",
-     "rate_per_km_eur": 0.0493,
+     "rate_per_km_eur": 0.0496,
      "rate_per_km_local": 4.5,
      "seasonal": null,
      "source_url": "https://avtodor-tr.ru/road/calculation/",
@@ -4052,7 +4052,7 @@
     },
     {
      "currency": "RUB",
-     "rate_per_km_eur": 0.0822,
+     "rate_per_km_eur": 0.0826,
      "rate_per_km_local": 7.5,
      "seasonal": null,
      "source_url": "https://www.yuga.ru/news/481222/",
@@ -4062,7 +4062,7 @@
     },
     {
      "currency": "RUB",
-     "rate_per_km_eur": 0.0822,
+     "rate_per_km_eur": 0.0826,
      "rate_per_km_local": 7.5,
      "seasonal": null,
      "source_url": "https://russianhighways.ru/for_drivers/calculation/",
@@ -4492,7 +4492,7 @@
     },
     {
      "currency": "THB",
-     "rate_per_km_eur": 0.0429,
+     "rate_per_km_eur": 0.043,
      "rate_per_km_local": 1.6,
      "seasonal": null,
      "source_url": "https://www.motorway.go.th/m79tollfee/",
@@ -4564,7 +4564,7 @@
    "rates": [
     {
      "currency": "TMT",
-     "rate_per_km_eur": 0.0908,
+     "rate_per_km_eur": 0.0907,
      "rate_per_km_local": 0.35,
      "seasonal": null,
      "source_url": "https://beyan.tm/news/new-toll-rates-announced-for-ashgabat-turkmenabat-",
@@ -4574,7 +4574,7 @@
     },
     {
      "currency": "TMT",
-     "rate_per_km_eur": 0.0908,
+     "rate_per_km_eur": 0.0907,
      "rate_per_km_local": 0.35,
      "seasonal": null,
      "source_url": "https://beyan.tm/news/new-toll-rates-announced-for-ashgabat-turkmenabat-",
@@ -4584,7 +4584,7 @@
     },
     {
      "currency": "TMT",
-     "rate_per_km_eur": 0.3529,
+     "rate_per_km_eur": 0.3523,
      "rate_per_km_local": 1.36,
      "seasonal": null,
      "source_url": "https://beyan.tm/news/new-toll-rates-announced-for-ashgabat-turkmenabat-",
@@ -4605,7 +4605,7 @@
    "rates": [
     {
      "currency": "TND",
-     "rate_per_km_eur": 0.0087,
+     "rate_per_km_eur": 0.0086,
      "rate_per_km_local": 0.0287,
      "seasonal": null,
      "source_url": "https://www.tunisieautoroutes.tn/tarif-peages/",
@@ -4656,7 +4656,7 @@
     },
     {
      "currency": "TRY",
-     "rate_per_km_eur": 0.016,
+     "rate_per_km_eur": 0.0161,
      "rate_per_km_local": 0.89,
      "seasonal": null,
      "source_url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Otoyollar/UcretlerYeni.aspx",
@@ -4687,7 +4687,7 @@
    "rates": [
     {
      "currency": "TWD",
-     "rate_per_km_eur": 0.033,
+     "rate_per_km_eur": 0.0331,
      "rate_per_km_local": 1.2,
      "seasonal": null,
      "source_url": "https://www.freeway.gov.tw/Rate.aspx",
@@ -4697,7 +4697,7 @@
     },
     {
      "currency": "TWD",
-     "rate_per_km_eur": 0.033,
+     "rate_per_km_eur": 0.0331,
      "rate_per_km_local": 1.2,
      "seasonal": null,
      "source_url": "https://www.freeway.gov.tw/Rate.aspx",
@@ -4707,7 +4707,7 @@
     },
     {
      "currency": "TWD",
-     "rate_per_km_eur": 0.0413,
+     "rate_per_km_eur": 0.0414,
      "rate_per_km_local": 1.5,
      "seasonal": null,
      "source_url": "https://www.freeway.gov.tw/Rate.aspx",
@@ -4861,7 +4861,7 @@
     },
     {
      "currency": "USD",
-     "rate_per_km_eur": 0.0907,
+     "rate_per_km_eur": 0.0908,
      "rate_per_km_local": 0.1,
      "seasonal": null,
      "source_url": "https://www.ohioturnpike.org/docs/default-source/schedule-of-tolls/new-toll-system/2026-schedule-of-tolls---new-toll-system.pdf",
@@ -4871,7 +4871,7 @@
     },
     {
      "currency": "USD",
-     "rate_per_km_eur": 0.068,
+     "rate_per_km_eur": 0.0681,
      "rate_per_km_local": 0.075,
      "seasonal": null,
      "source_url": "https://www.ohioturnpike.org/docs/default-source/schedule-of-tolls/new-toll-system/2026-schedule-of-tolls---new-toll-system.pdf",
@@ -4933,7 +4933,7 @@
    "rates": [
     {
      "currency": "UZS",
-     "rate_per_km_eur": 0.0378,
+     "rate_per_km_eur": 0.038,
      "rate_per_km_local": 502.86,
      "seasonal": null,
      "source_url": "https://lex.uz/ru/docs/8517318",
@@ -4943,7 +4943,7 @@
     },
     {
      "currency": "UZS",
-     "rate_per_km_eur": 0.0378,
+     "rate_per_km_eur": 0.038,
      "rate_per_km_local": 502.86,
      "seasonal": null,
      "source_url": "https://lex.uz/ru/docs/8517318",
@@ -4953,7 +4953,7 @@
     },
     {
      "currency": "UZS",
-     "rate_per_km_eur": 0.1892,
+     "rate_per_km_eur": 0.1899,
      "rate_per_km_local": 2514.29,
      "seasonal": null,
      "source_url": "https://lex.uz/ru/docs/8517318",
@@ -4994,7 +4994,7 @@
     },
     {
      "currency": "VND",
-     "rate_per_km_eur": 0.0689,
+     "rate_per_km_eur": 0.0688,
      "rate_per_km_local": 1950,
      "seasonal": null,
      "source_url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/130-cp.signed.pdf",
