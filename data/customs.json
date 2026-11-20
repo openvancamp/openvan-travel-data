@@ -43,7 +43,7 @@
    "name": "European Union"
   }
  },
- "built": "2026-10-02",
+ "built": "2026-11-20",
  "jurisdictions": [
   {
    "code": "EU",
@@ -86,6 +86,15 @@
    "topics": [
     "cash",
     "medicines"
+   ]
+  },
+  {
+   "code": "MA",
+   "topics": [
+    "cash",
+    "alcohol",
+    "tobacco",
+    "drones"
    ]
   },
   {

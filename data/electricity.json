@@ -724,9 +724,7 @@
    "frequency": 50,
    "name": "United Kingdom",
    "plugs": [
-    "D",
-    "G",
-    "M"
+    "G"
    ],
    "voltage": 230
   },
